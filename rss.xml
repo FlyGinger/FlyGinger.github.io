@@ -6,8 +6,8 @@
     <link>https://flyginger.top/</link>
     <description>zenk's blog</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 May 2021 10:10:36 GMT</pubDate>
-    <lastBuildDate>Sun, 23 May 2021 10:10:36 GMT</lastBuildDate>
+    <pubDate>Sun, 23 May 2021 10:23:05 GMT</pubDate>
+    <lastBuildDate>Sun, 23 May 2021 10:23:05 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by zenk</copyright>
@@ -18,7 +18,7 @@
       <link>https://flyginger.top/intro/</link>
       <guid>https://flyginger.top/intro/</guid>
       <source url="https://flyginger.top/rss.xml">个人介绍</source>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
 <p>hidden now.</p>
 ]]></content:encoded>
@@ -29,7 +29,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论1 算法的概念</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论1-算法的概念"> 算法导论1 算法的概念</h1>
 <p>通俗地讲，<strong>算法</strong>（algorithm）是以值或一组值作为<strong>输入</strong>（input），<strong>输出</strong>（output）值或一组值的计算步骤，也可以把算法看作解决<strong>计算问题</strong>（computational problem）的工具。举例来说，<strong>排序问题</strong>（sorting problem）的规范定义是：</p>
 <blockquote>
@@ -50,7 +50,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论10 基础数据结构</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论10-基础数据结构"> 算法导论10 基础数据结构</h1>
 <p>集合是数学和计算机科学中常用的概念。算法中的集合往往是<strong>动态</strong>（dynamic）的：算法经常对集合进行添加新数据，删除旧数据等操作。某些动态集合把元素的某一个属性当作<strong>键</strong>（key），用以区分不同的元素。元素中除了键的其他数据称为<strong>卫星数据</strong>（satellite data）。</p>
 <p>对动态集合进行的操作可以分为两大类：<strong>查询</strong>（query）和<strong>修改</strong>（modify）。下面列出了典型的操作，大部分算法中只会用到其中的几种：</p>
@@ -144,7 +144,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论3 函数的增长</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论3-函数的增长"> 算法导论3 函数的增长</h1>
 <p>算法的<strong>渐近</strong>（asymptotic）效率关注的是算法的运行时间如何随着输入规模的增长而增长。本章介绍了分析渐近效率时使用的数学符号和定义，并且给出了一些常用函数之间的渐近效率关系。</p>
 <h2 id="_3-1-渐近符号"> 3.1 渐近符号</h2>
@@ -275,7 +275,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论5 概率分析和随机算法</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论5-概率分析和随机算法"> 算法导论5 概率分析和随机算法</h1>
 <h2 id="_5-1-招聘问题"> 5.1 招聘问题</h2>
 <p>假设你要雇佣新员工。每次你可以花费少量资金，面试一个应聘者。该应聘者的能力是随机的，如果你决定雇佣他，你需要花费一大笔钱。只有当你决定是否雇佣此应聘者之后，你才能面试下一个应聘者。你的策略如下：如果应聘者的能力比上一个被雇佣的应聘者优秀（当没有上一个时直接雇佣），那么雇佣该应聘者；否则就不雇佣该应聘者，继续面试。这种策略的伪代码如下：</p>
@@ -352,7 +352,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
   根据 P 中的优先级为 A 排序
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><code>RANDOM(1, n^3)</code> 会随机生成一个位于 <code>[1, n^3]</code> 区间内的整数。选择 <code>n^3</code> 而不是 <code>n</code> 的原因是要尽可能避免不同位置的权重相同。如果排序使用的算法是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span> 的，那么 <code>PERMUTE-BY-SORTING</code> 算法的运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span> 的。</p>
-<h4 id="引理-5-4"> 引理 5.4</h4>
+<h3 id="引理-5-4"> 引理 5.4</h3>
 <p>如果所有权重各不相同，那么 <code>PERMUTE-BY-SORTING</code> 生成的排列满足均匀随机排列。</p>
 <p>然后介绍一个运行时间更少的算法：</p>
 <div><pre><code>RANDOMIZE-IN-PLACE(A)
@@ -360,7 +360,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
   for i = 1 to n
     将 A[i] 和 A[RANDOM(i, n)] 交换
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h4 id="引理-5-5"> 引理 5.5</h4>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h3 id="引理-5-5"> 引理 5.5</h3>
 <p><code>RANDOMIZE-IN-PLACE</code> 生成的排列满足均匀随机排列。</p>
 ]]></content:encoded>
     </item>
@@ -370,7 +370,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论7 快速排序</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论7-快速排序"> 算法导论7 快速排序</h1>
 <p><strong>快速排序</strong>（quicksort）的最坏情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span><span>n</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>)</span></span></span></span>。虽然如此，快速排序在实际场景中经常是表现最好的，它的期望运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，并且隐含的常数相对小。另外，快速排序还有原地排序的优点。</p>
 <h2 id="_7-1-快速排序"> 7.1 快速排序</h2>
@@ -461,7 +461,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论8 线性时间排序</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论8-线性时间排序"> 算法导论8 线性时间排序</h1>
 <p>前几章中提到的几种排序方法，例如插入排序、归并排序、堆排序和快速排序，有一个共同点：顺序判断仅基于元素间的比较。这类排序算法称为<strong>比较排序</strong>（comparsion sort）。</p>
 <p>接下来会先证明比较排序算法都是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Ω</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，然后给出几个可以在线性时间内排序的算法。</p>
@@ -593,7 +593,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</link>
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论</source>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论"> 算法导论</h1>
 <ul>
 <li>I 基础概念
@@ -628,7 +628,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/</link>
       <guid>https://flyginger.top/</guid>
       <source url="https://flyginger.top/rss.xml">zenk's blog</source>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
     </item>
     <item>
       <title>算法导论12 二叉搜索树</title>
@@ -636,7 +636,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论12 二叉搜索树</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论12-二叉搜索树"> 算法导论12 二叉搜索树</h1>
 <h2 id="_12-1-二叉搜索树"> 12.1 二叉搜索树</h2>
 <p>以下是两棵二叉搜索树：</p>
@@ -820,7 +820,7 @@ TREE-MAXIMUM(x)
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论2 设计算法的流程</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论2-设计算法的流程"> 算法导论2 设计算法的流程</h1>
 <p>设计、证明、分析是处理计算问题的基本步骤。本章以排序问题为例，遍历了这三个基本步骤。首先给出了一个算法（插入排序），证明了它的正确性，分析了它的运行时间。然后使用另一种设计思想（分治）设计了另一种算法（归并排序），同样证明了它的正确性，分析了它的运行时间。</p>
 <h2 id="_2-1-插入排序"> 2.1 插入排序</h2>
@@ -1021,7 +1021,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论4 分治</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论4-分治"> 算法导论4 分治</h1>
 <p><strong>递推式</strong>（recurrence）是使用更小输入的项来描述当前项的等式或不等式。本章提供了三种求解递推式的方法，分别是<strong>替换法</strong>（substitution method），<strong>递归树法</strong>（recursion-tree method），<strong>主方法</strong>（master method）。</p>
 <h2 id="_4-1-最大子数组问题"> 4.1 最大子数组问题</h2>
@@ -1171,7 +1171,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论6 堆排序</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论6-堆排序"> 算法导论6 堆排序</h1>
 <h2 id="_6-1-堆"> 6.1 堆</h2>
 <p><strong>二叉堆</strong>（binary heap）是一种可以看成完全二叉树的数组，一般简称为堆。满二叉树是满足以下两个条件的二叉树：</p>
@@ -1326,7 +1326,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论9 中位数和顺序统计</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论9-中位数和顺序统计"> 算法导论9 中位数和顺序统计</h1>
 <p>第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 位顺序统计是指 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个元素的集合中第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 小的元素。那么元素集合的<strong>最小值</strong>（minimum）就是第一个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>），<strong>最大值</strong>（maximum）就是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>）。</p>
 <p><strong>中位数</strong>（median）是集合中位于“中间”的元素。当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为奇数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span></span></span></span> 个顺序统计；当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为偶数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span></span></span></span> 和第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span> 两个顺序统计的平均数。通常把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌊(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌋</span></span></span></span> 称为<strong>下中位数</strong>（lower median），把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌉</span></span></span></span> 称为<strong>上中位数</strong>（upper median）。为简化描述，下文中的中位数均指下中位数。</p>
@@ -1407,7 +1407,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/</guid>
       <source url="https://flyginger.top/rss.xml">快速排序的优化</source>
       <category>每日迷惑</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="快速排序的优化"> 快速排序的优化</h1>
 <p>在对快速排序进行优化之前，回忆一下部分基于比较的排序算法的时间复杂度。</p>
 <table>
@@ -1616,15 +1616,14 @@ BenchmarkGoSort-8              9        1197205511 ns/op
       <guid>https://flyginger.top/post/2021-05-22%20PyNN/</guid>
       <source url="https://flyginger.top/rss.xml">PyNN</source>
       <category>每日迷惑</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="pynn"> PyNN</h1>
 <p><a href="http://neuralensemble.org/PyNN/" target="_blank" rel="noopener noreferrer">PyNN</a>（发音与 pine 相同）是一种用于构建神经网络模型的语言，且独立于模拟器。使用 PyNN 的 API 和 Python 编程语言编写的模型代码，无需修改即可运行于多种 PyNN 支持的模拟器后端或者神经拟态（neuronmorphic）硬件系统。</p>
 <h2 id="安装"> 安装</h2>
 <p>待续。</p>
-<h2 id="构建"> 构建</h2>
+<h2 id="构建神经元"> 构建神经元</h2>
 <p>一般来说，神经网络构建的基本思路是自底向上的。先描述各个神经元，然后再描述连接各个神经元的网络。PyNN 也遵循这个基本思路。</p>
-<h3 id="神经元"> 神经元</h3>
-<h4 id="神经元类型-cell-type"> 神经元类型（Cell Type）</h4>
+<h3 id="神经元类型-cell-type"> 神经元类型（Cell Type）</h3>
 <p>在 PyNN 中，定义神经元模型的等式组被封装在 <code>CellType</code> 类中。PyNN 提供一个标准神经元类型库，其中的各种类型在所有的模拟器后端上都能一致运行。需要注意的是，这里的神经元类型是数学意义上的神经元类型。生物学意义上不同的神经元类型可能可以用参数不同的同一种数学神经元类型表示。下文中会混淆使用数学神经元类型和生物神经元类型两个概念，统称为神经元类型。</p>
 <p>举例来说，标准库中提供了神经元类型 <code>EIF_cond_exp_isfa_ista</code>。通过不同的参数，可以得到不同的神经元类型 thalamocortical relay neurons 和 cortical neurons。</p>
 <div><pre><code><span>>></span><span>></span> <span># 参数一</span>
@@ -1644,10 +1643,10 @@ BenchmarkGoSort-8              9        1197205511 ns/op
 <div><pre><code><span>>></span><span>></span> <span>print</span><span>(</span>IF_cond_exp<span>.</span>default_parameters<span>)</span>
 <span>{</span><span>'tau_refrac'</span><span>:</span> <span>0.1</span><span>,</span> <span>'cm'</span><span>:</span> <span>1.0</span><span>,</span> <span>'tau_syn_E'</span><span>:</span> <span>5.0</span><span>,</span> <span>'v_rest'</span><span>:</span> <span>-</span><span>65.0</span><span>,</span> <span>'tau_syn_I'</span><span>:</span> <span>5.0</span><span>,</span> <span>'tau_m'</span><span>:</span> <span>20.0</span><span>,</span> <span>'e_rev_E'</span><span>:</span> <span>0.0</span><span>,</span> <span>'i_offset'</span><span>:</span> <span>0.0</span><span>,</span> <span>'e_rev_I'</span><span>:</span> <span>-</span><span>70.0</span><span>,</span> <span>'v_thresh'</span><span>:</span> <span>-</span><span>50.0</span><span>,</span> <span>'v_reset'</span><span>:</span> <span>-</span><span>65.0</span><span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h4 id="族群-population"> 族群（Population）</h4>
-<p>::: warn
-Population 的翻译暂定为族群。
-:::</p>
+<div><span>1</span><br><span>2</span><br></div></div><h3 id="族群-population"> 族群（Population）</h3>
+<div><p>注意</p>
+<p>Population 的翻译暂定为族群。</p>
+</div>
 <p>PyNN 是为神经元网络建模而设计的，因此默认的抽象层次是<strong>相同类型神经元构成的族群</strong>，而不是单个神经元。在 PyNN 中，使用 <code>Population</code> 类来表示族群。</p>
 <div><pre><code><span>>></span><span>></span> tc_cells <span>=</span> Population<span>(</span><span>100</span><span>,</span> thalamocortical_type<span>)</span>
 <span>>></span><span>></span> ctx_cells <span>=</span> Population<span>(</span><span>500</span><span>,</span> cortical_type<span>)</span>
@@ -1673,7 +1672,7 @@ Population 的翻译暂定为族群。
 <div><pre><code><span>>></span><span>></span> cells <span>=</span> create<span>(</span>my_cell_type<span>,</span> n<span>=</span><span>100</span><span>)</span>
 <span>>></span><span>></span> cells <span>=</span> Population<span>(</span><span>100</span><span>,</span> my_cell_type<span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h4 id="视图-view"> 视图（View）</h4>
+<div><span>1</span><br><span>2</span><br></div></div><h3 id="视图-view"> 视图（View）</h3>
 <p>对族群的子集进行某些操作的需求也是经常出现的，例如修改参数值，添加连接或者记录数值变化等。可以通过 Python 的切片索引创建视图。</p>
 <div><pre><code><span>>></span><span>></span> n <span>=</span> ctx_cells<span>[</span><span>47</span><span>]</span>            <span># 族群中的第 48 个神经元</span>
 <span>>></span><span>></span> view <span>=</span> ctx_cells<span>[</span><span>:</span><span>80</span><span>]</span>        <span># 前 80 个神经元</span>
@@ -1690,10 +1689,10 @@ Population 的翻译暂定为族群。
 <span>>></span><span>></span> view<span>.</span>mask
 array<span>(</span><span>[</span><span>150</span><span>,</span> <span>181</span><span>,</span> <span>53</span><span>,</span> <span>149</span><span>,</span> <span>496</span><span>,</span> <span>499</span><span>,</span> <span>240</span><span>,</span> <span>444</span><span>,</span> <span>13</span><span>,</span> <span>100</span><span>,</span> <span>28</span><span>,</span> <span>19</span><span>,</span> <span>101</span><span>,</span> <span>122</span><span>,</span> <span>143</span><span>,</span> <span>486</span><span>,</span> <span>467</span><span>,</span> <span>492</span><span>,</span> <span>406</span><span>,</span> <span>90</span><span>,</span> <span>136</span><span>,</span> <span>173</span><span>,</span> <span>8</span><span>,</span> <span>341</span><span>,</span> <span>5</span><span>,</span> <span>348</span><span>,</span> <span>188</span><span>,</span> <span>63</span><span>,</span> <span>129</span><span>,</span> <span>416</span><span>,</span> <span>307</span><span>,</span> <span>298</span><span>,</span> <span>60</span><span>,</span> <span>180</span><span>,</span> <span>382</span><span>,</span> <span>47</span><span>,</span> <span>484</span><span>,</span> <span>370</span><span>,</span> <span>223</span><span>,</span> <span>147</span><span>,</span> <span>72</span><span>,</span> <span>32</span><span>,</span> <span>261</span><span>,</span> <span>193</span><span>,</span> <span>249</span><span>,</span> <span>212</span><span>,</span> <span>58</span><span>,</span> <span>87</span><span>,</span> <span>86</span><span>,</span> <span>456</span><span>]</span><span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h4 id="集群-assembly"> 集群（Assembly）</h4>
-<p>::: warn
-Assembly 的翻译暂定为集群。这个翻译不太好，会和 cluster 混淆。
-:::</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h3 id="集群-assembly"> 集群（Assembly）</h3>
+<div><p>注意</p>
+<p>Assembly 的翻译暂定为集群。这个翻译不太好，会和 cluster 混淆。</p>
+</div>
 <p><code>Assembly</code> 是 <code>Population</code> 和 <code>PopulationView</code> 的集合。<code>Assembly</code> 可以通过 <code>Population</code> 或 <code>PopulationView</code> 对象之间的加法得到，也可以直接构造：</p>
 <div><pre><code><span>>></span><span>></span> all_cells <span>=</span> tc_cells <span>+</span> ctx_cells
 <span>>></span><span>></span> cells_for_plotting <span>=</span> tc_cells<span>[</span><span>:</span><span>10</span><span>]</span> <span>+</span> ctx_cells<span>[</span><span>:</span><span>50</span><span>]</span>
@@ -1704,7 +1703,7 @@ Assembly 的翻译暂定为集群。这个翻译不太好，会和 cluster 混�
 Population<span>(</span><span>100</span><span>,</span> EIF_cond_exp_isfa_ista<span>(</span><span>&lt;</span>parameters<span>></span><span>)</span><span>,</span> structure<span>=</span>RandomStructure<span>(</span>origin<span>=</span><span>(</span><span>0.0</span><span>,</span> <span>0.0</span><span>,</span> <span>0.0</span><span>)</span><span>,</span> boundary<span>=</span>Sphere<span>(</span>radius<span>=</span><span>200.0</span><span>)</span><span>,</span> rng<span>=</span>NumpyRNG<span>(</span>seed<span>=</span><span>None</span><span>)</span><span>)</span><span>,</span> label<span>=</span><span>'Thalamocortical neurons'</span><span>)</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br></div></div><p>也可以通过迭代 <code>Assembly</code> 的 <code>populations</code> 属性来访问各个族群。</p>
-<h4 id="查看和修改参数值和初始条件"> 查看和修改参数值和初始条件</h4>
+<h3 id="查看和修改参数值和初始条件"> 查看和修改参数值和初始条件</h3>
 <p>可以使用 <code>get()</code> 方法查看族群、视图和集群的参数。</p>
 <div><pre><code><span>>></span><span>></span> ctx_cells<span>.</span>get<span>(</span><span>'tau_m'</span><span>)</span>
 <span>20.0</span>
@@ -1727,7 +1726,7 @@ array<span>(</span><span>[</span> <span>2.64655001</span><span>,</span>  <span>2
 <div><pre><code><span>>></span><span>></span> ctx_cells<span>.</span>celltype<span>.</span>default_initial_values
 <span>{</span><span>'gsyn_exc'</span><span>:</span> <span>0.0</span><span>,</span> <span>'gsyn_inh'</span><span>:</span> <span>0.0</span><span>,</span> <span>'w'</span><span>:</span> <span>0.0</span><span>,</span> <span>'v'</span><span>:</span> <span>-</span><span>70.6</span><span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h4 id="向神经元输送电流"> 向神经元输送电流</h4>
+<div><span>1</span><br><span>2</span><br></div></div><h3 id="向神经元输送电流"> 向神经元输送电流</h3>
 <p>PyNN 提供多种电流相关的类，均为 <code>CurrentSource</code> 的子类。可以通过 <code>CurrentSource</code> 的 <code>inject_into()</code> 方法向神经元输送电流。</p>
 <div><pre><code><span>>></span><span>></span> pulse <span>=</span> DCSource<span>(</span>amplitude<span>=</span><span>0.5</span><span>,</span> start<span>=</span><span>20.0</span><span>,</span> stop<span>=</span><span>80.0</span><span>)</span>
 <span>>></span><span>></span> pulse<span>.</span>inject_into<span>(</span>tc_cells<span>)</span>
@@ -1739,7 +1738,7 @@ array<span>(</span><span>[</span> <span>2.64655001</span><span>,</span>  <span>2
 <span>>></span><span>></span> sine_wave <span>=</span> StepCurrentSource<span>(</span>times<span>=</span>times<span>,</span> amplitudes<span>=</span>amplitudes<span>)</span>
 <span>>></span><span>></span> ctx_cells<span>[</span><span>80</span><span>:</span><span>90</span><span>]</span><span>.</span>inject<span>(</span>sine_wave<span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><h4 id="记录变量"> 记录变量</h4>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><h3 id="记录变量"> 记录变量</h3>
 <p><code>CellType</code> 的 <code>recordable</code> 属性给出了该神经元类型中的所有可记录的状态变量。</p>
 <div><pre><code><span>>></span><span>></span> ctx_cells<span>.</span>celltype<span>.</span>recordable
 <span>[</span><span>'spikes'</span><span>,</span> <span>'v'</span><span>,</span> <span>'w'</span><span>,</span> <span>'gsyn_exc'</span><span>,</span> <span>'gsyn_inh'</span><span>]</span>
@@ -1759,7 +1758,7 @@ array<span>(</span><span>[</span> <span>2.64655001</span><span>,</span>  <span>2
 <span>>></span><span>></span> h5file<span>.</span>close<span>(</span><span>)</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><code>get_data()</code> 返回一个 <a href="http://neuralensemble.org/neo/" target="_blank" rel="noopener noreferrer">Neo</a> <code>Block</code> 对象。<code>write_data()</code> 方法同样利用了 Neo。</p>
-<h4 id="单个神经元"> 单个神经元</h4>
+<h3 id="单个神经元"> 单个神经元</h3>
 <p>单个神经元是一个 <code>ID</code> 对象。注意 <code>ID</code> 在不同的模拟器后端中可能有不同的值。</p>
 <div><pre><code><span>>></span><span>></span> tc_cells<span>[</span><span>47</span><span>]</span>
 <span>709</span>
@@ -1782,13 +1781,12 @@ array<span>(</span><span>[</span> <span>2.64655001</span><span>,</span>  <span>2
 <span>>></span><span>></span> a_cell<span>.</span>cm
 <span>0.5</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><h3 id="连接"> 连接</h3>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><h2 id="构建网络"> 构建网络</h2>
 <p>从概念上来说，突触由突触前部（pre-synaptic structure）、突触间隙（synaptic cleft）和突出后部（post-synaptic structure）构成。在 PyNN 中，突触后反应的时间动态（temporal dynamics）由突触后神经元模型处理。突触后反应的烈度（即突触权重，synaptic weight），权重的时间动态（即突触可塑性，synaptic plasticity）和连接的延迟由突触模型处理。</p>
 <p>PyNN 中的突触连接至少需要提供两种属性，权重和延迟。</p>
 <p>本节中用神经元群指代族群、视图或集群对象。</p>
-<h4 id="突触类型-synapse-type"> 突触类型（Synapse Type）</h4>
+<h3 id="突触类型-synapse-type"> 突触类型（Synapse Type）</h3>
 <p>突触模型被封装在 <code>SynapseType</code> 类中。PyNN 提供一个突触类型的标准库，能够保证在各个后端模拟器上的模拟结果是一致的。</p>
-<h5 id="固定权重"> 固定权重</h5>
 <p>PyNN 的默认突触类型，也是最简单的突触类型，就是固定权重突触。</p>
 <div><pre><code>syn <span>=</span> StaticSynapse<span>(</span>weight<span>=</span><span>0.04</span><span>,</span> delay<span>=</span><span>0.5</span><span>)</span>
 </code></pre>
@@ -1799,8 +1797,7 @@ syn <span>=</span> StaticSynapse<span>(</span>weight<span>=</span>w<span>,</span
 </code></pre>
 <div><span>1</span><br><span>2</span><br></div></div><div><pre><code>syn <span>=</span> StaticSynapse<span>(</span>weight<span>=</span>w<span>,</span> delay<span>=</span><span>"0.2 + 0.01*d"</span><span>)</span>
 </code></pre>
-<div><span>1</span><br></div></div><h5 id="短期突触可塑性"> 短期突触可塑性</h5>
-<p>PyNN 提供一个短期突触可塑性（short-term synaptic plasticity）的标准模型。</p>
+<div><span>1</span><br></div></div><p>PyNN 提供一个短期突触可塑性（short-term synaptic plasticity）的标准模型。</p>
 <div><pre><code><span># depressing - 抑制</span>
 depressing_synapse <span>=</span> TsodyksMarkramSynapse<span>(</span>weight<span>=</span>w<span>,</span> delay<span>=</span><span>0.2</span><span>,</span> U<span>=</span><span>0.5</span><span>,</span> tau_rec<span>=</span><span>800.0</span><span>,</span> tau_facil<span>=</span><span>0.0</span><span>)</span>
 
@@ -1808,33 +1805,28 @@ depressing_synapse <span>=</span> TsodyksMarkramSynapse<span>(</span>weight<span
 tau_rec <span>=</span> RandomDistribution<span>(</span><span>'normal'</span><span>,</span> <span>[</span><span>100.0</span><span>,</span> <span>10.0</span><span>]</span><span>)</span>
 facilitating_synapse <span>=</span> TsodyksMarkramSynapse<span>(</span>weight<span>=</span>w<span>,</span> delay<span>=</span><span>0.5</span><span>,</span> U<span>=</span><span>0.04</span><span>,</span> tau_rec<span>=</span>tau_rec<span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h5 id="脉冲时序依赖可塑性"> 脉冲时序依赖可塑性</h5>
-<p>脉冲时序依赖可塑性（STDP，spike-timing-dependent plasticity）与其他的标准模型略有不同。STDP 突触类型由两个独立的权重依赖（weight-dependence）和时序依赖（timing-dependence）组件构成。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>脉冲时序依赖可塑性（STDP，spike-timing-dependent plasticity）与其他的标准模型略有不同。STDP 突触类型由两个独立的权重依赖（weight-dependence）和时序依赖（timing-dependence）组件构成。</p>
 <div><pre><code>stdp <span>=</span> STDPMechanism<span>(</span>
     weight<span>=</span><span>0.02</span><span>,</span>  <span># 权重初值</span>
     delay<span>=</span><span>"0.2 + 0.01*d"</span><span>,</span>
     timing_dependence<span>=</span>SpikePairRule<span>(</span>tau_plus<span>=</span><span>20.0</span><span>,</span> tau_minus<span>=</span><span>20.0</span><span>,</span> A_plus<span>=</span><span>0.01</span><span>,</span> A_minus<span>=</span><span>0.012</span><span>)</span><span>,</span>
     weight_dependence<span>=</span>AdditiveWeightDependence<span>(</span>w_min<span>=</span><span>0</span><span>,</span> w_max<span>=</span><span>0.04</span><span>)</span><span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><h4 id="连接算法"> 连接算法</h4>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><h3 id="连接算法"> 连接算法</h3>
 <p>PyNN 中每种用于确定哪些突触前神经元连接哪些突触后神经元的算法（connection algorithm，也称为 connection method 或 wiring method）被封装在单独的类中。</p>
 <p>每一个这样的类都是 <code>Connector</code> 的子类，并且实现了 <code>connect(Projection)</code> 方法。注意 <code>Connector</code> 对象只是一种连接方法，并未建立实际的连接。</p>
-<h5 id="全连接"> 全连接</h5>
 <p>突触前神经元群中的每个神经元都连接到突触后神经元群的每个神经元。<code>AllToAllConnector</code> 类提供了这样的连接，其构造器只需要一个可选参数 <code>allow_self_connections</code>，其默认值为 <code>True</code>，代表突触前神经元群和突触后神经元群是同一个神经元群。</p>
 <div><pre><code>connector <span>=</span> AllToAllConnector<span>(</span>allow_self_connections<span>=</span><span>False</span><span>)</span>
 </code></pre>
-<div><span>1</span><br></div></div><h5 id="一对一连接"> 一对一连接</h5>
-<p><code>OneToOneConnector</code> 要求突触前和突触后神经元群中的神经元数量相同。两个神经元群中索引相同的神经元将被连接到一起。</p>
+<div><span>1</span><br></div></div><p><code>OneToOneConnector</code> 要求突触前和突触后神经元群中的神经元数量相同。两个神经元群中索引相同的神经元将被连接到一起。</p>
 <div><pre><code>connector <span>=</span> OneToOneConnector<span>(</span><span>)</span>
 </code></pre>
-<div><span>1</span><br></div></div><h5 id="连接集代数"> 连接集代数</h5>
-<p>连接集代数（CSA，Connection Set Algebra）是一个复杂的系统，可以用精简的语法描述精细的连接模式。</p>
+<div><span>1</span><br></div></div><p>连接集代数（CSA，Connection Set Algebra）是一个复杂的系统，可以用精简的语法描述精细的连接模式。</p>
 <div><pre><code><span>import</span> csa
 cset <span>=</span> csa<span>.</span>full <span>-</span> csa<span>.</span>oneToOne
 connector <span>=</span> CSAConnector<span>(</span>cset<span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h5 id="列表法"> 列表法</h5>
-<p>可以通过列表列出所有的连接。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>可以通过列表列出所有的连接。</p>
 <div><pre><code>connections <span>=</span> <span>[</span>
   <span>(</span><span>0</span><span>,</span> <span>0</span><span>,</span> <span>0.0</span><span>,</span> <span>0.1</span><span>)</span><span>,</span>
   <span>(</span><span>0</span><span>,</span> <span>1</span><span>,</span> <span>0.0</span><span>,</span> <span>0.1</span><span>)</span><span>,</span>
@@ -1843,20 +1835,19 @@ connector <span>=</span> CSAConnector<span>(</span>cset<span>)</span>
 <span>]</span>
 connector <span>=</span> FromListConnector<span>(</span>connections<span>,</span> column_names<span>=</span><span>[</span><span>"weight"</span><span>,</span> <span>"delay"</span><span>]</span><span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><h5 id="从文件中读取"> 从文件中读取</h5>
-<p>连接模式也可以从文件中读取，但是文件开头需要有一行“表头”，指定每一列的含义。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>连接模式也可以从文件中读取，但是文件开头需要有一行“表头”，指定每一列的含义。</p>
 <div><pre><code># columns = [&quot;i&quot;, &quot;j&quot;, &quot;weight&quot;, &quot;delay&quot;, &quot;U&quot;, &quot;tau_rec&quot;]
 </code></pre>
 <div><span>1</span><br></div></div><p>表体中的列需要使用空格间隔。</p>
 <div><pre><code>connector <span>=</span> FromFileConnector<span>(</span><span>"connections.txt"</span><span>)</span>
 </code></pre>
-<div><span>1</span><br></div></div><h5 id="连接矩阵"> 连接矩阵</h5>
+<div><span>1</span><br></div></div><p>连接矩阵。</p>
 <div><pre><code>connections <span>=</span> numpy<span>.</span>array<span>(</span><span>[</span><span>[</span><span>0</span><span>,</span> <span>1</span><span>,</span> <span>1</span><span>,</span> <span>0</span><span>]</span><span>,</span>
                            <span>[</span><span>1</span><span>,</span> <span>1</span><span>,</span> <span>0</span><span>,</span> <span>1</span><span>]</span><span>,</span>
                            <span>[</span><span>0</span><span>,</span> <span>0</span><span>,</span> <span>1</span><span>,</span> <span>0</span><span>]</span><span>]</span><span>,</span> dtype<span>=</span><span>bool</span><span>)</span>
 connector <span>=</span> ArrayConnector<span>(</span>connections<span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h4 id="投影-projection"> 投影（Projection）</h4>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h3 id="投影-projection"> 投影（Projection）</h3>
 <p>投影是两个神经元群之间的连接集合。构造投影的同时，PyNN 会进行实际的连接。构造投影必须指定突触前神经元群，突触后神经元群，连接方法，突触类型。</p>
 <p>还有一些可选参数。首先是突触后机制，如果不指定，PyNN 会根据突触类型的权重参数自动选择。然后是标签，不指定时会自动生成。最后是 <code>Space</code> 对象，指定了突触前和突触后神经元间的距离应该如何计算。</p>
 <p>简单的例子。</p>
@@ -1879,8 +1870,7 @@ inhibitory_connections <span>=</span> Projection<span>(</span>
     space<span>=</span>space<span>,</span>
     label<span>=</span><span>"inhibitory connections"</span><span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><h5 id="访问和修改权重和延迟"> 访问和修改权重和延迟</h5>
-<p>使用 <code>get()</code> 方法访问连接。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p>使用 <code>get()</code> 方法访问投影中的连接。</p>
 <div><pre><code><span>>></span><span>></span> excitatory_connections<span>.</span>get<span>(</span><span>'weight'</span><span>,</span> <span>format</span><span>=</span><span>'list'</span><span>)</span><span>[</span><span>3</span><span>:</span><span>7</span><span>]</span>
 <span>[</span><span>(</span><span>3</span><span>,</span> <span>0</span><span>,</span> <span>0.123</span><span>)</span><span>,</span> <span>(</span><span>4</span><span>,</span> <span>0</span><span>,</span> <span>0.123</span><span>)</span><span>,</span> <span>(</span><span>5</span><span>,</span> <span>0</span><span>,</span> <span>0.123</span><span>)</span><span>,</span> <span>(</span><span>6</span><span>,</span> <span>0</span><span>,</span> <span>0.123</span><span>)</span><span>]</span>
 <span>>></span><span>></span> inhibitory_connections<span>.</span>get<span>(</span><span>'delay'</span><span>,</span> <span>format</span><span>=</span><span>'array'</span><span>)</span><span>[</span><span>:</span><span>3</span><span>,</span><span>:</span><span>5</span><span>]</span>
@@ -1892,7 +1882,7 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
 <div><pre><code><span>>></span><span>></span> excitatory_connections<span>.</span>get<span>(</span><span>'weight'</span><span>,</span> <span>format</span><span>=</span><span>'list'</span><span>,</span> with_address<span>=</span><span>False</span><span>)</span><span>[</span><span>3</span><span>:</span><span>7</span><span>]</span>
 <span>[</span><span>0.123</span><span>,</span> <span>0.123</span><span>,</span> <span>0.123</span><span>,</span> <span>0.123</span><span>]</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>使用 <code>set()</code> 方法设置连接的参数。</p>
+<div><span>1</span><br><span>2</span><br></div></div><p>使用 <code>set()</code> 方法设置投影中连接的参数。</p>
 <div><pre><code><span>>></span><span>></span> excitatory_connections<span>.</span><span>set</span><span>(</span>weight<span>=</span><span>0.02</span><span>)</span>
 <span>>></span><span>></span> excitatory_connections<span>.</span><span>set</span><span>(</span>weight<span>=</span>RandomDistribution<span>(</span><span>'gamma'</span><span>,</span> <span>[</span><span>1</span><span>,</span> <span>0.1</span><span>]</span><span>)</span><span>,</span> delay<span>=</span><span>0.3</span><span>)</span>
 <span>>></span><span>></span> inhibitory_connections<span>.</span><span>set</span><span>(</span>U<span>=</span>numpy<span>.</span>linspace<span>(</span><span>0.4</span><span>,</span> <span>0.6</span><span>,</span> <span>len</span><span>(</span>inhibitory_connections<span>)</span><span>)</span><span>,</span> tau_rec<span>=</span><span>500.0</span><span>,</span> tau_facil<span>=</span><span>0.1</span><span>)</span>
@@ -1909,7 +1899,7 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论11 哈希表</source>
       <category>算法导论</category>
-      <pubDate>Sun, 23 May 2021 10:09:38 GMT</pubDate>
+      <pubDate>Sun, 23 May 2021 10:22:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论11-哈希表"> 算法导论11 哈希表</h1>
 <p>很多应用需要一种只支持 <code>INSERT</code>、<code>SEARCH</code>、<code>DELETE</code> 即可的动态集合。<strong>哈希表</strong>（hashing table）是能够高效实现这种动态集合的数据结构，类似的动态集合通常被称为<strong>字典</strong>（dictionary）。一般认为哈希表中搜索的平均情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h2 id="_11-1-直接寻址"> 11.1 直接寻址</h2>
