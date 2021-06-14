@@ -6,7 +6,7 @@
   <author>
     <name>zenk</name>
   </author>
-  <updated>2021-06-14T13:27:17.815Z</updated>
+  <updated>2021-06-14T13:37:04.435Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://flyginger.top/atom.xml"/>
   <link rel="alternate" href="https://flyginger.top/"/>
@@ -21,7 +21,7 @@
     <title type="html">个人介绍</title>
     <id>https://flyginger.top/intro/</id>
     <link href="https://flyginger.top/intro/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
 <p>hidden now.</p>
 ]]></content>
@@ -31,14 +31,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论1 算法的概念</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论1-算法的概念"> 算法导论1 算法的概念</h1>
 <p>通俗地讲，<strong>算法</strong>（algorithm）是以值或一组值作为<strong>输入</strong>（input），<strong>输出</strong>（output）值或一组值的计算步骤，也可以把算法看作解决<strong>计算问题</strong>（computational problem）的工具。举例来说，<strong>排序问题</strong>（sorting problem）的规范定义是：</p>
 <blockquote>
@@ -59,14 +59,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论10 基础数据结构</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论10-基础数据结构"> 算法导论10 基础数据结构</h1>
 <p>集合是数学和计算机科学中常用的概念。算法中的集合往往是<strong>动态</strong>（dynamic）的：算法经常对集合进行添加新数据，删除旧数据等操作。某些动态集合把元素的某一个属性当作<strong>键</strong>（key），用以区分不同的元素。元素中除了键的其他数据称为<strong>卫星数据</strong>（satellite data）。</p>
 <p>对动态集合进行的操作可以分为两大类：<strong>查询</strong>（query）和<strong>修改</strong>（modify）。下面列出了典型的操作，大部分算法中只会用到其中的几种：</p>
@@ -160,14 +160,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论3 函数的增长</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论3-函数的增长"> 算法导论3 函数的增长</h1>
 <p>算法的<strong>渐近</strong>（asymptotic）效率关注的是算法的运行时间如何随着输入规模的增长而增长。本章介绍了分析渐近效率时使用的数学符号和定义，并且给出了一些常用函数之间的渐近效率关系。</p>
 <h2 id="_3-1-渐近符号"> 3.1 渐近符号</h2>
@@ -298,14 +298,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论5 概率分析和随机算法</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论5-概率分析和随机算法"> 算法导论5 概率分析和随机算法</h1>
 <h2 id="_5-1-招聘问题"> 5.1 招聘问题</h2>
 <p>假设你要雇佣新员工。每次你可以花费少量资金，面试一个应聘者。该应聘者的能力是随机的，如果你决定雇佣他，你需要花费一大笔钱。只有当你决定是否雇佣此应聘者之后，你才能面试下一个应聘者。你的策略如下：如果应聘者的能力比上一个被雇佣的应聘者优秀（当没有上一个时直接雇佣），那么雇佣该应聘者；否则就不雇佣该应聘者，继续面试。这种策略的伪代码如下：</p>
@@ -400,14 +400,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论7 快速排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论7-快速排序"> 算法导论7 快速排序</h1>
 <p><strong>快速排序</strong>（quicksort）的最坏情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span><span>n</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>)</span></span></span></span>。虽然如此，快速排序在实际场景中经常是表现最好的，它的期望运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，并且隐含的常数相对小。另外，快速排序还有原地排序的优点。</p>
 <h2 id="_7-1-快速排序"> 7.1 快速排序</h2>
@@ -498,14 +498,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论8 线性时间排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论8-线性时间排序"> 算法导论8 线性时间排序</h1>
 <p>前几章中提到的几种排序方法，例如插入排序、归并排序、堆排序和快速排序，有一个共同点：顺序判断仅基于元素间的比较。这类排序算法称为<strong>比较排序</strong>（comparsion sort）。</p>
 <p>接下来会先证明比较排序算法都是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Ω</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，然后给出几个可以在线性时间内排序的算法。</p>
@@ -638,14 +638,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论"> 算法导论</h1>
 <ul>
 <li>I 基础概念
@@ -680,28 +680,28 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">zenk&amp;apos;s blog</title>
     <id>https://flyginger.top/</id>
     <link href="https://flyginger.top/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <author>
       <name>zenk</name>
     </author>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论12 二叉搜索树</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论12-二叉搜索树"> 算法导论12 二叉搜索树</h1>
 <h2 id="_12-1-二叉搜索树"> 12.1 二叉搜索树</h2>
 <p>以下是两棵二叉搜索树：</p>
@@ -885,14 +885,14 @@ TREE-MAXIMUM(x)
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论2 设计算法的流程</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论2-设计算法的流程"> 算法导论2 设计算法的流程</h1>
 <p>设计、证明、分析是处理计算问题的基本步骤。本章以排序问题为例，遍历了这三个基本步骤。首先给出了一个算法（插入排序），证明了它的正确性，分析了它的运行时间。然后使用另一种设计思想（分治）设计了另一种算法（归并排序），同样证明了它的正确性，分析了它的运行时间。</p>
 <h2 id="_2-1-插入排序"> 2.1 插入排序</h2>
@@ -1093,14 +1093,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论4 分治</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论4-分治"> 算法导论4 分治</h1>
 <p><strong>递推式</strong>（recurrence）是使用更小输入的项来描述当前项的等式或不等式。本章提供了三种求解递推式的方法，分别是<strong>替换法</strong>（substitution method），<strong>递归树法</strong>（recursion-tree method），<strong>主方法</strong>（master method）。</p>
 <h2 id="_4-1-最大子数组问题"> 4.1 最大子数组问题</h2>
@@ -1250,14 +1250,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论6 堆排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论6-堆排序"> 算法导论6 堆排序</h1>
 <h2 id="_6-1-堆"> 6.1 堆</h2>
 <p><strong>二叉堆</strong>（binary heap）是一种可以看成完全二叉树的数组，一般简称为堆。满二叉树是满足以下两个条件的二叉树：</p>
@@ -1412,14 +1412,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论9 中位数和顺序统计</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论9-中位数和顺序统计"> 算法导论9 中位数和顺序统计</h1>
 <p>第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 位顺序统计是指 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个元素的集合中第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 小的元素。那么元素集合的<strong>最小值</strong>（minimum）就是第一个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>），<strong>最大值</strong>（maximum）就是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>）。</p>
 <p><strong>中位数</strong>（median）是集合中位于“中间”的元素。当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为奇数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span></span></span></span> 个顺序统计；当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为偶数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span></span></span></span> 和第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span> 两个顺序统计的平均数。通常把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌊(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌋</span></span></span></span> 称为<strong>下中位数</strong>（lower median），把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌉</span></span></span></span> 称为<strong>上中位数</strong>（upper median）。为简化描述，下文中的中位数均指下中位数。</p>
@@ -1500,14 +1500,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">快速排序的优化</title>
     <id>https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/</id>
     <link href="https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="快速排序的优化"> 快速排序的优化</h1>
 <p>在对快速排序进行优化之前，回忆一下部分基于比较的排序算法的时间复杂度。</p>
 <table>
@@ -1716,14 +1716,14 @@ BenchmarkGoSort-8              9        1197205511 ns/op
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">PyNN</title>
     <id>https://flyginger.top/post/2021-05-22%20PyNN/</id>
     <link href="https://flyginger.top/post/2021-05-22%20PyNN/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="pynn"> PyNN</h1>
 <p><a href="http://neuralensemble.org/PyNN/" target="_blank" rel="noopener noreferrer">PyNN</a>（发音与 pine 相同）是一种用于构建神经网络模型的语言，且独立于模拟器。使用 PyNN 的 API 和 Python 编程语言编写的模型代码，无需修改即可运行于多种 PyNN 支持的模拟器后端或者神经拟态（neuronmorphic）硬件系统。</p>
 <h2 id="安装"> 安装</h2>
@@ -2006,14 +2006,14 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（一）</title>
     <id>https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <link href="https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-一"> Go 的正则（一）</h1>
 <p>今天想研究一下 Go 的正则包是怎么实现的，看看能不能写一个效率高一些的 tokenizer 。正则包收到正则表达式后，一般首先会对其进行一些处理。 Go 的正则包，据我所知是 <code>re2</code> ，使用的是传统的 NFA/DFA 技术。因此，正则表达式应该会被转换成一个状态机。</p>
 <div><p>提示</p>
@@ -2261,14 +2261,14 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论11 哈希表</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论11-哈希表"> 算法导论11 哈希表</h1>
 <p>很多应用需要一种只支持 <code>INSERT</code>、<code>SEARCH</code>、<code>DELETE</code> 即可的动态集合。<strong>哈希表</strong>（hashing table）是能够高效实现这种动态集合的数据结构，类似的动态集合通常被称为<strong>字典</strong>（dictionary）。一般认为哈希表中搜索的平均情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h2 id="_11-1-直接寻址"> 11.1 直接寻址</h2>
@@ -2508,14 +2508,14 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（二）</title>
     <id>https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
     <link href="https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-    <updated>2021-06-14T13:26:11.000Z</updated>
+    <updated>2021-06-14T13:35:57.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-二"> Go 的正则（二）</h1>
 <p>括号的处理还没有说完。</p>
 <h2 id="括号"> 括号</h2>
@@ -3065,7 +3065,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-14T13:26:11.000Z</published>
+    <published>2021-06-14T13:35:57.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
 </feed>
