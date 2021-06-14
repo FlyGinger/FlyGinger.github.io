@@ -6,8 +6,8 @@
     <link>https://flyginger.top/</link>
     <description>zenk's blog</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 13 Jun 2021 16:14:42 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Jun 2021 16:14:42 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Jun 2021 13:19:21 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Jun 2021 13:19:21 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by zenk</copyright>
@@ -19,7 +19,7 @@
       <link>https://flyginger.top/intro/</link>
       <guid>https://flyginger.top/intro/</guid>
       <source url="https://flyginger.top/rss.xml">个人介绍</source>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
 <p>hidden now.</p>
 ]]></content:encoded>
@@ -30,7 +30,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论1 算法的概念</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论1-算法的概念"> 算法导论1 算法的概念</h1>
 <p>通俗地讲，<strong>算法</strong>（algorithm）是以值或一组值作为<strong>输入</strong>（input），<strong>输出</strong>（output）值或一组值的计算步骤，也可以把算法看作解决<strong>计算问题</strong>（computational problem）的工具。举例来说，<strong>排序问题</strong>（sorting problem）的规范定义是：</p>
 <blockquote>
@@ -51,7 +51,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论10 基础数据结构</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论10-基础数据结构"> 算法导论10 基础数据结构</h1>
 <p>集合是数学和计算机科学中常用的概念。算法中的集合往往是<strong>动态</strong>（dynamic）的：算法经常对集合进行添加新数据，删除旧数据等操作。某些动态集合把元素的某一个属性当作<strong>键</strong>（key），用以区分不同的元素。元素中除了键的其他数据称为<strong>卫星数据</strong>（satellite data）。</p>
 <p>对动态集合进行的操作可以分为两大类：<strong>查询</strong>（query）和<strong>修改</strong>（modify）。下面列出了典型的操作，大部分算法中只会用到其中的几种：</p>
@@ -145,7 +145,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论3 函数的增长</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论3-函数的增长"> 算法导论3 函数的增长</h1>
 <p>算法的<strong>渐近</strong>（asymptotic）效率关注的是算法的运行时间如何随着输入规模的增长而增长。本章介绍了分析渐近效率时使用的数学符号和定义，并且给出了一些常用函数之间的渐近效率关系。</p>
 <h2 id="_3-1-渐近符号"> 3.1 渐近符号</h2>
@@ -276,7 +276,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论5 概率分析和随机算法</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论5-概率分析和随机算法"> 算法导论5 概率分析和随机算法</h1>
 <h2 id="_5-1-招聘问题"> 5.1 招聘问题</h2>
 <p>假设你要雇佣新员工。每次你可以花费少量资金，面试一个应聘者。该应聘者的能力是随机的，如果你决定雇佣他，你需要花费一大笔钱。只有当你决定是否雇佣此应聘者之后，你才能面试下一个应聘者。你的策略如下：如果应聘者的能力比上一个被雇佣的应聘者优秀（当没有上一个时直接雇佣），那么雇佣该应聘者；否则就不雇佣该应聘者，继续面试。这种策略的伪代码如下：</p>
@@ -371,7 +371,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论7 快速排序</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论7-快速排序"> 算法导论7 快速排序</h1>
 <p><strong>快速排序</strong>（quicksort）的最坏情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span><span>n</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>)</span></span></span></span>。虽然如此，快速排序在实际场景中经常是表现最好的，它的期望运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，并且隐含的常数相对小。另外，快速排序还有原地排序的优点。</p>
 <h2 id="_7-1-快速排序"> 7.1 快速排序</h2>
@@ -462,7 +462,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论8 线性时间排序</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论8-线性时间排序"> 算法导论8 线性时间排序</h1>
 <p>前几章中提到的几种排序方法，例如插入排序、归并排序、堆排序和快速排序，有一个共同点：顺序判断仅基于元素间的比较。这类排序算法称为<strong>比较排序</strong>（comparsion sort）。</p>
 <p>接下来会先证明比较排序算法都是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Ω</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，然后给出几个可以在线性时间内排序的算法。</p>
@@ -594,7 +594,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</link>
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论</source>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论"> 算法导论</h1>
 <ul>
 <li>I 基础概念
@@ -629,7 +629,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/</link>
       <guid>https://flyginger.top/</guid>
       <source url="https://flyginger.top/rss.xml">zenk's blog</source>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
     </item>
     <item>
       <title>算法导论12 二叉搜索树</title>
@@ -637,7 +637,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论12 二叉搜索树</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论12-二叉搜索树"> 算法导论12 二叉搜索树</h1>
 <h2 id="_12-1-二叉搜索树"> 12.1 二叉搜索树</h2>
 <p>以下是两棵二叉搜索树：</p>
@@ -821,7 +821,7 @@ TREE-MAXIMUM(x)
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论2 设计算法的流程</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论2-设计算法的流程"> 算法导论2 设计算法的流程</h1>
 <p>设计、证明、分析是处理计算问题的基本步骤。本章以排序问题为例，遍历了这三个基本步骤。首先给出了一个算法（插入排序），证明了它的正确性，分析了它的运行时间。然后使用另一种设计思想（分治）设计了另一种算法（归并排序），同样证明了它的正确性，分析了它的运行时间。</p>
 <h2 id="_2-1-插入排序"> 2.1 插入排序</h2>
@@ -1022,7 +1022,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论4 分治</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论4-分治"> 算法导论4 分治</h1>
 <p><strong>递推式</strong>（recurrence）是使用更小输入的项来描述当前项的等式或不等式。本章提供了三种求解递推式的方法，分别是<strong>替换法</strong>（substitution method），<strong>递归树法</strong>（recursion-tree method），<strong>主方法</strong>（master method）。</p>
 <h2 id="_4-1-最大子数组问题"> 4.1 最大子数组问题</h2>
@@ -1172,7 +1172,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论6 堆排序</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论6-堆排序"> 算法导论6 堆排序</h1>
 <h2 id="_6-1-堆"> 6.1 堆</h2>
 <p><strong>二叉堆</strong>（binary heap）是一种可以看成完全二叉树的数组，一般简称为堆。满二叉树是满足以下两个条件的二叉树：</p>
@@ -1327,7 +1327,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论9 中位数和顺序统计</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论9-中位数和顺序统计"> 算法导论9 中位数和顺序统计</h1>
 <p>第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 位顺序统计是指 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个元素的集合中第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 小的元素。那么元素集合的<strong>最小值</strong>（minimum）就是第一个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>），<strong>最大值</strong>（maximum）就是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>）。</p>
 <p><strong>中位数</strong>（median）是集合中位于“中间”的元素。当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为奇数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span></span></span></span> 个顺序统计；当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为偶数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span></span></span></span> 和第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span> 两个顺序统计的平均数。通常把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌊(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌋</span></span></span></span> 称为<strong>下中位数</strong>（lower median），把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌉</span></span></span></span> 称为<strong>上中位数</strong>（upper median）。为简化描述，下文中的中位数均指下中位数。</p>
@@ -1408,7 +1408,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/</guid>
       <source url="https://flyginger.top/rss.xml">快速排序的优化</source>
       <category>每日迷惑</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="快速排序的优化"> 快速排序的优化</h1>
 <p>在对快速排序进行优化之前，回忆一下部分基于比较的排序算法的时间复杂度。</p>
 <table>
@@ -1617,7 +1617,7 @@ BenchmarkGoSort-8              9        1197205511 ns/op
       <guid>https://flyginger.top/post/2021-05-22%20PyNN/</guid>
       <source url="https://flyginger.top/rss.xml">PyNN</source>
       <category>每日迷惑</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="pynn"> PyNN</h1>
 <p><a href="http://neuralensemble.org/PyNN/" target="_blank" rel="noopener noreferrer">PyNN</a>（发音与 pine 相同）是一种用于构建神经网络模型的语言，且独立于模拟器。使用 PyNN 的 API 和 Python 编程语言编写的模型代码，无需修改即可运行于多种 PyNN 支持的模拟器后端或者神经拟态（neuronmorphic）硬件系统。</p>
 <h2 id="安装"> 安装</h2>
@@ -1900,7 +1900,7 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
       <guid>https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（一）</source>
       <category>编译器</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-一"> Go 的正则（一）</h1>
 <p>今天想研究一下 Go 的正则包是怎么实现的，看看能不能写一个效率高一些的 tokenizer 。正则包收到正则表达式后，一般首先会对其进行一些处理。 Go 的正则包，据我所知是 <code>re2</code> ，使用的是传统的 NFA/DFA 技术。因此，正则表达式应该会被转换成一个状态机。</p>
 <div><p>提示</p>
@@ -2148,7 +2148,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论11 哈希表</source>
       <category>算法导论</category>
-      <pubDate>Sun, 13 Jun 2021 16:13:43 GMT</pubDate>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论11-哈希表"> 算法导论11 哈希表</h1>
 <p>很多应用需要一种只支持 <code>INSERT</code>、<code>SEARCH</code>、<code>DELETE</code> 即可的动态集合。<strong>哈希表</strong>（hashing table）是能够高效实现这种动态集合的数据结构，类似的动态集合通常被称为<strong>字典</strong>（dictionary）。一般认为哈希表中搜索的平均情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h2 id="_11-1-直接寻址"> 11.1 直接寻址</h2>
@@ -2381,6 +2381,556 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
 <p>使用 Markov 不等式：</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:8.129769999999999em;vertical-align:-3.814884999999999em;"></span><span><span><span><span><span><span style="height:4.314885em;"><span style="top:-6.314885em;"><span style="height:3.801113000000001em;"></span><span><span>Pr</span><span>{</span><span><span><span><span style="height:1.8011130000000006em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span style="margin-right:0.05724em;">j</span><span>=</span><span>0</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>m</span><span>−</span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:1.4137769999999998em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span>m</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.05724em;">j</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>⩾</span><span style="margin-right:0.2777777777777778em;"></span><span>4</span><span>n</span><span>}</span></span></span><span style="top:-3.2796680000000014em;"><span style="height:3.801113000000001em;"></span><span></span></span><span style="top:-0.972228000000002em;"><span style="height:3.801113000000001em;"></span><span></span></span></span><span>​</span></span><span><span style="height:3.814884999999999em;"><span></span></span></span></span></span><span><span><span><span style="height:4.314885em;"><span style="top:-6.314885em;"><span style="height:3.801113000000001em;"></span><span><span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span><span></span><span><span><span><span style="height:1.779826em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>4</span><span>n</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.825818em;"><span style="height:3em;"></span><span><span style="margin-right:0.05764em;">E</span><span>[</span><span><span style="position:relative;top:-0.0000050000000000050004em;">∑</span><span><span><span><span style="height:0.954008em;"><span style="top:-2.40029em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.05724em;">j</span><span>=</span><span>0</span></span></span></span><span style="top:-3.2029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>−</span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.43581800000000004em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span>m</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.05724em;">j</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>]</span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span></span></span><span style="top:-3.2796680000000014em;"><span style="height:3.801113000000001em;"></span><span><span></span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span><span><span></span><span><span><span><span style="height:1.32144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>4</span><span>n</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>2</span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span></span></span><span style="top:-0.972228000000002em;"><span style="height:3.801113000000001em;"></span><span><span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span><span></span><span><span><span><span style="height:1.32144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>2</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span></span></span></span><span>​</span></span><span><span style="height:3.814884999999999em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>Go 的正则（二）</title>
+      <link>https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/</link>
+      <guid>https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/</guid>
+      <source url="https://flyginger.top/rss.xml">Go 的正则（二）</source>
+      <category>编译器</category>
+      <pubDate>Mon, 14 Jun 2021 13:18:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="go-的正则-二"> Go 的正则（二）</h1>
+<p>括号的处理还没有说完。</p>
+<h2 id="括号"> 括号</h2>
+<p>上次结束在 <code>collapse()</code> 方法，以下是它的源码。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>collapse</span><span>(</span>subs <span>[</span><span>]</span><span>*</span>Regexp<span>,</span> op Op<span>)</span> <span>*</span>Regexp <span>{</span>
+    <span>if</span> <span>len</span><span>(</span>subs<span>)</span> <span>==</span> <span>1</span> <span>{</span>
+        <span>return</span> subs<span>[</span><span>0</span><span>]</span>
+    <span>}</span>
+    re <span>:=</span> p<span>.</span><span>newRegexp</span><span>(</span>op<span>)</span>
+    re<span>.</span>Sub <span>=</span> re<span>.</span>Sub0<span>[</span><span>:</span><span>0</span><span>]</span>
+    <span>for</span> <span>_</span><span>,</span> sub <span>:=</span> <span>range</span> subs <span>{</span>
+        <span>if</span> sub<span>.</span>Op <span>==</span> op <span>{</span>
+            re<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>re<span>.</span>Sub<span>,</span> sub<span>.</span>Sub<span>...</span><span>)</span>
+            p<span>.</span><span>reuse</span><span>(</span>sub<span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            re<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>re<span>.</span>Sub<span>,</span> sub<span>)</span>
+        <span>}</span>
+    <span>}</span>
+    <span>if</span> op <span>==</span> OpAlternate <span>{</span>
+        re<span>.</span>Sub <span>=</span> p<span>.</span><span>factor</span><span>(</span>re<span>.</span>Sub<span>)</span>
+        <span>if</span> <span>len</span><span>(</span>re<span>.</span>Sub<span>)</span> <span>==</span> <span>1</span> <span>{</span>
+            old <span>:=</span> re
+            re <span>=</span> re<span>.</span>Sub<span>[</span><span>0</span><span>]</span>
+            p<span>.</span><span>reuse</span><span>(</span>old<span>)</span>
+        <span>}</span>
+    <span>}</span>
+    <span>return</span> re
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></div></div><p>前几行很好理解，先是处理了一种特殊情况。只有一个子表达式时，不需要任何操作，所以直接返回该表达式本身。有多个表达式时，创建了一个新的节点 <code>re</code> 。</p>
+<p>接下来是一个 <code>for</code> 循环。对于每一个子表达式 <code>sub</code> ，如果 <code>sub</code> 也是同样操作的节点， <code>sub.Op == op</code> ，那么 <code>sub</code> 会被分解， <code>sub</code> 的子表达式会被放入 <code>re</code> 中， <code>sub</code> 本身会被丢弃（使用 <code>reuse()</code> 进行废物利用）。如果 <code>sub</code> 不是同样操作的节点，那么直接把 <code>sub</code> 本身放入 <code>re</code> 中。现在还看不出来， <code>sub</code> 的子表达式不会仍然是一个同样操作的节点。</p>
+<p>如果需要进行的操作是选择操作，那么还需要进行进一步处理。首先， <code>collapse()</code> 调用了 <code>factor()</code> 方法。 <code>factor()</code> 方法能够提取各个选项之间的公共（或者部分公共）前缀，从而提升效率。举个例子，原来的表达式是 <code>ABC|ABD|AEF|BCX|BCY</code> ，那么经过处理之后应该是 <code>A(B(C|D)|EF)|BC(X|Y)</code> 。</p>
+<p><code>factor()</code> 方法有接近 200 行，读起来估计不容易，提取公共前缀这个操作本身实现起来也很麻烦。因此这次不会一次性贴出所有代码。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>factor</span><span>(</span>sub <span>[</span><span>]</span><span>*</span>Regexp<span>)</span> <span>[</span><span>]</span><span>*</span>Regexp <span>{</span>
+    <span>if</span> <span>len</span><span>(</span>sub<span>)</span> <span>&lt;</span> <span>2</span> <span>{</span>
+        <span>return</span> sub
+    <span>}</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>这一段看得懂，又是特殊情况的处理。子表达式的数量小于 2 时，不需要提取公共前缀。</p>
+<div><pre><code>    <span>// Round 1: Factor out common literal prefixes.</span>
+    <span>var</span> str <span>[</span><span>]</span><span>rune</span>
+    <span>var</span> strflags Flags
+    start <span>:=</span> <span>0</span>
+    out <span>:=</span> sub<span>[</span><span>:</span><span>0</span><span>]</span>
+    <span>for</span> i <span>:=</span> <span>0</span><span>;</span> i <span>&lt;=</span> <span>len</span><span>(</span>sub<span>)</span><span>;</span> i<span>++</span> <span>{</span>
+        <span>// Invariant: the Regexps that were in sub[0:start] have been</span>
+        <span>// used or marked for reuse, and the slice space has been reused</span>
+        <span>// for out (len(out) &lt;= start).</span>
+        <span>//</span>
+        <span>// Invariant: sub[start:i] consists of regexps that all begin</span>
+        <span>// with str as modified by strflags.</span>
+        <span>var</span> istr <span>[</span><span>]</span><span>rune</span>
+        <span>var</span> iflags Flags
+        <span>if</span> i <span>&lt;</span> <span>len</span><span>(</span>sub<span>)</span> <span>{</span>
+            istr<span>,</span> iflags <span>=</span> p<span>.</span><span>leadingString</span><span>(</span>sub<span>[</span>i<span>]</span><span>)</span>
+            <span>if</span> iflags <span>==</span> strflags <span>{</span>
+                same <span>:=</span> <span>0</span>
+                <span>for</span> same <span>&lt;</span> <span>len</span><span>(</span>str<span>)</span> <span>&amp;&amp;</span> same <span>&lt;</span> <span>len</span><span>(</span>istr<span>)</span> <span>&amp;&amp;</span> str<span>[</span>same<span>]</span> <span>==</span> istr<span>[</span>same<span>]</span> <span>{</span>
+                    same<span>++</span>
+                <span>}</span>
+                <span>if</span> same <span>></span> <span>0</span> <span>{</span>
+                    <span>// Matches at least one rune in current range.</span>
+                    <span>// Keep going around.</span>
+                    str <span>=</span> str<span>[</span><span>:</span>same<span>]</span>
+                    <span>continue</span>
+                <span>}</span>
+            <span>}</span>
+        <span>}</span>
+        <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br></div></div><p>注意上面的代码只是 <code>for</code> 循环的一部分， <code>for</code> 循环还没有结束。不过注释还是很有帮助的。第一轮，提取公共字面量前缀。注释中的 <code>Invariant</code> 指的是循环不变性，有些算法书，比如 <em>Introduction to Algorithms</em> 中有讲过。循环不变性说的是在循环中保持不变的性质。所以这些注释对于看懂代码至关重要，现在马上来做阅读理解。</p>
+<p>首先， <code>sub[0:start]</code> 是检查过、不会再用的节点，但是还留在 <code>sub</code> 中等着废物利用。而 <code>out</code> 是 <code>sub[:len(out)]</code> ，并且保证 <code>len(out) &lt;= start</code> 。 <code>out</code> 中是已经被重新利用的废物节点。其次， <code>sub[start:i]</code> 中是以 <code>str</code> 为前缀的表达式。关于 <code>strflags</code> 的部分，目前还不知道其作用。</p>
+<p>大 <code>for</code> 循环的条件是 <code>i &lt;= len(sub)</code> 。现在还不知道 <code>=</code> 的意义，不过这一段显然与 <code>=</code> 无关，当 <code>i &lt; len(sub)</code> 时才需要执行这段内容，里面首先调用了 <code>leadingString()</code> 。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>leadingString</span><span>(</span>re <span>*</span>Regexp<span>)</span> <span>(</span><span>[</span><span>]</span><span>rune</span><span>,</span> Flags<span>)</span> <span>{</span>
+    <span>if</span> re<span>.</span>Op <span>==</span> OpConcat <span>&amp;&amp;</span> <span>len</span><span>(</span>re<span>.</span>Sub<span>)</span> <span>></span> <span>0</span> <span>{</span>
+        re <span>=</span> re<span>.</span>Sub<span>[</span><span>0</span><span>]</span>
+    <span>}</span>
+    <span>if</span> re<span>.</span>Op <span>!=</span> OpLiteral <span>{</span>
+        <span>return</span> <span>nil</span><span>,</span> <span>0</span>
+    <span>}</span>
+    <span>return</span> re<span>.</span>Rune<span>,</span> re<span>.</span>Flags <span>&amp;</span> FoldCase
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>如果节点 <code>re</code> 是多个节点的连接（ <code>re.Op == OpConcat</code> ），那么 <code>leadingString()</code> 会尝试读取 <code>re</code> 的第一个子表达式。然后，如果 <code>re</code> 不是字面量类型的节点，那么直接返回空。否则，返回节点中保存的字面量，以及大小写是否敏感的配置信息。</p>
+<p>回到 <code>factor()</code> 函数，继续读代码。如果当前子表达式的大小写敏感配置信息（ <code>iflags</code> ）与记录的相同（ <code>strflags</code> ）相同，那么继续检查字符串的具体内容，找出当前表达式的内容 <code>istr</code> 与 <code>str</code> 的最长的公共前缀。</p>
+<p>如果最长公共前缀的长度大于零，那么直接跳到下次循环，否则继续执行下面的代码。问题在于，第一次执行循环时， <code>str</code> 为空，必定需要执行后面的代码。</p>
+<div><pre><code>        <span>// Found end of a run with common leading literal string:</span>
+        <span>// sub[start:i] all begin with str[0:len(str)], but sub[i]</span>
+        <span>// does not even begin with str[0].</span>
+        <span>//</span>
+        <span>// Factor out common string and append factored expression to out.</span>
+        <span>if</span> i <span>==</span> start <span>{</span>
+            <span>// Nothing to do - run of length 0.</span>
+        <span>}</span> <span>else</span> <span>if</span> i <span>==</span> start<span>+</span><span>1</span> <span>{</span>
+            <span>// Just one: don't bother factoring.</span>
+            out <span>=</span> <span>append</span><span>(</span>out<span>,</span> sub<span>[</span>start<span>]</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>// Construct factored form: prefix(suffix1|suffix2|...)</span>
+            prefix <span>:=</span> p<span>.</span><span>newRegexp</span><span>(</span>OpLiteral<span>)</span>
+            prefix<span>.</span>Flags <span>=</span> strflags
+            prefix<span>.</span>Rune <span>=</span> <span>append</span><span>(</span>prefix<span>.</span>Rune<span>[</span><span>:</span><span>0</span><span>]</span><span>,</span> str<span>...</span><span>)</span>
+
+            <span>for</span> j <span>:=</span> start<span>;</span> j <span>&lt;</span> i<span>;</span> j<span>++</span> <span>{</span>
+                sub<span>[</span>j<span>]</span> <span>=</span> p<span>.</span><span>removeLeadingString</span><span>(</span>sub<span>[</span>j<span>]</span><span>,</span> <span>len</span><span>(</span>str<span>)</span><span>)</span>
+            <span>}</span>
+            suffix <span>:=</span> p<span>.</span><span>collapse</span><span>(</span>sub<span>[</span>start<span>:</span>i<span>]</span><span>,</span> OpAlternate<span>)</span> <span>// recurse</span>
+
+            re <span>:=</span> p<span>.</span><span>newRegexp</span><span>(</span>OpConcat<span>)</span>
+            re<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>re<span>.</span>Sub<span>[</span><span>:</span><span>0</span><span>]</span><span>,</span> prefix<span>,</span> suffix<span>)</span>
+            out <span>=</span> <span>append</span><span>(</span>out<span>,</span> re<span>)</span>
+        <span>}</span>
+
+        <span>// Prepare for next iteration.</span>
+        start <span>=</span> i
+        str <span>=</span> istr
+        strflags <span>=</span> iflags
+    <span>}</span>
+    sub <span>=</span> out
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div><p>回忆前面的代码，当节点之间存在公共前缀时，就会使用 <code>continue</code> 语句跳过后面的部分，继续检查后面的节点是否与之前和节点之间存在公共前缀。总而言之，执行上面代码的条件有三种：第一，第一次循环，由于 <code>str</code> 为空，所以不存在公共前缀；第二，找到了一批节点，它们之间有公共前缀，然后遇到了一个与这批节点之间没有公共前缀的节点；第三，最后一次循环， <code>i == len(subs)</code> 。如果归纳一下，可以发现第一种和第三种其实都是第二种的特殊情况。</p>
+<p>彻底地归纳一下，每次执行到这里，都是因为 <code>subs[i]</code> 和 <code>sub[start:i]</code> 没有公共的前缀（或者是因为 <code>i == len(subs)</code> ）。</p>
+<p>于是此时分了三种情况，分别是 <code>if</code> 的三个分支。第一种情况，是 <code>sub[start:i]</code> 为空，也就是 <code>i == start</code> 。这种情况只可能发生在 <code>i == 0</code> 时，程序什么都不做，直接跳到 <code>if</code> 之后。</p>
+<p>第二种情况是 <code>sub[start:i]</code> 的长度为 1 ，此时不需要进行什么操作，直接把 <code>sub[start]</code> 放入了 <code>out</code> 中。此时浪费掉了一个节点的空间没有进行废物利用，可能是不值得吧。</p>
+<p>第三种情况是 <code>sub[start:i]</code> 的长度大于 1 。首先创建一个字面量节点 <code>prefix</code> ，然后通过 <code>removeLeadingString()</code> 把 <code>sub[start:i]</code> 中节点中的公共前缀 <code>str</code> 删掉。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>removeLeadingString</span><span>(</span>re <span>*</span>Regexp<span>,</span> n <span>int</span><span>)</span> <span>*</span>Regexp <span>{</span>
+    <span>if</span> re<span>.</span>Op <span>==</span> OpConcat <span>&amp;&amp;</span> <span>len</span><span>(</span>re<span>.</span>Sub<span>)</span> <span>></span> <span>0</span> <span>{</span>
+        <span>// Removing a leading string in a concatenation</span>
+        <span>// might simplify the concatenation.</span>
+        sub <span>:=</span> re<span>.</span>Sub<span>[</span><span>0</span><span>]</span>
+        sub <span>=</span> p<span>.</span><span>removeLeadingString</span><span>(</span>sub<span>,</span> n<span>)</span>
+        re<span>.</span>Sub<span>[</span><span>0</span><span>]</span> <span>=</span> sub
+        <span>if</span> sub<span>.</span>Op <span>==</span> OpEmptyMatch <span>{</span>
+            p<span>.</span><span>reuse</span><span>(</span>sub<span>)</span>
+            <span>switch</span> <span>len</span><span>(</span>re<span>.</span>Sub<span>)</span> <span>{</span>
+            <span>case</span> <span>0</span><span>,</span> <span>1</span><span>:</span>
+                <span>// Impossible but handle.</span>
+                re<span>.</span>Op <span>=</span> OpEmptyMatch
+                re<span>.</span>Sub <span>=</span> <span>nil</span>
+            <span>case</span> <span>2</span><span>:</span>
+                old <span>:=</span> re
+                re <span>=</span> re<span>.</span>Sub<span>[</span><span>1</span><span>]</span>
+                p<span>.</span><span>reuse</span><span>(</span>old<span>)</span>
+            <span>default</span><span>:</span>
+                <span>copy</span><span>(</span>re<span>.</span>Sub<span>,</span> re<span>.</span>Sub<span>[</span><span>1</span><span>:</span><span>]</span><span>)</span>
+                re<span>.</span>Sub <span>=</span> re<span>.</span>Sub<span>[</span><span>:</span><span>len</span><span>(</span>re<span>.</span>Sub<span>)</span><span>-</span><span>1</span><span>]</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> re
+    <span>}</span>
+
+    <span>if</span> re<span>.</span>Op <span>==</span> OpLiteral <span>{</span>
+        re<span>.</span>Rune <span>=</span> re<span>.</span>Rune<span>[</span><span>:</span><span>copy</span><span>(</span>re<span>.</span>Rune<span>,</span> re<span>.</span>Rune<span>[</span>n<span>:</span><span>]</span><span>)</span><span>]</span>
+        <span>if</span> <span>len</span><span>(</span>re<span>.</span>Rune<span>)</span> <span>==</span> <span>0</span> <span>{</span>
+            re<span>.</span>Op <span>=</span> OpEmptyMatch
+        <span>}</span>
+    <span>}</span>
+    <span>return</span> re
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br></div></div><p>从一个节点中删除前缀也不是那么容易。 <code>re</code> 如果是 <code>OpConcat</code> 类型的节点，那么 <code>re</code> 会有数个需要连接到一起的子节点。 <code>removeLeadingString()</code> 通过递归调用从 <code>re</code> 的第一个子节点 <code>re.sub[0]</code> 中删除前缀。公共前缀来源决定了其长度不可能超过第一个子节点中保存的字面量的长度。</p>
+<p>如果 <code>re.sub[0]</code> 中的所有字面量都被删掉了，那么它会被改成 <code>OpEmptyMatch</code> 类型。如果 <code>removeLeadingString()</code> 发现递归调用返回了一个 <code>OpEmptyMatch</code> 类型的节点，那么还需要去掉该 <code>OpEmptyMatch</code> 节点。</p>
+<p>这又分为三种情况，第一种情况是 <code>len(re.sub) == 0</code> 或 <code>len(re.sub) == 1</code> 。根据注释，这应该是不可能的。如果 <code>len(re.sub) == 0</code> ，上面直接访问 <code>re.sub[0]</code> 的代码会直接报错。如果 <code>len(re.sub) == 1</code> ，相当于需要被连接在一起的节点仅有一个，那么 <code>re</code> 根本就是多余的，可以用 <code>re.sub[0]</code> 直接替换 <code>re</code> 的位置。我猜 Go 的实现不会允许这样浪费的情况存在。</p>
+<p>第二种情况是 <code>len(re.sub) == 2</code> ， <code>removeLeadingString()</code> 会回收 <code>re</code> 和 <code>re.sub[0]</code> ，然后用 <code>re.sub[1]</code> 替换 <code>re</code> 原来的位置。第三种情况， <code>removeLeadingString()</code> 会把 <code>re.sub</code> 中的内容往前复制一个位置，然后把 <code>re.sub</code> 的长度缩小  1 。这又是一种避免内存操作的技巧。</p>
+<p>后面的 <code>if</code> 处理的是 <code>re</code> 是 <code>OpLiteral</code> 字面量类型的情况。比较简单就不解释了。回到 <code>factor()</code> 方法，它使用 <code>collapse()</code> 方法把所有剩下的后缀选择在一起。递归啦。</p>
+<p>做完这些以后， <code>factor()</code> 创建了一个 <code>OpConcat</code> 类型的新节点，把公共前缀和选择好的后缀装进去。最后，把新节点放入 <code>out</code> 中。所以 <code>out</code> 只是复用了数组的位置，并没有复用其中的节点。节点还是通过 <code>reuse()</code> 来废物利用的。</p>
+<p>最后是一些为下一次迭代做准备的操作。循环结束后，令 <code>sub = out</code> ，公共前缀就提取好了。问题是，不连续存在的分支的公共前缀并没有被提取到，例如 <code>ABC|XYZ|ABD</code> ，第一个和第三个的公共前缀并不会被提取到，因为它们之间隔了一个和它们之间不存在公共前缀的选项。</p>
+<div><pre><code>    <span>// Round 2: Factor out common simple prefixes,</span>
+    <span>// just the first piece of each concatenation.</span>
+    <span>// This will be good enough a lot of the time.</span>
+    <span>//</span>
+    <span>// Complex subexpressions (e.g. involving quantifiers)</span>
+    <span>// are not safe to factor because that collapses their</span>
+    <span>// distinct paths through the automaton, which affects</span>
+    <span>// correctness in some cases.</span>
+    start <span>=</span> <span>0</span>
+    out <span>=</span> sub<span>[</span><span>:</span><span>0</span><span>]</span>
+    <span>var</span> first <span>*</span>Regexp
+    <span>for</span> i <span>:=</span> <span>0</span><span>;</span> i <span>&lt;=</span> <span>len</span><span>(</span>sub<span>)</span><span>;</span> i<span>++</span> <span>{</span>
+        <span>// Invariant: the Regexps that were in sub[0:start] have been</span>
+        <span>// used or marked for reuse, and the slice space has been reused</span>
+        <span>// for out (len(out) &lt;= start).</span>
+        <span>//</span>
+        <span>// Invariant: sub[start:i] consists of regexps that all begin with ifirst.</span>
+        <span>var</span> ifirst <span>*</span>Regexp
+        <span>if</span> i <span>&lt;</span> <span>len</span><span>(</span>sub<span>)</span> <span>{</span>
+            ifirst <span>=</span> p<span>.</span><span>leadingRegexp</span><span>(</span>sub<span>[</span>i<span>]</span><span>)</span>
+            <span>if</span> first <span>!=</span> <span>nil</span> <span>&amp;&amp;</span> first<span>.</span><span>Equal</span><span>(</span>ifirst<span>)</span> <span>&amp;&amp;</span>
+                <span>// first must be a character class OR a fixed repeat of a character class.</span>
+                <span>(</span><span>isCharClass</span><span>(</span>first<span>)</span> <span>||</span> <span>(</span>first<span>.</span>Op <span>==</span> OpRepeat <span>&amp;&amp;</span> first<span>.</span>Min <span>==</span> first<span>.</span>Max <span>&amp;&amp;</span> <span>isCharClass</span><span>(</span>first<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span><span>)</span><span>)</span> <span>{</span>
+                <span>continue</span>
+            <span>}</span>
+        <span>}</span>
+        <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p>第二轮开始了，这次提取的是公共简单前缀，不一定是字面量。 <code>start</code> 、 <code>out</code> 等的作用和上面的还是一样。循环不变性也基本没变。这次寻找前缀时使用的方法是 <code>leadingRegexp()</code> 。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>leadingRegexp</span><span>(</span>re <span>*</span>Regexp<span>)</span> <span>*</span>Regexp <span>{</span>
+    <span>if</span> re<span>.</span>Op <span>==</span> OpEmptyMatch <span>{</span>
+        <span>return</span> <span>nil</span>
+    <span>}</span>
+    <span>if</span> re<span>.</span>Op <span>==</span> OpConcat <span>&amp;&amp;</span> <span>len</span><span>(</span>re<span>.</span>Sub<span>)</span> <span>></span> <span>0</span> <span>{</span>
+        sub <span>:=</span> re<span>.</span>Sub<span>[</span><span>0</span><span>]</span>
+        <span>if</span> sub<span>.</span>Op <span>==</span> OpEmptyMatch <span>{</span>
+            <span>return</span> <span>nil</span>
+        <span>}</span>
+        <span>return</span> sub
+    <span>}</span>
+    <span>return</span> re
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>总的来说， <code>leadingRegexp()</code> 的思路是这样：首先选出一个候选者，如果 <code>re</code> 是 <code>OpConcat</code> 类型并且有子表达式，那么候选者是第一个子表达式；否则候选者是 <code>re</code> 自己。然后，如果候选者是 <code>OpEmptyMatch</code> 类型，那么返回 <code>nil</code> ，否则返回候选者。</p>
+<p>接下来的判断说明，公共简单前缀只能是字符类类型，或者重复次数固定的字符类类型。这个判断中，还调用了 <code>Regexp</code> 的 <code>equal()</code> 方法，判断两个节点的内容是否相同。</p>
+<div><pre><code><span>func</span> <span>(</span>x <span>*</span>Regexp<span>)</span> <span>Equal</span><span>(</span>y <span>*</span>Regexp<span>)</span> <span>bool</span> <span>{</span>
+    <span>if</span> x <span>==</span> <span>nil</span> <span>||</span> y <span>==</span> <span>nil</span> <span>{</span>
+        <span>return</span> x <span>==</span> y
+    <span>}</span>
+    <span>if</span> x<span>.</span>Op <span>!=</span> y<span>.</span>Op <span>{</span>
+        <span>return</span> <span>false</span>
+    <span>}</span>
+    <span>switch</span> x<span>.</span>Op <span>{</span>
+    <span>case</span> OpEndText<span>:</span>
+        <span>// The parse flags remember whether this is \z or \Z.</span>
+        <span>if</span> x<span>.</span>Flags<span>&amp;</span>WasDollar <span>!=</span> y<span>.</span>Flags<span>&amp;</span>WasDollar <span>{</span>
+            <span>return</span> <span>false</span>
+        <span>}</span>
+
+    <span>case</span> OpLiteral<span>,</span> OpCharClass<span>:</span>
+        <span>if</span> <span>len</span><span>(</span>x<span>.</span>Rune<span>)</span> <span>!=</span> <span>len</span><span>(</span>y<span>.</span>Rune<span>)</span> <span>{</span>
+            <span>return</span> <span>false</span>
+        <span>}</span>
+        <span>for</span> i<span>,</span> r <span>:=</span> <span>range</span> x<span>.</span>Rune <span>{</span>
+            <span>if</span> r <span>!=</span> y<span>.</span>Rune<span>[</span>i<span>]</span> <span>{</span>
+                <span>return</span> <span>false</span>
+            <span>}</span>
+        <span>}</span>
+
+    <span>case</span> OpAlternate<span>,</span> OpConcat<span>:</span>
+        <span>if</span> <span>len</span><span>(</span>x<span>.</span>Sub<span>)</span> <span>!=</span> <span>len</span><span>(</span>y<span>.</span>Sub<span>)</span> <span>{</span>
+            <span>return</span> <span>false</span>
+        <span>}</span>
+        <span>for</span> i<span>,</span> sub <span>:=</span> <span>range</span> x<span>.</span>Sub <span>{</span>
+            <span>if</span> <span>!</span>sub<span>.</span><span>Equal</span><span>(</span>y<span>.</span>Sub<span>[</span>i<span>]</span><span>)</span> <span>{</span>
+                <span>return</span> <span>false</span>
+            <span>}</span>
+        <span>}</span>
+
+    <span>case</span> OpStar<span>,</span> OpPlus<span>,</span> OpQuest<span>:</span>
+        <span>if</span> x<span>.</span>Flags<span>&amp;</span>NonGreedy <span>!=</span> y<span>.</span>Flags<span>&amp;</span>NonGreedy <span>||</span> <span>!</span>x<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>.</span><span>Equal</span><span>(</span>y<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span> <span>{</span>
+            <span>return</span> <span>false</span>
+        <span>}</span>
+
+    <span>case</span> OpRepeat<span>:</span>
+        <span>if</span> x<span>.</span>Flags<span>&amp;</span>NonGreedy <span>!=</span> y<span>.</span>Flags<span>&amp;</span>NonGreedy <span>||</span> x<span>.</span>Min <span>!=</span> y<span>.</span>Min <span>||</span> x<span>.</span>Max <span>!=</span> y<span>.</span>Max <span>||</span> <span>!</span>x<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>.</span><span>Equal</span><span>(</span>y<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span> <span>{</span>
+            <span>return</span> <span>false</span>
+        <span>}</span>
+
+    <span>case</span> OpCapture<span>:</span>
+        <span>if</span> x<span>.</span>Cap <span>!=</span> y<span>.</span>Cap <span>||</span> x<span>.</span>Name <span>!=</span> y<span>.</span>Name <span>||</span> <span>!</span>x<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>.</span><span>Equal</span><span>(</span>y<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span> <span>{</span>
+            <span>return</span> <span>false</span>
+        <span>}</span>
+    <span>}</span>
+    <span>return</span> <span>true</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br></div></div><p>这段代码很长，但是逻辑比较简单，就不详细看了。</p>
+<div><pre><code>        <span>// Found end of a run with common leading regexp:</span>
+        <span>// sub[start:i] all begin with first but sub[i] does not.</span>
+        <span>//</span>
+        <span>// Factor out common regexp and append factored expression to out.</span>
+        <span>if</span> i <span>==</span> start <span>{</span>
+            <span>// Nothing to do - run of length 0.</span>
+        <span>}</span> <span>else</span> <span>if</span> i <span>==</span> start<span>+</span><span>1</span> <span>{</span>
+            <span>// Just one: don't bother factoring.</span>
+            out <span>=</span> <span>append</span><span>(</span>out<span>,</span> sub<span>[</span>start<span>]</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>// Construct factored form: prefix(suffix1|suffix2|...)</span>
+            prefix <span>:=</span> first
+            <span>for</span> j <span>:=</span> start<span>;</span> j <span>&lt;</span> i<span>;</span> j<span>++</span> <span>{</span>
+                reuse <span>:=</span> j <span>!=</span> start <span>// prefix came from sub[start]</span>
+                sub<span>[</span>j<span>]</span> <span>=</span> p<span>.</span><span>removeLeadingRegexp</span><span>(</span>sub<span>[</span>j<span>]</span><span>,</span> reuse<span>)</span>
+            <span>}</span>
+            suffix <span>:=</span> p<span>.</span><span>collapse</span><span>(</span>sub<span>[</span>start<span>:</span>i<span>]</span><span>,</span> OpAlternate<span>)</span> <span>// recurse</span>
+
+            re <span>:=</span> p<span>.</span><span>newRegexp</span><span>(</span>OpConcat<span>)</span>
+            re<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>re<span>.</span>Sub<span>[</span><span>:</span><span>0</span><span>]</span><span>,</span> prefix<span>,</span> suffix<span>)</span>
+            out <span>=</span> <span>append</span><span>(</span>out<span>,</span> re<span>)</span>
+        <span>}</span>
+
+        <span>// Prepare for next iteration.</span>
+        start <span>=</span> i
+        first <span>=</span> ifirst
+    <span>}</span>
+    sub <span>=</span> out
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br></div></div><p>这段和上一轮逻辑重复了，不再重新说一遍了。但是去除公共简单前缀用的是 <code>removeLeadingRegexp()</code> ，这个方法不同，所以还是看一下下。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>removeLeadingRegexp</span><span>(</span>re <span>*</span>Regexp<span>,</span> reuse <span>bool</span><span>)</span> <span>*</span>Regexp <span>{</span>
+    <span>if</span> re<span>.</span>Op <span>==</span> OpConcat <span>&amp;&amp;</span> <span>len</span><span>(</span>re<span>.</span>Sub<span>)</span> <span>></span> <span>0</span> <span>{</span>
+        <span>if</span> reuse <span>{</span>
+            p<span>.</span><span>reuse</span><span>(</span>re<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span>
+        <span>}</span>
+        re<span>.</span>Sub <span>=</span> re<span>.</span>Sub<span>[</span><span>:</span><span>copy</span><span>(</span>re<span>.</span>Sub<span>,</span> re<span>.</span>Sub<span>[</span><span>1</span><span>:</span><span>]</span><span>)</span><span>]</span>
+        <span>switch</span> <span>len</span><span>(</span>re<span>.</span>Sub<span>)</span> <span>{</span>
+        <span>case</span> <span>0</span><span>:</span>
+            re<span>.</span>Op <span>=</span> OpEmptyMatch
+            re<span>.</span>Sub <span>=</span> <span>nil</span>
+        <span>case</span> <span>1</span><span>:</span>
+            old <span>:=</span> re
+            re <span>=</span> re<span>.</span>Sub<span>[</span><span>0</span><span>]</span>
+            p<span>.</span><span>reuse</span><span>(</span>old<span>)</span>
+        <span>}</span>
+        <span>return</span> re
+    <span>}</span>
+    <span>if</span> reuse <span>{</span>
+        p<span>.</span><span>reuse</span><span>(</span>re<span>)</span>
+    <span>}</span>
+    <span>return</span> p<span>.</span><span>newRegexp</span><span>(</span>OpEmptyMatch<span>)</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div><p>这次加了一个开关 <code>reuse := j != start</code> ，也就是说 <code>j == start</code> 的时候不要把传进去的节点回收掉。原因已经写在注释里了，公共简单前缀就来自于 <code>sub[start]</code> 这个节点，回收掉就麻烦了。结果 <code>removeLeadingRegexp()</code> 挺简单的，没什么好看的。</p>
+<div><pre><code>    <span>// Round 3: Collapse runs of single literals into character classes.</span>
+    start <span>=</span> <span>0</span>
+    out <span>=</span> sub<span>[</span><span>:</span><span>0</span><span>]</span>
+    <span>for</span> i <span>:=</span> <span>0</span><span>;</span> i <span>&lt;=</span> <span>len</span><span>(</span>sub<span>)</span><span>;</span> i<span>++</span> <span>{</span>
+        <span>// Invariant: the Regexps that were in sub[0:start] have been</span>
+        <span>// used or marked for reuse, and the slice space has been reused</span>
+        <span>// for out (len(out) &lt;= start).</span>
+        <span>//</span>
+        <span>// Invariant: sub[start:i] consists of regexps that are either</span>
+        <span>// literal runes or character classes.</span>
+        <span>if</span> i <span>&lt;</span> <span>len</span><span>(</span>sub<span>)</span> <span>&amp;&amp;</span> <span>isCharClass</span><span>(</span>sub<span>[</span>i<span>]</span><span>)</span> <span>{</span>
+            <span>continue</span>
+        <span>}</span>
+
+        <span>// sub[i] is not a char or char class;</span>
+        <span>// emit char class for sub[start:i]...</span>
+        <span>if</span> i <span>==</span> start <span>{</span>
+            <span>// Nothing to do - run of length 0.</span>
+        <span>}</span> <span>else</span> <span>if</span> i <span>==</span> start<span>+</span><span>1</span> <span>{</span>
+            out <span>=</span> <span>append</span><span>(</span>out<span>,</span> sub<span>[</span>start<span>]</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>// Make new char class.</span>
+            <span>// Start with most complex regexp in sub[start].</span>
+            max <span>:=</span> start
+            <span>for</span> j <span>:=</span> start <span>+</span> <span>1</span><span>;</span> j <span>&lt;</span> i<span>;</span> j<span>++</span> <span>{</span>
+                <span>if</span> sub<span>[</span>max<span>]</span><span>.</span>Op <span>&lt;</span> sub<span>[</span>j<span>]</span><span>.</span>Op <span>||</span> sub<span>[</span>max<span>]</span><span>.</span>Op <span>==</span> sub<span>[</span>j<span>]</span><span>.</span>Op <span>&amp;&amp;</span> <span>len</span><span>(</span>sub<span>[</span>max<span>]</span><span>.</span>Rune<span>)</span> <span>&lt;</span> <span>len</span><span>(</span>sub<span>[</span>j<span>]</span><span>.</span>Rune<span>)</span> <span>{</span>
+                    max <span>=</span> j
+                <span>}</span>
+            <span>}</span>
+            sub<span>[</span>start<span>]</span><span>,</span> sub<span>[</span>max<span>]</span> <span>=</span> sub<span>[</span>max<span>]</span><span>,</span> sub<span>[</span>start<span>]</span>
+
+            <span>for</span> j <span>:=</span> start <span>+</span> <span>1</span><span>;</span> j <span>&lt;</span> i<span>;</span> j<span>++</span> <span>{</span>
+                <span>mergeCharClass</span><span>(</span>sub<span>[</span>start<span>]</span><span>,</span> sub<span>[</span>j<span>]</span><span>)</span>
+                p<span>.</span><span>reuse</span><span>(</span>sub<span>[</span>j<span>]</span><span>)</span>
+            <span>}</span>
+            <span>cleanAlt</span><span>(</span>sub<span>[</span>start<span>]</span><span>)</span>
+            out <span>=</span> <span>append</span><span>(</span>out<span>,</span> sub<span>[</span>start<span>]</span><span>)</span>
+        <span>}</span>
+
+        <span>// ... and then emit sub[i].</span>
+        <span>if</span> i <span>&lt;</span> <span>len</span><span>(</span>sub<span>)</span> <span>{</span>
+            out <span>=</span> <span>append</span><span>(</span>out<span>,</span> sub<span>[</span>i<span>]</span><span>)</span>
+        <span>}</span>
+        start <span>=</span> i <span>+</span> <span>1</span>
+    <span>}</span>
+    sub <span>=</span> out
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br></div></div><p>回到 <code>factor()</code> ，继续看第三轮。第三轮的目的是把连续的字面量和字符类节点合并。 <code>start</code> 、 <code>out</code> 和循环不变性的作用都基本没变。 <code>factor()</code> 使用了 <code>isCharClass()</code> 函数检查节点是不是字符类。</p>
+<div><pre><code><span>func</span> <span>isCharClass</span><span>(</span>re <span>*</span>Regexp<span>)</span> <span>bool</span> <span>{</span>
+    <span>return</span> re<span>.</span>Op <span>==</span> OpLiteral <span>&amp;&amp;</span> <span>len</span><span>(</span>re<span>.</span>Rune<span>)</span> <span>==</span> <span>1</span> <span>||</span>
+        re<span>.</span>Op <span>==</span> OpCharClass <span>||</span>
+        re<span>.</span>Op <span>==</span> OpAnyCharNotNL <span>||</span>
+        re<span>.</span>Op <span>==</span> OpAnyChar
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>后面的 <code>if</code> 分支又是那么的熟悉，主要是看 <code>else</code> 分支。首先它遍历了找到的节点，寻找类型值最大的。合理猜测，字符类范围越大的类型值可能也是越大。</p>
+<div><pre><code><span>const</span> <span>(</span>
+    OpNoMatch        Op <span>=</span> <span>1</span> <span>+</span> <span>iota</span> <span>// matches no strings</span>
+    OpEmptyMatch                   <span>// matches empty string</span>
+    OpLiteral                      <span>// matches Runes sequence</span>
+    OpCharClass                    <span>// matches Runes interpreted as range pair list</span>
+    OpAnyCharNotNL                 <span>// matches any character except newline</span>
+    OpAnyChar                      <span>// matches any character</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>看了一下，确实。找到了范围最大的节点之后，把它和 <code>sub[start]</code> 交换，然后把 <code>sub[start+1:i]</code> 全部合并进 <code>sub[start]</code> 。再看一下 <code>mergeCharClass()</code> 内部。</p>
+<div><pre><code><span>func</span> <span>mergeCharClass</span><span>(</span>dst<span>,</span> src <span>*</span>Regexp<span>)</span> <span>{</span>
+    <span>switch</span> dst<span>.</span>Op <span>{</span>
+    <span>case</span> OpAnyChar<span>:</span>
+        <span>// src doesn't add anything.</span>
+    <span>case</span> OpAnyCharNotNL<span>:</span>
+        <span>// src might add \n</span>
+        <span>if</span> <span>matchRune</span><span>(</span>src<span>,</span> <span>'\n'</span><span>)</span> <span>{</span>
+            dst<span>.</span>Op <span>=</span> OpAnyChar
+        <span>}</span>
+    <span>case</span> OpCharClass<span>:</span>
+        <span>// src is simpler, so either literal or char class</span>
+        <span>if</span> src<span>.</span>Op <span>==</span> OpLiteral <span>{</span>
+            dst<span>.</span>Rune <span>=</span> <span>appendLiteral</span><span>(</span>dst<span>.</span>Rune<span>,</span> src<span>.</span>Rune<span>[</span><span>0</span><span>]</span><span>,</span> src<span>.</span>Flags<span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            dst<span>.</span>Rune <span>=</span> <span>appendClass</span><span>(</span>dst<span>.</span>Rune<span>,</span> src<span>.</span>Rune<span>)</span>
+        <span>}</span>
+    <span>case</span> OpLiteral<span>:</span>
+        <span>// both literal</span>
+        <span>if</span> src<span>.</span>Rune<span>[</span><span>0</span><span>]</span> <span>==</span> dst<span>.</span>Rune<span>[</span><span>0</span><span>]</span> <span>&amp;&amp;</span> src<span>.</span>Flags <span>==</span> dst<span>.</span>Flags <span>{</span>
+            <span>break</span>
+        <span>}</span>
+        dst<span>.</span>Op <span>=</span> OpCharClass
+        dst<span>.</span>Rune <span>=</span> <span>appendLiteral</span><span>(</span>dst<span>.</span>Rune<span>[</span><span>:</span><span>0</span><span>]</span><span>,</span> dst<span>.</span>Rune<span>[</span><span>0</span><span>]</span><span>,</span> dst<span>.</span>Flags<span>)</span>
+        dst<span>.</span>Rune <span>=</span> <span>appendLiteral</span><span>(</span>dst<span>.</span>Rune<span>,</span> src<span>.</span>Rune<span>[</span><span>0</span><span>]</span><span>,</span> src<span>.</span>Flags<span>)</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div><p><code>mergeCharClass()</code> 里面又调用了很多函数，我就不去看了。那些函数里有一些比较麻烦的处理大小写敏感的代码。返回到 <code>factor()</code> 函数，之后调用了 <code>cleanAlt()</code> 函数。</p>
+<div><pre><code><span>func</span> <span>cleanAlt</span><span>(</span>re <span>*</span>Regexp<span>)</span> <span>{</span>
+    <span>switch</span> re<span>.</span>Op <span>{</span>
+    <span>case</span> OpCharClass<span>:</span>
+        re<span>.</span>Rune <span>=</span> <span>cleanClass</span><span>(</span><span>&amp;</span>re<span>.</span>Rune<span>)</span>
+        <span>if</span> <span>len</span><span>(</span>re<span>.</span>Rune<span>)</span> <span>==</span> <span>2</span> <span>&amp;&amp;</span> re<span>.</span>Rune<span>[</span><span>0</span><span>]</span> <span>==</span> <span>0</span> <span>&amp;&amp;</span> re<span>.</span>Rune<span>[</span><span>1</span><span>]</span> <span>==</span> unicode<span>.</span>MaxRune <span>{</span>
+            re<span>.</span>Rune <span>=</span> <span>nil</span>
+            re<span>.</span>Op <span>=</span> OpAnyChar
+            <span>return</span>
+        <span>}</span>
+        <span>if</span> <span>len</span><span>(</span>re<span>.</span>Rune<span>)</span> <span>==</span> <span>4</span> <span>&amp;&amp;</span> re<span>.</span>Rune<span>[</span><span>0</span><span>]</span> <span>==</span> <span>0</span> <span>&amp;&amp;</span> re<span>.</span>Rune<span>[</span><span>1</span><span>]</span> <span>==</span> <span>'\n'</span><span>-</span><span>1</span> <span>&amp;&amp;</span> re<span>.</span>Rune<span>[</span><span>2</span><span>]</span> <span>==</span> <span>'\n'</span><span>+</span><span>1</span> <span>&amp;&amp;</span> re<span>.</span>Rune<span>[</span><span>3</span><span>]</span> <span>==</span> unicode<span>.</span>MaxRune <span>{</span>
+            re<span>.</span>Rune <span>=</span> <span>nil</span>
+            re<span>.</span>Op <span>=</span> OpAnyCharNotNL
+            <span>return</span>
+        <span>}</span>
+        <span>if</span> <span>cap</span><span>(</span>re<span>.</span>Rune<span>)</span><span>-</span><span>len</span><span>(</span>re<span>.</span>Rune<span>)</span> <span>></span> <span>100</span> <span>{</span>
+            <span>// re.Rune will not grow any more.</span>
+            <span>// Make a copy or inline to reclaim storage.</span>
+            re<span>.</span>Rune <span>=</span> <span>append</span><span>(</span>re<span>.</span>Rune0<span>[</span><span>:</span><span>0</span><span>]</span><span>,</span> re<span>.</span>Rune<span>...</span><span>)</span>
+        <span>}</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br></div></div><p><code>cleanAlt()</code> 里是一个迷幻的 <code>switch</code> ，只有一个分支，只有字符类的节点才会被处理。 <code>cleanAlt()</code> 首先调用了 <code>cleanClass()</code> 。</p>
+<div><pre><code><span>func</span> <span>cleanClass</span><span>(</span>rp <span>*</span><span>[</span><span>]</span><span>rune</span><span>)</span> <span>[</span><span>]</span><span>rune</span> <span>{</span>
+
+    <span>// Sort by lo increasing, hi decreasing to break ties.</span>
+    sort<span>.</span><span>Sort</span><span>(</span>ranges<span>{</span>rp<span>}</span><span>)</span>
+
+    r <span>:=</span> <span>*</span>rp
+    <span>if</span> <span>len</span><span>(</span>r<span>)</span> <span>&lt;</span> <span>2</span> <span>{</span>
+        <span>return</span> r
+    <span>}</span>
+
+    <span>// Merge abutting, overlapping.</span>
+    w <span>:=</span> <span>2</span> <span>// write index</span>
+    <span>for</span> i <span>:=</span> <span>2</span><span>;</span> i <span>&lt;</span> <span>len</span><span>(</span>r<span>)</span><span>;</span> i <span>+=</span> <span>2</span> <span>{</span>
+        lo<span>,</span> hi <span>:=</span> r<span>[</span>i<span>]</span><span>,</span> r<span>[</span>i<span>+</span><span>1</span><span>]</span>
+        <span>if</span> lo <span>&lt;=</span> r<span>[</span>w<span>-</span><span>1</span><span>]</span><span>+</span><span>1</span> <span>{</span>
+            <span>// merge with previous range</span>
+            <span>if</span> hi <span>></span> r<span>[</span>w<span>-</span><span>1</span><span>]</span> <span>{</span>
+                r<span>[</span>w<span>-</span><span>1</span><span>]</span> <span>=</span> hi
+            <span>}</span>
+            <span>continue</span>
+        <span>}</span>
+        <span>// new disjoint range</span>
+        r<span>[</span>w<span>]</span> <span>=</span> lo
+        r<span>[</span>w<span>+</span><span>1</span><span>]</span> <span>=</span> hi
+        w <span>+=</span> <span>2</span>
+    <span>}</span>
+
+    <span>return</span> r<span>[</span><span>:</span>w<span>]</span>
+<span>}</span>
+
+<span>type</span> ranges <span>struct</span> <span>{</span>
+    p <span>*</span><span>[</span><span>]</span><span>rune</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>ra ranges<span>)</span> <span>Less</span><span>(</span>i<span>,</span> j <span>int</span><span>)</span> <span>bool</span> <span>{</span>
+    p <span>:=</span> <span>*</span>ra<span>.</span>p
+    i <span>*=</span> <span>2</span>
+    j <span>*=</span> <span>2</span>
+    <span>return</span> p<span>[</span>i<span>]</span> <span>&lt;</span> p<span>[</span>j<span>]</span> <span>||</span> p<span>[</span>i<span>]</span> <span>==</span> p<span>[</span>j<span>]</span> <span>&amp;&amp;</span> p<span>[</span>i<span>+</span><span>1</span><span>]</span> <span>></span> p<span>[</span>j<span>+</span><span>1</span><span>]</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>ra ranges<span>)</span> <span>Len</span><span>(</span><span>)</span> <span>int</span> <span>{</span>
+    <span>return</span> <span>len</span><span>(</span><span>*</span>ra<span>.</span>p<span>)</span> <span>/</span> <span>2</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>ra ranges<span>)</span> <span>Swap</span><span>(</span>i<span>,</span> j <span>int</span><span>)</span> <span>{</span>
+    p <span>:=</span> <span>*</span>ra<span>.</span>p
+    i <span>*=</span> <span>2</span>
+    j <span>*=</span> <span>2</span>
+    p<span>[</span>i<span>]</span><span>,</span> p<span>[</span>i<span>+</span><span>1</span><span>]</span><span>,</span> p<span>[</span>j<span>]</span><span>,</span> p<span>[</span>j<span>+</span><span>1</span><span>]</span> <span>=</span> p<span>[</span>j<span>]</span><span>,</span> p<span>[</span>j<span>+</span><span>1</span><span>]</span><span>,</span> p<span>[</span>i<span>]</span><span>,</span> p<span>[</span>i<span>+</span><span>1</span><span>]</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br></div></div><p>根据上面的代码，可以猜测字符类类型的节点中， <code>Rune</code> 中保存的字符是一对一对的，按照 <code>lo</code> 、 <code>hi</code> 、 <code>lo</code> 、 <code>hi</code> ……这样的规律排列。每一对 <code>lo</code> 、 <code>hi</code> 代表一个范围，范围内的所有字符都属于该字符类。所以 <code>ranges</code> 类型实现了 <code>sort.Interface</code> 接口，能够按照 <code>lo</code> 升序， <code>hi</code> 降序的顺序排序。</p>
+<p><code>cleanClass()</code> 先对 <code>Rune</code> 进行排序，然后消除范围之间的重叠，进行一个压缩。再回到 <code>factor()</code> ，这一轮终于搞完了。</p>
+<div><pre><code>    <span>// Round 4: Collapse runs of empty matches into a single empty match.</span>
+    start <span>=</span> <span>0</span>
+    out <span>=</span> sub<span>[</span><span>:</span><span>0</span><span>]</span>
+    <span>for</span> i <span>:=</span> <span>range</span> sub <span>{</span>
+        <span>if</span> i<span>+</span><span>1</span> <span>&lt;</span> <span>len</span><span>(</span>sub<span>)</span> <span>&amp;&amp;</span> sub<span>[</span>i<span>]</span><span>.</span>Op <span>==</span> OpEmptyMatch <span>&amp;&amp;</span> sub<span>[</span>i<span>+</span><span>1</span><span>]</span><span>.</span>Op <span>==</span> OpEmptyMatch <span>{</span>
+            <span>continue</span>
+        <span>}</span>
+        out <span>=</span> <span>append</span><span>(</span>out<span>,</span> sub<span>[</span>i<span>]</span><span>)</span>
+    <span>}</span>
+    sub <span>=</span> out
+
+    <span>return</span> sub
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>最后一次循环会把连续的空匹配类型节点合并。<code>factor()</code> 终于看完了，已经都不记得是从哪来的了。回到 <code>collapse()</code> ， <code>factor()</code> 之后就没有什么处理了。只是简单地检查了一下子节点的数量，如果只有一个子节点，那么就用子节点替代本节点的位置。</p>
+<p>再回到 <code>concat()</code> ，终于结束了，继续返回。回到 <code>parseRightParen()</code> 才发现原来到现在只看了一行而已！</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>parseRightParen</span><span>(</span><span>)</span> <span>error</span> <span>{</span>
+    p<span>.</span><span>concat</span><span>(</span><span>)</span>
+    <span>if</span> p<span>.</span><span>swapVerticalBar</span><span>(</span><span>)</span> <span>{</span>
+        <span>// pop vertical bar</span>
+        p<span>.</span>stack <span>=</span> p<span>.</span>stack<span>[</span><span>:</span><span>len</span><span>(</span>p<span>.</span>stack<span>)</span><span>-</span><span>1</span><span>]</span>
+    <span>}</span>
+    p<span>.</span><span>alternate</span><span>(</span><span>)</span>
+
+    n <span>:=</span> <span>len</span><span>(</span>p<span>.</span>stack<span>)</span>
+    <span>if</span> n <span>&lt;</span> <span>2</span> <span>{</span>
+        <span>return</span> <span>&amp;</span>Error<span>{</span>ErrUnexpectedParen<span>,</span> p<span>.</span>wholeRegexp<span>}</span>
+    <span>}</span>
+    re1 <span>:=</span> p<span>.</span>stack<span>[</span>n<span>-</span><span>1</span><span>]</span>
+    re2 <span>:=</span> p<span>.</span>stack<span>[</span>n<span>-</span><span>2</span><span>]</span>
+    p<span>.</span>stack <span>=</span> p<span>.</span>stack<span>[</span><span>:</span>n<span>-</span><span>2</span><span>]</span>
+    <span>if</span> re2<span>.</span>Op <span>!=</span> opLeftParen <span>{</span>
+        <span>return</span> <span>&amp;</span>Error<span>{</span>ErrUnexpectedParen<span>,</span> p<span>.</span>wholeRegexp<span>}</span>
+    <span>}</span>
+    <span>// Restore flags at time of paren.</span>
+    p<span>.</span>flags <span>=</span> re2<span>.</span>Flags
+    <span>if</span> re2<span>.</span>Cap <span>==</span> <span>0</span> <span>{</span>
+        <span>// Just for grouping.</span>
+        p<span>.</span><span>push</span><span>(</span>re1<span>)</span>
+    <span>}</span> <span>else</span> <span>{</span>
+        re2<span>.</span>Op <span>=</span> OpCapture
+        re2<span>.</span>Sub <span>=</span> re2<span>.</span>Sub0<span>[</span><span>:</span><span>1</span><span>]</span>
+        re2<span>.</span>Sub<span>[</span><span>0</span><span>]</span> <span>=</span> re1
+        p<span>.</span><span>push</span><span>(</span>re2<span>)</span>
+    <span>}</span>
+    <span>return</span> <span>nil</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div>]]></content:encoded>
     </item>
   </channel>
 </rss>
