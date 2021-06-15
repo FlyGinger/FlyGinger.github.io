@@ -6,8 +6,8 @@
     <link>https://flyginger.top/</link>
     <description>zenk's blog</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Jun 2021 13:43:02 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Jun 2021 13:43:02 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Jun 2021 06:07:29 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Jun 2021 06:07:29 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by zenk</copyright>
@@ -19,7 +19,7 @@
       <link>https://flyginger.top/intro/</link>
       <guid>https://flyginger.top/intro/</guid>
       <source url="https://flyginger.top/rss.xml">个人介绍</source>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
 <p>hidden now.</p>
 ]]></content:encoded>
@@ -30,7 +30,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论1 算法的概念</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论1-算法的概念"> 算法导论1 算法的概念</h1>
 <p>通俗地讲，<strong>算法</strong>（algorithm）是以值或一组值作为<strong>输入</strong>（input），<strong>输出</strong>（output）值或一组值的计算步骤，也可以把算法看作解决<strong>计算问题</strong>（computational problem）的工具。举例来说，<strong>排序问题</strong>（sorting problem）的规范定义是：</p>
 <blockquote>
@@ -51,7 +51,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论10 基础数据结构</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论10-基础数据结构"> 算法导论10 基础数据结构</h1>
 <p>集合是数学和计算机科学中常用的概念。算法中的集合往往是<strong>动态</strong>（dynamic）的：算法经常对集合进行添加新数据，删除旧数据等操作。某些动态集合把元素的某一个属性当作<strong>键</strong>（key），用以区分不同的元素。元素中除了键的其他数据称为<strong>卫星数据</strong>（satellite data）。</p>
 <p>对动态集合进行的操作可以分为两大类：<strong>查询</strong>（query）和<strong>修改</strong>（modify）。下面列出了典型的操作，大部分算法中只会用到其中的几种：</p>
@@ -145,7 +145,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论3 函数的增长</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论3-函数的增长"> 算法导论3 函数的增长</h1>
 <p>算法的<strong>渐近</strong>（asymptotic）效率关注的是算法的运行时间如何随着输入规模的增长而增长。本章介绍了分析渐近效率时使用的数学符号和定义，并且给出了一些常用函数之间的渐近效率关系。</p>
 <h2 id="_3-1-渐近符号"> 3.1 渐近符号</h2>
@@ -276,7 +276,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论5 概率分析和随机算法</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论5-概率分析和随机算法"> 算法导论5 概率分析和随机算法</h1>
 <h2 id="_5-1-招聘问题"> 5.1 招聘问题</h2>
 <p>假设你要雇佣新员工。每次你可以花费少量资金，面试一个应聘者。该应聘者的能力是随机的，如果你决定雇佣他，你需要花费一大笔钱。只有当你决定是否雇佣此应聘者之后，你才能面试下一个应聘者。你的策略如下：如果应聘者的能力比上一个被雇佣的应聘者优秀（当没有上一个时直接雇佣），那么雇佣该应聘者；否则就不雇佣该应聘者，继续面试。这种策略的伪代码如下：</p>
@@ -371,7 +371,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论7 快速排序</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论7-快速排序"> 算法导论7 快速排序</h1>
 <p><strong>快速排序</strong>（quicksort）的最坏情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span><span>n</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>)</span></span></span></span>。虽然如此，快速排序在实际场景中经常是表现最好的，它的期望运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，并且隐含的常数相对小。另外，快速排序还有原地排序的优点。</p>
 <h2 id="_7-1-快速排序"> 7.1 快速排序</h2>
@@ -462,7 +462,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论8 线性时间排序</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论8-线性时间排序"> 算法导论8 线性时间排序</h1>
 <p>前几章中提到的几种排序方法，例如插入排序、归并排序、堆排序和快速排序，有一个共同点：顺序判断仅基于元素间的比较。这类排序算法称为<strong>比较排序</strong>（comparsion sort）。</p>
 <p>接下来会先证明比较排序算法都是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Ω</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，然后给出几个可以在线性时间内排序的算法。</p>
@@ -594,7 +594,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</link>
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论</source>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论"> 算法导论</h1>
 <ul>
 <li>I 基础概念
@@ -629,7 +629,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/</link>
       <guid>https://flyginger.top/</guid>
       <source url="https://flyginger.top/rss.xml">zenk's blog</source>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
     </item>
     <item>
       <title>算法导论12 二叉搜索树</title>
@@ -637,7 +637,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论12 二叉搜索树</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论12-二叉搜索树"> 算法导论12 二叉搜索树</h1>
 <h2 id="_12-1-二叉搜索树"> 12.1 二叉搜索树</h2>
 <p>以下是两棵二叉搜索树：</p>
@@ -821,7 +821,7 @@ TREE-MAXIMUM(x)
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论2 设计算法的流程</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论2-设计算法的流程"> 算法导论2 设计算法的流程</h1>
 <p>设计、证明、分析是处理计算问题的基本步骤。本章以排序问题为例，遍历了这三个基本步骤。首先给出了一个算法（插入排序），证明了它的正确性，分析了它的运行时间。然后使用另一种设计思想（分治）设计了另一种算法（归并排序），同样证明了它的正确性，分析了它的运行时间。</p>
 <h2 id="_2-1-插入排序"> 2.1 插入排序</h2>
@@ -1022,7 +1022,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论4 分治</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论4-分治"> 算法导论4 分治</h1>
 <p><strong>递推式</strong>（recurrence）是使用更小输入的项来描述当前项的等式或不等式。本章提供了三种求解递推式的方法，分别是<strong>替换法</strong>（substitution method），<strong>递归树法</strong>（recursion-tree method），<strong>主方法</strong>（master method）。</p>
 <h2 id="_4-1-最大子数组问题"> 4.1 最大子数组问题</h2>
@@ -1172,7 +1172,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论6 堆排序</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论6-堆排序"> 算法导论6 堆排序</h1>
 <h2 id="_6-1-堆"> 6.1 堆</h2>
 <p><strong>二叉堆</strong>（binary heap）是一种可以看成完全二叉树的数组，一般简称为堆。满二叉树是满足以下两个条件的二叉树：</p>
@@ -1327,7 +1327,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论9 中位数和顺序统计</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论9-中位数和顺序统计"> 算法导论9 中位数和顺序统计</h1>
 <p>第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 位顺序统计是指 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个元素的集合中第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 小的元素。那么元素集合的<strong>最小值</strong>（minimum）就是第一个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>），<strong>最大值</strong>（maximum）就是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>）。</p>
 <p><strong>中位数</strong>（median）是集合中位于“中间”的元素。当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为奇数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span></span></span></span> 个顺序统计；当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为偶数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span></span></span></span> 和第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span> 两个顺序统计的平均数。通常把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌊(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌋</span></span></span></span> 称为<strong>下中位数</strong>（lower median），把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌉</span></span></span></span> 称为<strong>上中位数</strong>（upper median）。为简化描述，下文中的中位数均指下中位数。</p>
@@ -1408,7 +1408,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/</guid>
       <source url="https://flyginger.top/rss.xml">快速排序的优化</source>
       <category>每日迷惑</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="快速排序的优化"> 快速排序的优化</h1>
 <p>在对快速排序进行优化之前，回忆一下部分基于比较的排序算法的时间复杂度。</p>
 <table>
@@ -1617,7 +1617,7 @@ BenchmarkGoSort-8              9        1197205511 ns/op
       <guid>https://flyginger.top/post/2021-05-22%20PyNN/</guid>
       <source url="https://flyginger.top/rss.xml">PyNN</source>
       <category>每日迷惑</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="pynn"> PyNN</h1>
 <p><a href="http://neuralensemble.org/PyNN/" target="_blank" rel="noopener noreferrer">PyNN</a>（发音与 pine 相同）是一种用于构建神经网络模型的语言，且独立于模拟器。使用 PyNN 的 API 和 Python 编程语言编写的模型代码，无需修改即可运行于多种 PyNN 支持的模拟器后端或者神经拟态（neuronmorphic）硬件系统。</p>
 <h2 id="安装"> 安装</h2>
@@ -1900,7 +1900,7 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
       <guid>https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（一）</source>
       <category>编译器</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-一"> Go 的正则（一）</h1>
 <p>今天想研究一下 Go 的正则包是怎么实现的，看看能不能写一个效率高一些的 tokenizer 。正则包收到正则表达式后，一般首先会对其进行一些处理。 Go 的正则包，据我所知是 <code>re2</code> ，使用的是传统的 NFA/DFA 技术。因此，正则表达式应该会被转换成一个状态机。</p>
 <div><p>提示</p>
@@ -1970,7 +1970,7 @@ BigSwitch<span>:</span>
 <span>}</span>
 p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>注意， <code>switch</code> 后跟随的表达式是 <code>t[0]</code> ，也就是仍未分析的正则表达式中的第一个字符（严格来说，是第一个 <code>byte</code> ）。而 <code>default</code> 分支没有使用这一个条件，直接从 <code>t</code> 中读取出了第一个 <code>rune</code> 。这使得 Go 的正则包支持 UTF-8 。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>注意， <code>switch</code> 后跟随的表达式是 <code>t[0]</code> ，也就是仍未分析的正则表达式中的第一个字符（严格来说，是第一个 <code>byte</code> ）。而 <code>default</code> 分支没有使用这一个条件，直接从 <code>t</code> 中读取出了第一个 <code>rune</code> 。这使得 Go 的正则包支持 Unicode 。</p>
 <h3 id="括号"> 括号</h3>
 <p>括号可以改变优先级和分组，是实现起来比较复杂的部分。</p>
 <div><pre><code><span>// regexp/syntax/parse.go</span>
@@ -2051,8 +2051,8 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
 <span>}</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br></div></div><p><code>maybeConcat()</code> 会尝试对栈顶元素进行压缩，把连续的字面量字符放到同一个节点中。 <code>maybeConcat()</code> 的前几行进行了一个判断，如果解析栈中的节点数量少于 2 ，那么直接返回 <code>false</code> 。然后， <code>maybeConcat()</code> 读取了最后入栈的两个节点，命名为 <code>re1</code> 、 <code>re2</code> ，注意 <code>re2</code> 是先入栈的节点。如果 <code>re1</code> 和 <code>re2</code> 都是 <code>OpLiteral</code> 节点（字面量类型），并且对于是否忽略大小写的设置相同，那么继续执行；否则不能压缩，直接返回 <code>false</code> 。</p>
-<p>接下来， <code>maybeConcat()</code> 把 <code>re1.Rune</code> 附加到了 <code>re2.Rune</code> 之后，此时可以认为 <code>re1.Rune</code> 空了出来。当输入的字符 <code>r &gt;= 0</code> ，也就是说 <code>r</code> 是一个合法的 UTF-8 字符时， <code>maybeConcat()</code> 会把 <code>r</code> 放到 <code>re1.Rune</code> 中，等价于 <code>re1.Rune = []rune{r}</code>。<code>re1.Rune0</code> 是一个定长数组 <code>[2]rune</code> ，推测其作用是在字符数量不多时，减少内存操作的次数。最后， <code>maybeConcat()</code> 返回 <code>ture</code> ，代表 <code>r</code> 已经被压入栈中。这是对 <code>re1</code> 的直接利用， <code>re1</code> 不必从栈中弹出，它里面原本保存的内容合并到了 <code>re2</code> 中，而它现在保存的内容是 <code>r</code> 。</p>
-<p>不过，处理括号的 <code>case</code> 在调用 <code>maybeConcat()</code> 时的参数 <code>r == -1</code> ，不是一个合法的 UTF-8 字符。此时 <code>re1</code> 无法被直接利用，会被从栈中弹出，调用 <code>reuse()</code> 方法对其废物利用。最后 <code>maybeConcat()</code> 返回 <code>false</code> ， 代表 <code>r</code> 没有被压入栈中。</p>
+<p>接下来， <code>maybeConcat()</code> 把 <code>re1.Rune</code> 附加到了 <code>re2.Rune</code> 之后，此时可以认为 <code>re1.Rune</code> 空了出来。当输入的字符 <code>r &gt;= 0</code> ，也就是说 <code>r</code> 是一个合法的 Unicode 字符时， <code>maybeConcat()</code> 会把 <code>r</code> 放到 <code>re1.Rune</code> 中，等价于 <code>re1.Rune = []rune{r}</code>。<code>re1.Rune0</code> 是一个定长数组 <code>[2]rune</code> ，推测其作用是在字符数量不多时，减少内存操作的次数。最后， <code>maybeConcat()</code> 返回 <code>ture</code> ，代表 <code>r</code> 已经被压入栈中。这是对 <code>re1</code> 的直接利用， <code>re1</code> 不必从栈中弹出，它里面原本保存的内容合并到了 <code>re2</code> 中，而它现在保存的内容是 <code>r</code> 。</p>
+<p>不过，处理括号的 <code>case</code> 在调用 <code>maybeConcat()</code> 时的参数 <code>r == -1</code> ，不是一个合法的 Unicode 字符。此时 <code>re1</code> 无法被直接利用，会被从栈中弹出，调用 <code>reuse()</code> 方法对其废物利用。最后 <code>maybeConcat()</code> 返回 <code>false</code> ， 代表 <code>r</code> 没有被压入栈中。</p>
 <div><pre><code><span>// regexp/syntax/parse.go</span>
 <span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>reuse</span><span>(</span>re <span>*</span>Regexp<span>)</span> <span>{</span>
     re<span>.</span>Sub0<span>[</span><span>0</span><span>]</span> <span>=</span> p<span>.</span>free
@@ -2143,12 +2143,418 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>Go 的正则（三）</title>
+      <link>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%89%EF%BC%89/</link>
+      <guid>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%89%EF%BC%89/</guid>
+      <source url="https://flyginger.top/rss.xml">Go 的正则（三）</source>
+      <category>编译器</category>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="go-的正则-三"> Go 的正则（三）</h1>
+<p>括号的处理还没有说完……</p>
+<h2 id="括号"> 括号</h2>
+<p>终于看完了 <code>parseRightParen()</code> 的第一行，接下来它调用了 <code>swapVerticalBar()</code> 方法。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>swapVerticalBar</span><span>(</span><span>)</span> <span>bool</span> <span>{</span>
+    <span>// If above and below vertical bar are literal or char class,</span>
+    <span>// can merge into a single char class.</span>
+    n <span>:=</span> <span>len</span><span>(</span>p<span>.</span>stack<span>)</span>
+    <span>if</span> n <span>>=</span> <span>3</span> <span>&amp;&amp;</span> p<span>.</span>stack<span>[</span>n<span>-</span><span>2</span><span>]</span><span>.</span>Op <span>==</span> opVerticalBar <span>&amp;&amp;</span> <span>isCharClass</span><span>(</span>p<span>.</span>stack<span>[</span>n<span>-</span><span>1</span><span>]</span><span>)</span> <span>&amp;&amp;</span> <span>isCharClass</span><span>(</span>p<span>.</span>stack<span>[</span>n<span>-</span><span>3</span><span>]</span><span>)</span> <span>{</span>
+        re1 <span>:=</span> p<span>.</span>stack<span>[</span>n<span>-</span><span>1</span><span>]</span>
+        re3 <span>:=</span> p<span>.</span>stack<span>[</span>n<span>-</span><span>3</span><span>]</span>
+        <span>// Make re3 the more complex of the two.</span>
+        <span>if</span> re1<span>.</span>Op <span>></span> re3<span>.</span>Op <span>{</span>
+            re1<span>,</span> re3 <span>=</span> re3<span>,</span> re1
+            p<span>.</span>stack<span>[</span>n<span>-</span><span>3</span><span>]</span> <span>=</span> re3
+        <span>}</span>
+        <span>mergeCharClass</span><span>(</span>re3<span>,</span> re1<span>)</span>
+        p<span>.</span><span>reuse</span><span>(</span>re1<span>)</span>
+        p<span>.</span>stack <span>=</span> p<span>.</span>stack<span>[</span><span>:</span>n<span>-</span><span>1</span><span>]</span>
+        <span>return</span> <span>true</span>
+    <span>}</span>
+
+    <span>if</span> n <span>>=</span> <span>2</span> <span>{</span>
+        re1 <span>:=</span> p<span>.</span>stack<span>[</span>n<span>-</span><span>1</span><span>]</span>
+        re2 <span>:=</span> p<span>.</span>stack<span>[</span>n<span>-</span><span>2</span><span>]</span>
+        <span>if</span> re2<span>.</span>Op <span>==</span> opVerticalBar <span>{</span>
+            <span>if</span> n <span>>=</span> <span>3</span> <span>{</span>
+                <span>// Now out of reach.</span>
+                <span>// Clean opportunistically.</span>
+                <span>cleanAlt</span><span>(</span>p<span>.</span>stack<span>[</span>n<span>-</span><span>3</span><span>]</span><span>)</span>
+            <span>}</span>
+            p<span>.</span>stack<span>[</span>n<span>-</span><span>2</span><span>]</span> <span>=</span> re1
+            p<span>.</span>stack<span>[</span>n<span>-</span><span>1</span><span>]</span> <span>=</span> re2
+            <span>return</span> <span>true</span>
+        <span>}</span>
+    <span>}</span>
+    <span>return</span> <span>false</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br></div></div><p>首先是第一个 <code>if</code> 分支。它检查的是栈顶的节点是不是字符类、选择操作 <code>|</code> 、字符类这样的结构。在类似的结构中，两个字符类可以被合并为一个。比如 <code>[a-z]|[0-9]</code> 可以变为 <code>[a-z0-9]</code> 。合并完之后，直接回收了栈顶的字符类节点，让选择操作的节点暴露了出来。</p>
+<p>再来看第二个 <code>if</code> 分支。如果栈顶节点是选择操作 <code>|</code> 、任意类型这样的结构，那么交换这两个节点的位置，并且返回 <code>true</code> 。如果此时栈中的节点数量达到了 3 ，还会顺手对栈顶第三个节点进行 <code>cleanAlt()</code> 。</p>
+<p>返回 <code>parseRightParen()</code> ，它丢弃了栈顶的选择操作 <code>|</code> 节点，然后调用了 <code>alternate()</code> 方法。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>alternate</span><span>(</span><span>)</span> <span>*</span>Regexp <span>{</span>
+    <span>// Scan down to find pseudo-operator (.</span>
+    <span>// There are no | above (.</span>
+    i <span>:=</span> <span>len</span><span>(</span>p<span>.</span>stack<span>)</span>
+    <span>for</span> i <span>></span> <span>0</span> <span>&amp;&amp;</span> p<span>.</span>stack<span>[</span>i<span>-</span><span>1</span><span>]</span><span>.</span>Op <span>&lt;</span> opPseudo <span>{</span>
+        i<span>--</span>
+    <span>}</span>
+    subs <span>:=</span> p<span>.</span>stack<span>[</span>i<span>:</span><span>]</span>
+    p<span>.</span>stack <span>=</span> p<span>.</span>stack<span>[</span><span>:</span>i<span>]</span>
+
+    <span>// Make sure top class is clean.</span>
+    <span>// All the others already are (see swapVerticalBar).</span>
+    <span>if</span> <span>len</span><span>(</span>subs<span>)</span> <span>></span> <span>0</span> <span>{</span>
+        <span>cleanAlt</span><span>(</span>subs<span>[</span><span>len</span><span>(</span>subs<span>)</span><span>-</span><span>1</span><span>]</span><span>)</span>
+    <span>}</span>
+
+    <span>// Empty alternate is special case</span>
+    <span>// (shouldn't happen but easy to handle).</span>
+    <span>if</span> <span>len</span><span>(</span>subs<span>)</span> <span>==</span> <span>0</span> <span>{</span>
+        <span>return</span> p<span>.</span><span>push</span><span>(</span>p<span>.</span><span>newRegexp</span><span>(</span>OpNoMatch<span>)</span><span>)</span>
+    <span>}</span>
+
+    <span>return</span> p<span>.</span><span>push</span><span>(</span>p<span>.</span><span>collapse</span><span>(</span>subs<span>,</span> OpAlternate<span>)</span><span>)</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></div></div><p>嗯，不长。 <code>alternate()</code> 的第一个 <code>for</code> 循环会向前寻找遇到的第一个 <code>(</code> 或者栈底。根据注释，在第一个 <code>(</code> 或栈底之后不会有 <code>|</code> 节点。现在还看不出来为什么能这样保证。</p>
+<p>然后对栈顶节点进行了 <code>cleanAlt()</code> ，并且根据注释，其他的节点都进行过 <code>cleanAlt()</code> 了。同样，现在还看不出来为什么能这样保证。</p>
+<p>最后，处理了空选择的特殊情况。然后使用 <code>collapse()</code> 方法对找到的所有选项进行了合并。</p>
+<p>回到 <code>parseRightParen()</code> ，进行了以上处理之后，它先检查了一下栈中节点的数量是否达到了 2 ，然后弹出了栈顶的两个节点。如果第二个节点不是左括号将会产生错误。</p>
+<p>括号在正则表达式中的另一个作用是捕获。因此接下来检查了 <code>re2.Cap</code> 的值。注意，括号中的内容放在 <code>re1</code> 中， <code>re2</code> 是 <code>(</code> 。 <code>Cap</code> 具体怎么样记录，目前还不清楚，注释里说它是捕获索引。</p>
+<p>不论如何， <code>re2.Cap == 0</code> 时，只把 <code>re1</code> 压回了栈中。否则，会把 <code>re2</code> 当场重新利用，改成一个 <code>OpCapture</code> 节点，然后令 <code>re1</code> 作为它唯一的子节点，最后把 <code>re2</code> 压回栈中。</p>
+<p>这样一来终于看完了括号的处理，但是疑问更多了。</p>
+<h2 id="选择"> 选择</h2>
+<p>选择符号 <code>|</code> 也是很复杂的，它通过 <code>parseVerticalBar()</code> 进行处理。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>parseVerticalBar</span><span>(</span><span>)</span> <span>error</span> <span>{</span>
+    p<span>.</span><span>concat</span><span>(</span><span>)</span>
+
+    <span>// The concatenation we just parsed is on top of the stack.</span>
+    <span>// If it sits above an opVerticalBar, swap it below</span>
+    <span>// (things below an opVerticalBar become an alternation).</span>
+    <span>// Otherwise, push a new vertical bar.</span>
+    <span>if</span> <span>!</span>p<span>.</span><span>swapVerticalBar</span><span>(</span><span>)</span> <span>{</span>
+        p<span>.</span><span>op</span><span>(</span>opVerticalBar<span>)</span>
+    <span>}</span>
+
+    <span>return</span> <span>nil</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><code>parseVerticalBar()</code> 一上来首先进行了 <code>concat()</code> ，把最后一个 <code>(</code> 或者 <code>|</code> 之后的所有节点连接在了一起。然后，又进行了 <code>swapVerticalBar()</code> 操作，如果没能把 <code>|</code> 交换到栈顶，那么手动插入一个 <code>opVerticalBar</code> 类型的节点。</p>
+<p>现在感觉稍微有点明白了。举个例子来说，正则表达式 <code>A|B|C</code> ，解析过程中栈中的内容应该是：</p>
+<div><pre><code>A - B - | - C
+</code></pre>
+<div><span>1</span><br></div></div><p>最后一个 <code>C</code> 代表当前正在处理的部分，可能还有其他字符连接在它后面，比如 <code>A|B|CD</code> 。当确认没有其他字符之后，应该会调用 <code>swapVerticalBar()</code> 将 <code>|</code> 交换出来。</p>
+<div><pre><code>A - B - C - |
+</code></pre>
+<div><span>1</span><br></div></div><p><code>|</code> 代表之前的所有节点都应该选择到一起。目前只是推测，继续往下看了。</p>
+<h2 id="起始符和终止符"> 起始符和终止符</h2>
+<p>起始符指的是 <code>^</code> ，它匹配的是文本的开始。终止符指的是 <code>$</code> ，它匹配的时文本的结束。</p>
+<div><pre><code>        <span>case</span> <span>'^'</span><span>:</span>
+            <span>if</span> p<span>.</span>flags<span>&amp;</span>OneLine <span>!=</span> <span>0</span> <span>{</span>
+                p<span>.</span><span>op</span><span>(</span>OpBeginText<span>)</span>
+            <span>}</span> <span>else</span> <span>{</span>
+                p<span>.</span><span>op</span><span>(</span>OpBeginLine<span>)</span>
+            <span>}</span>
+            t <span>=</span> t<span>[</span><span>1</span><span>:</span><span>]</span>
+        <span>case</span> <span>'$'</span><span>:</span>
+            <span>if</span> p<span>.</span>flags<span>&amp;</span>OneLine <span>!=</span> <span>0</span> <span>{</span>
+                p<span>.</span><span>op</span><span>(</span>OpEndText<span>)</span><span>.</span>Flags <span>|=</span> WasDollar
+            <span>}</span> <span>else</span> <span>{</span>
+                p<span>.</span><span>op</span><span>(</span>OpEndLine<span>)</span>
+            <span>}</span>
+            t <span>=</span> t<span>[</span><span>1</span><span>:</span><span>]</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p>是否开始 <code>OneLine</code> 模式对于起始符的匹配有一些影响。然而 tokenizer 不太关心这些东西。</p>
+<h2 id="通配符"> 通配符</h2>
+<p>通配符 <code>.</code> 能够匹配任意字符。</p>
+<div><pre><code>        <span>case</span> <span>'.'</span><span>:</span>
+            <span>if</span> p<span>.</span>flags<span>&amp;</span>DotNL <span>!=</span> <span>0</span> <span>{</span>
+                p<span>.</span><span>op</span><span>(</span>OpAnyChar<span>)</span>
+            <span>}</span> <span>else</span> <span>{</span>
+                p<span>.</span><span>op</span><span>(</span>OpAnyCharNotNL<span>)</span>
+            <span>}</span>
+            t <span>=</span> t<span>[</span><span>1</span><span>:</span><span>]</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p><code>.</code> 一般来说匹配的是除了 <code>\n</code> 之外的所有字符。如果打开了某些 flag ，就可以令它匹配任意字符。</p>
+<h2 id="字符类"> 字符类</h2>
+<p>字符类指的是 <code>[]</code> 包裹的内容，代表其中的任何一个字符。</p>
+<div><pre><code>        <span>case</span> <span>'['</span><span>:</span>
+            <span>if</span> t<span>,</span> err <span>=</span> p<span>.</span><span>parseClass</span><span>(</span>t<span>)</span><span>;</span> err <span>!=</span> <span>nil</span> <span>{</span>
+                <span>return</span> <span>nil</span><span>,</span> err
+            <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><code>[]</code> 其实还挺复杂的，所以单独写了一个方法对其进行解析。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>parseClass</span><span>(</span>s <span>string</span><span>)</span> <span>(</span>rest <span>string</span><span>,</span> err <span>error</span><span>)</span> <span>{</span>
+    t <span>:=</span> s<span>[</span><span>1</span><span>:</span><span>]</span> <span>// chop [</span>
+    re <span>:=</span> p<span>.</span><span>newRegexp</span><span>(</span>OpCharClass<span>)</span>
+    re<span>.</span>Flags <span>=</span> p<span>.</span>flags
+    re<span>.</span>Rune <span>=</span> re<span>.</span>Rune0<span>[</span><span>:</span><span>0</span><span>]</span>
+
+    sign <span>:=</span> <span>+</span><span>1</span>
+    <span>if</span> t <span>!=</span> <span>""</span> <span>&amp;&amp;</span> t<span>[</span><span>0</span><span>]</span> <span>==</span> <span>'^'</span> <span>{</span>
+        sign <span>=</span> <span>-</span><span>1</span>
+        t <span>=</span> t<span>[</span><span>1</span><span>:</span><span>]</span>
+
+        <span>// If character class does not match \n, add it here,</span>
+        <span>// so that negation later will do the right thing.</span>
+        <span>if</span> p<span>.</span>flags<span>&amp;</span>ClassNL <span>==</span> <span>0</span> <span>{</span>
+            re<span>.</span>Rune <span>=</span> <span>append</span><span>(</span>re<span>.</span>Rune<span>,</span> <span>'\n'</span><span>,</span> <span>'\n'</span><span>)</span>
+        <span>}</span>
+    <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>首先去掉了开头的 <code>[</code> ，创建了一个新节点，然后开始分析字符类中的内容。然后， <code>parseClass()</code> 判断了 <code>[]</code> 中的第一个字符是否是 <code>^</code> 。否定字符类匹配的是除了类中字符的任意一个字符。注意，在 <code>POSIX</code> 模式下， <code>[^a]</code> 这种否定字符类，与 <code>.</code> 类似，是不能匹配 <code>\n</code> 的。</p>
+<div><pre><code>    class <span>:=</span> re<span>.</span>Rune
+    first <span>:=</span> <span>true</span> <span>// ] and - are okay as first char in class</span>
+    <span>for</span> t <span>==</span> <span>""</span> <span>||</span> t<span>[</span><span>0</span><span>]</span> <span>!=</span> <span>']'</span> <span>||</span> first <span>{</span>
+        <span>// POSIX: - is only okay unescaped as first or last in class.</span>
+        <span>// Perl: - is okay anywhere.</span>
+        <span>if</span> t <span>!=</span> <span>""</span> <span>&amp;&amp;</span> t<span>[</span><span>0</span><span>]</span> <span>==</span> <span>'-'</span> <span>&amp;&amp;</span> p<span>.</span>flags<span>&amp;</span>PerlX <span>==</span> <span>0</span> <span>&amp;&amp;</span> <span>!</span>first <span>&amp;&amp;</span> <span>(</span><span>len</span><span>(</span>t<span>)</span> <span>==</span> <span>1</span> <span>||</span> t<span>[</span><span>1</span><span>]</span> <span>!=</span> <span>']'</span><span>)</span> <span>{</span>
+            <span>_</span><span>,</span> size <span>:=</span> utf8<span>.</span><span>DecodeRuneInString</span><span>(</span>t<span>[</span><span>1</span><span>:</span><span>]</span><span>)</span>
+            <span>return</span> <span>""</span><span>,</span> <span>&amp;</span>Error<span>{</span>Code<span>:</span> ErrInvalidCharRange<span>,</span> Expr<span>:</span> t<span>[</span><span>:</span><span>1</span><span>+</span>size<span>]</span><span>}</span>
+        <span>}</span>
+        first <span>=</span> <span>false</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><code>-</code> 在字符类中有特殊的作用，因此需要使用 <code>\</code> 逃逸符来转义。但是有一种特殊情况，如果把 <code>-</code> 放在字符类中第一个，或者最后一个，那么就可以不使用 <code>\</code> 。</p>
+<p>另外，还有一个特殊情况，那就是 <code>[]]</code> 是合法的字符类。匹配的是 <code>]</code> 这个字符。注意 <code>]</code> 一定要紧邻在 <code>[</code> 之后。也就是说 <code>[]abcd]</code> 是一个字符类，而 <code>[ab]cd]</code> 的意思是字符类 <code>[ab]</code> 后面连接 <code>cd]</code> 。</p>
+<p>第一次迭代时，因为 <code>first == ture</code> ，所以 <code>if</code> 中的逻辑不会执行。之后的迭代中，如果当前的字符是 <code>-</code> ，而且：</p>
+<ol>
+<li>后面没有字符了，比如 <code>[a-</code> ，这时， <code>parseClass()</code> 会产生错误。</li>
+<li>后面不是 <code>]</code> ，比如 <code>[a-b-c]</code> 中的第二个 <code>-</code> 。这时，如果是 POSIX 模式，那么会产生错误。否则，会把这个 <code>-</code> 理解成字面的 <code>-</code> 。</li>
+</ol>
+<div><pre><code>        <span>// Look for POSIX [:alnum:] etc.</span>
+        <span>if</span> <span>len</span><span>(</span>t<span>)</span> <span>></span> <span>2</span> <span>&amp;&amp;</span> t<span>[</span><span>0</span><span>]</span> <span>==</span> <span>'['</span> <span>&amp;&amp;</span> t<span>[</span><span>1</span><span>]</span> <span>==</span> <span>':'</span> <span>{</span>
+            nclass<span>,</span> nt<span>,</span> err <span>:=</span> p<span>.</span><span>parseNamedClass</span><span>(</span>t<span>,</span> class<span>)</span>
+            <span>if</span> err <span>!=</span> <span>nil</span> <span>{</span>
+                <span>return</span> <span>""</span><span>,</span> err
+            <span>}</span>
+            <span>if</span> nclass <span>!=</span> <span>nil</span> <span>{</span>
+                class<span>,</span> t <span>=</span> nclass<span>,</span> nt
+                <span>continue</span>
+            <span>}</span>
+        <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>这个分支，解决的是 POSIX 提供的一些字符类。</p>
+<div><pre><code>[[:alnum:]]    alphanumeric (== [0-9A-Za-z])
+[[:alpha:]]    alphabetic (== [A-Za-z])
+[[:ascii:]]    ASCII (== [\x00-\x7F])
+[[:blank:]]    blank (== [\t ])
+[[:cntrl:]]    control (== [\x00-\x1F\x7F])
+[[:digit:]]    digits (== [0-9])
+[[:graph:]]    graphical (== [!-~] == [A-Za-z0-9!&quot;#$%&amp;&#39;()*+,\-./:;&lt;=&gt;?@[\\\]^_`{|}~])
+[[:lower:]]    lower case (== [a-z])
+[[:print:]]    printable (== [ -~] == [ [:graph:]])
+[[:punct:]]    punctuation (== [!-/:-@[-`{-~])
+[[:space:]]    whitespace (== [\t\n\v\f\r ])
+[[:upper:]]    upper case (== [A-Z])
+[[:word:]]     word characters (== [0-9A-Za-z_])
+[[:xdigit:]]   hex digit (== [0-9A-Fa-f])
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p><code>parseNamedClass()</code> 解决了这些命名字符类，不贴代码了。回到 <code>parseClass()</code> ，后面判断了 Unicode 字符类。</p>
+<div><pre><code>        <span>// Look for Unicode character group like \p{Han}.</span>
+        nclass<span>,</span> nt<span>,</span> err <span>:=</span> p<span>.</span><span>parseUnicodeClass</span><span>(</span>t<span>,</span> class<span>)</span>
+        <span>if</span> err <span>!=</span> <span>nil</span> <span>{</span>
+            <span>return</span> <span>""</span><span>,</span> err
+        <span>}</span>
+        <span>if</span> nclass <span>!=</span> <span>nil</span> <span>{</span>
+            class<span>,</span> t <span>=</span> nclass<span>,</span> nt
+            <span>continue</span>
+        <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>接下来是 Perl 字符类。 POSIX 应该也支持，因为这里没有判断 flag 就进去了。</p>
+<div><pre><code>        <span>// Single character or simple range.</span>
+        rng <span>:=</span> t
+        <span>var</span> lo<span>,</span> hi <span>rune</span>
+        <span>if</span> lo<span>,</span> t<span>,</span> err <span>=</span> p<span>.</span><span>parseClassChar</span><span>(</span>t<span>,</span> s<span>)</span><span>;</span> err <span>!=</span> <span>nil</span> <span>{</span>
+            <span>return</span> <span>""</span><span>,</span> err
+        <span>}</span>
+        hi <span>=</span> lo
+        <span>// [a-] means (a|-) so check for final ].</span>
+        <span>if</span> <span>len</span><span>(</span>t<span>)</span> <span>>=</span> <span>2</span> <span>&amp;&amp;</span> t<span>[</span><span>0</span><span>]</span> <span>==</span> <span>'-'</span> <span>&amp;&amp;</span> t<span>[</span><span>1</span><span>]</span> <span>!=</span> <span>']'</span> <span>{</span>
+            t <span>=</span> t<span>[</span><span>1</span><span>:</span><span>]</span>
+            <span>if</span> hi<span>,</span> t<span>,</span> err <span>=</span> p<span>.</span><span>parseClassChar</span><span>(</span>t<span>,</span> s<span>)</span><span>;</span> err <span>!=</span> <span>nil</span> <span>{</span>
+                <span>return</span> <span>""</span><span>,</span> err
+            <span>}</span>
+            <span>if</span> hi <span>&lt;</span> lo <span>{</span>
+                rng <span>=</span> rng<span>[</span><span>:</span><span>len</span><span>(</span>rng<span>)</span><span>-</span><span>len</span><span>(</span>t<span>)</span><span>]</span>
+                <span>return</span> <span>""</span><span>,</span> <span>&amp;</span>Error<span>{</span>Code<span>:</span> ErrInvalidCharRange<span>,</span> Expr<span>:</span> rng<span>}</span>
+            <span>}</span>
+        <span>}</span>
+        <span>if</span> p<span>.</span>flags<span>&amp;</span>FoldCase <span>==</span> <span>0</span> <span>{</span>
+            class <span>=</span> <span>appendRange</span><span>(</span>class<span>,</span> lo<span>,</span> hi<span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            class <span>=</span> <span>appendFoldedRange</span><span>(</span>class<span>,</span> lo<span>,</span> hi<span>)</span>
+        <span>}</span>
+    <span>}</span>
+    t <span>=</span> t<span>[</span><span>1</span><span>:</span><span>]</span> <span>// chop ]</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div><p>最后的问题就简单了，判断了 <code>a-b</code> 这类情况。特别提一下 <code>parseClassChar()</code> ，它从正则表达式中读取一个字符，并且处理了转义的情况。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>parseClassChar</span><span>(</span>s<span>,</span> wholeClass <span>string</span><span>)</span> <span>(</span>r <span>rune</span><span>,</span> rest <span>string</span><span>,</span> err <span>error</span><span>)</span> <span>{</span>
+    <span>if</span> s <span>==</span> <span>""</span> <span>{</span>
+        <span>return</span> <span>0</span><span>,</span> <span>""</span><span>,</span> <span>&amp;</span>Error<span>{</span>Code<span>:</span> ErrMissingBracket<span>,</span> Expr<span>:</span> wholeClass<span>}</span>
+    <span>}</span>
+
+    <span>// Allow regular escape sequences even though</span>
+    <span>// many need not be escaped in this context.</span>
+    <span>if</span> s<span>[</span><span>0</span><span>]</span> <span>==</span> <span>'\\'</span> <span>{</span>
+        <span>return</span> p<span>.</span><span>parseEscape</span><span>(</span>s<span>)</span>
+    <span>}</span>
+
+    <span>return</span> <span>nextRune</span><span>(</span>s<span>)</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><code>parseEscape()</code> 也很长，处理了转义的问题，不过逻辑很简单，就不细看了。</p>
+<div><pre><code>    <span>// Use &amp;re.Rune instead of &amp;class to avoid allocation.</span>
+    re<span>.</span>Rune <span>=</span> class
+    class <span>=</span> <span>cleanClass</span><span>(</span><span>&amp;</span>re<span>.</span>Rune<span>)</span>
+    <span>if</span> sign <span>&lt;</span> <span>0</span> <span>{</span>
+        class <span>=</span> <span>negateClass</span><span>(</span>class<span>)</span>
+    <span>}</span>
+    re<span>.</span>Rune <span>=</span> class
+    p<span>.</span><span>push</span><span>(</span>re<span>)</span>
+    <span>return</span> t<span>,</span> <span>nil</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>最后，给字符类清理一下，然后处理否定字符类的情况，返回。</p>
+<h2 id="重复"> 重复</h2>
+<p>重复有 <code>*</code> 、 <code>+</code> 、 <code>?</code> 三个，这里把它们放在一块处理。</p>
+<div><pre><code>        <span>case</span> <span>'*'</span><span>,</span> <span>'+'</span><span>,</span> <span>'?'</span><span>:</span>
+            before <span>:=</span> t
+            <span>switch</span> t<span>[</span><span>0</span><span>]</span> <span>{</span>
+            <span>case</span> <span>'*'</span><span>:</span>
+                op <span>=</span> OpStar
+            <span>case</span> <span>'+'</span><span>:</span>
+                op <span>=</span> OpPlus
+            <span>case</span> <span>'?'</span><span>:</span>
+                op <span>=</span> OpQuest
+            <span>}</span>
+            after <span>:=</span> t<span>[</span><span>1</span><span>:</span><span>]</span>
+            <span>if</span> after<span>,</span> err <span>=</span> p<span>.</span><span>repeat</span><span>(</span>op<span>,</span> <span>0</span><span>,</span> <span>0</span><span>,</span> before<span>,</span> after<span>,</span> lastRepeat<span>)</span><span>;</span> err <span>!=</span> <span>nil</span> <span>{</span>
+                <span>return</span> <span>nil</span><span>,</span> err
+            <span>}</span>
+            repeat <span>=</span> before
+            t <span>=</span> after
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><p>这里把处理之前的 <code>t</code> 保存到了 <code>repeat</code> 中，知识点，记一下。主要的处理过程是在 <code>repeat()</code> 方法中实现的。</p>
+<div><pre><code><span>func</span> <span>(</span>p <span>*</span>parser<span>)</span> <span>repeat</span><span>(</span>op Op<span>,</span> min<span>,</span> max <span>int</span><span>,</span> before<span>,</span> after<span>,</span> lastRepeat <span>string</span><span>)</span> <span>(</span><span>string</span><span>,</span> <span>error</span><span>)</span> <span>{</span>
+    flags <span>:=</span> p<span>.</span>flags
+
+    <span>// Perl-related code was removed</span>
+
+    n <span>:=</span> <span>len</span><span>(</span>p<span>.</span>stack<span>)</span>
+    <span>if</span> n <span>==</span> <span>0</span> <span>{</span>
+        <span>return</span> <span>""</span><span>,</span> <span>&amp;</span>Error<span>{</span>ErrMissingRepeatArgument<span>,</span> before<span>[</span><span>:</span><span>len</span><span>(</span>before<span>)</span><span>-</span><span>len</span><span>(</span>after<span>)</span><span>]</span><span>}</span>
+    <span>}</span>
+    sub <span>:=</span> p<span>.</span>stack<span>[</span>n<span>-</span><span>1</span><span>]</span>
+    <span>if</span> sub<span>.</span>Op <span>>=</span> opPseudo <span>{</span>
+        <span>return</span> <span>""</span><span>,</span> <span>&amp;</span>Error<span>{</span>ErrMissingRepeatArgument<span>,</span> before<span>[</span><span>:</span><span>len</span><span>(</span>before<span>)</span><span>-</span><span>len</span><span>(</span>after<span>)</span><span>]</span><span>}</span>
+    <span>}</span>
+
+    re <span>:=</span> p<span>.</span><span>newRegexp</span><span>(</span>op<span>)</span>
+    re<span>.</span>Min <span>=</span> min
+    re<span>.</span>Max <span>=</span> max
+    re<span>.</span>Flags <span>=</span> flags
+    re<span>.</span>Sub <span>=</span> re<span>.</span>Sub0<span>[</span><span>:</span><span>1</span><span>]</span>
+    re<span>.</span>Sub<span>[</span><span>0</span><span>]</span> <span>=</span> sub
+    p<span>.</span>stack<span>[</span>n<span>-</span><span>1</span><span>]</span> <span>=</span> re
+
+    <span>if</span> op <span>==</span> OpRepeat <span>&amp;&amp;</span> <span>(</span>min <span>>=</span> <span>2</span> <span>||</span> max <span>>=</span> <span>2</span><span>)</span> <span>&amp;&amp;</span> <span>!</span><span>repeatIsValid</span><span>(</span>re<span>,</span> <span>1000</span><span>)</span> <span>{</span>
+        <span>return</span> <span>""</span><span>,</span> <span>&amp;</span>Error<span>{</span>ErrInvalidRepeatSize<span>,</span> before<span>[</span><span>:</span><span>len</span><span>(</span>before<span>)</span><span>-</span><span>len</span><span>(</span>after<span>)</span><span>]</span><span>}</span>
+    <span>}</span>
+
+    <span>return</span> after<span>,</span> <span>nil</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br></div></div><p>一开始 <code>repeat()</code> 检查了两种情况，第一个是 <code>*ab</code> ，第二个是 <code>a|*</code> 或者 <code>a(*b)</code> 。通过测试之后， <code>repeat()</code> 创建了一个新的节点。</p>
+<p>疑惑更多了，比如，<code>x*?</code> 可以代表非贪婪的匹配，这里似乎没有进行处理。</p>
+<h2 id="固定次数的重复"> 固定次数的重复</h2>
+<div><pre><code>        <span>case</span> <span>'{'</span><span>:</span>
+            op <span>=</span> OpRepeat
+            before <span>:=</span> t
+            min<span>,</span> max<span>,</span> after<span>,</span> ok <span>:=</span> p<span>.</span><span>parseRepeat</span><span>(</span>t<span>)</span>
+            <span>if</span> <span>!</span>ok <span>{</span>
+                <span>// If the repeat cannot be parsed, { is a literal.</span>
+                p<span>.</span><span>literal</span><span>(</span><span>'{'</span><span>)</span>
+                t <span>=</span> t<span>[</span><span>1</span><span>:</span><span>]</span>
+                <span>break</span>
+            <span>}</span>
+            <span>if</span> min <span>&lt;</span> <span>0</span> <span>||</span> min <span>></span> <span>1000</span> <span>||</span> max <span>></span> <span>1000</span> <span>||</span> max <span>>=</span> <span>0</span> <span>&amp;&amp;</span> min <span>></span> max <span>{</span>
+                <span>// Numbers were too big, or max is present and min > max.</span>
+                <span>return</span> <span>nil</span><span>,</span> <span>&amp;</span>Error<span>{</span>ErrInvalidRepeatSize<span>,</span> before<span>[</span><span>:</span><span>len</span><span>(</span>before<span>)</span><span>-</span><span>len</span><span>(</span>after<span>)</span><span>]</span><span>}</span>
+            <span>}</span>
+            <span>if</span> after<span>,</span> err <span>=</span> p<span>.</span><span>repeat</span><span>(</span>op<span>,</span> min<span>,</span> max<span>,</span> before<span>,</span> after<span>,</span> lastRepeat<span>)</span><span>;</span> err <span>!=</span> <span>nil</span> <span>{</span>
+                <span>return</span> <span>nil</span><span>,</span> err
+            <span>}</span>
+            repeat <span>=</span> before
+            t <span>=</span> after
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div><p>固定次数的重复指的是 <code>x{5,8}</code> 这种类型的重复，处理逻辑也不复杂，不多说了。</p>
+<h2 id="转义"> 转义</h2>
+<div><pre><code>        <span>case</span> <span>'\\'</span><span>:</span>
+
+            <span>// Perl-related code was removed</span>
+
+            re <span>:=</span> p<span>.</span><span>newRegexp</span><span>(</span>OpCharClass<span>)</span>
+            re<span>.</span>Flags <span>=</span> p<span>.</span>flags
+
+            <span>// Look for Unicode character group like \p{Han}</span>
+            <span>if</span> <span>len</span><span>(</span>t<span>)</span> <span>>=</span> <span>2</span> <span>&amp;&amp;</span> <span>(</span>t<span>[</span><span>1</span><span>]</span> <span>==</span> <span>'p'</span> <span>||</span> t<span>[</span><span>1</span><span>]</span> <span>==</span> <span>'P'</span><span>)</span> <span>{</span>
+                r<span>,</span> rest<span>,</span> err <span>:=</span> p<span>.</span><span>parseUnicodeClass</span><span>(</span>t<span>,</span> re<span>.</span>Rune0<span>[</span><span>:</span><span>0</span><span>]</span><span>)</span>
+                <span>if</span> err <span>!=</span> <span>nil</span> <span>{</span>
+                    <span>return</span> <span>nil</span><span>,</span> err
+                <span>}</span>
+                <span>if</span> r <span>!=</span> <span>nil</span> <span>{</span>
+                    re<span>.</span>Rune <span>=</span> r
+                    t <span>=</span> rest
+                    p<span>.</span><span>push</span><span>(</span>re<span>)</span>
+                    <span>break</span> BigSwitch
+                <span>}</span>
+            <span>}</span>
+
+            <span>// Perl character class escape.</span>
+            <span>if</span> r<span>,</span> rest <span>:=</span> p<span>.</span><span>parsePerlClassEscape</span><span>(</span>t<span>,</span> re<span>.</span>Rune0<span>[</span><span>:</span><span>0</span><span>]</span><span>)</span><span>;</span> r <span>!=</span> <span>nil</span> <span>{</span>
+                re<span>.</span>Rune <span>=</span> r
+                t <span>=</span> rest
+                p<span>.</span><span>push</span><span>(</span>re<span>)</span>
+                <span>break</span> BigSwitch
+            <span>}</span>
+            p<span>.</span><span>reuse</span><span>(</span>re<span>)</span>
+
+            <span>// Ordinary single-character escape.</span>
+            <span>if</span> c<span>,</span> t<span>,</span> err <span>=</span> p<span>.</span><span>parseEscape</span><span>(</span>t<span>)</span><span>;</span> err <span>!=</span> <span>nil</span> <span>{</span>
+                <span>return</span> <span>nil</span><span>,</span> err
+            <span>}</span>
+            p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
+        <span>}</span>
+        lastRepeat <span>=</span> repeat
+    <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br></div></div><p>这部分逻辑也很简单，不提了。</p>
+<h2 id="最后"> 最后</h2>
+<div><pre><code>    p<span>.</span><span>concat</span><span>(</span><span>)</span>
+    <span>if</span> p<span>.</span><span>swapVerticalBar</span><span>(</span><span>)</span> <span>{</span>
+        <span>// pop vertical bar</span>
+        p<span>.</span>stack <span>=</span> p<span>.</span>stack<span>[</span><span>:</span><span>len</span><span>(</span>p<span>.</span>stack<span>)</span><span>-</span><span>1</span><span>]</span>
+    <span>}</span>
+    p<span>.</span><span>alternate</span><span>(</span><span>)</span>
+
+    n <span>:=</span> <span>len</span><span>(</span>p<span>.</span>stack<span>)</span>
+    <span>if</span> n <span>!=</span> <span>1</span> <span>{</span>
+        <span>return</span> <span>nil</span><span>,</span> <span>&amp;</span>Error<span>{</span>ErrMissingParen<span>,</span> s<span>}</span>
+    <span>}</span>
+    <span>return</span> p<span>.</span>stack<span>[</span><span>0</span><span>]</span><span>,</span> <span>nil</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>最后，把栈中剩余的东西处理处理，返回结果。</p>
+<p>到这里， <code>Parse()</code> 终于结束了，是时候理一理思路了。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>算法导论11 哈希表</title>
       <link>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</link>
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论11 哈希表</source>
       <category>算法导论</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论11-哈希表"> 算法导论11 哈希表</h1>
 <p>很多应用需要一种只支持 <code>INSERT</code>、<code>SEARCH</code>、<code>DELETE</code> 即可的动态集合。<strong>哈希表</strong>（hashing table）是能够高效实现这种动态集合的数据结构，类似的动态集合通常被称为<strong>字典</strong>（dictionary）。一般认为哈希表中搜索的平均情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h2 id="_11-1-直接寻址"> 11.1 直接寻址</h2>
@@ -2388,7 +2794,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
       <guid>https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（二）</source>
       <category>编译器</category>
-      <pubDate>Mon, 14 Jun 2021 13:42:00 GMT</pubDate>
+      <pubDate>Tue, 15 Jun 2021 06:06:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-二"> Go 的正则（二）</h1>
 <p>括号的处理还没有说完。</p>
 <h2 id="括号"> 括号</h2>
@@ -2881,7 +3287,8 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
 <span>}</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br></div></div><p>根据上面的代码，可以猜测字符类类型的节点中， <code>Rune</code> 中保存的字符是一对一对的，按照 <code>lo</code> 、 <code>hi</code> 、 <code>lo</code> 、 <code>hi</code> ……这样的规律排列。每一对 <code>lo</code> 、 <code>hi</code> 代表一个范围，范围内的所有字符都属于该字符类。所以 <code>ranges</code> 类型实现了 <code>sort.Interface</code> 接口，能够按照 <code>lo</code> 升序， <code>hi</code> 降序的顺序排序。</p>
-<p><code>cleanClass()</code> 先对 <code>Rune</code> 进行排序，然后消除范围之间的重叠，进行一个压缩。再回到 <code>factor()</code> ，这一轮终于搞完了。</p>
+<p><code>cleanClass()</code> 先对 <code>Rune</code> 进行排序，然后消除范围之间的重叠，进行一个压缩。先回到 <code>cleanAlt()</code> ，还没看完呢。里面对达到某些条件的范围进行了类型提升操作，比如如果范围覆盖了所有字符，那么就把节点类型升级为 <code>OpAnyChar</code> 。</p>
+<p>再回到 <code>factor()</code> ，这一轮终于搞完了。</p>
 <div><pre><code>    <span>// Round 4: Collapse runs of empty matches into a single empty match.</span>
     start <span>=</span> <span>0</span>
     out <span>=</span> sub<span>[</span><span>:</span><span>0</span><span>]</span>
