@@ -6,14 +6,14 @@
   <author>
     <name>zenk</name>
   </author>
-  <updated>2021-06-15T12:00:28.819Z</updated>
+  <updated>2021-06-15T12:10:41.399Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://flyginger.top/atom.xml"/>
   <link rel="alternate" href="https://flyginger.top/"/>
   <rights>Copyright by zenk</rights>
   <category term="算法导论"/>
-  <category term="每日迷惑"/>
   <category term="编译器"/>
+  <category term="每日迷惑"/>
   <contributor>
     <name>zenk</name>
   </contributor>
@@ -21,7 +21,7 @@
     <title type="html">个人介绍</title>
     <id>https://flyginger.top/intro/</id>
     <link href="https://flyginger.top/intro/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
 <p>hidden now.</p>
 ]]></content>
@@ -31,14 +31,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论1 算法的概念</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论1-算法的概念"> 算法导论1 算法的概念</h1>
 <p>通俗地讲，<strong>算法</strong>（algorithm）是以值或一组值作为<strong>输入</strong>（input），<strong>输出</strong>（output）值或一组值的计算步骤，也可以把算法看作解决<strong>计算问题</strong>（computational problem）的工具。举例来说，<strong>排序问题</strong>（sorting problem）的规范定义是：</p>
 <blockquote>
@@ -59,14 +59,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论10 基础数据结构</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论10-基础数据结构"> 算法导论10 基础数据结构</h1>
 <p>集合是数学和计算机科学中常用的概念。算法中的集合往往是<strong>动态</strong>（dynamic）的：算法经常对集合进行添加新数据，删除旧数据等操作。某些动态集合把元素的某一个属性当作<strong>键</strong>（key），用以区分不同的元素。元素中除了键的其他数据称为<strong>卫星数据</strong>（satellite data）。</p>
 <p>对动态集合进行的操作可以分为两大类：<strong>查询</strong>（query）和<strong>修改</strong>（modify）。下面列出了典型的操作，大部分算法中只会用到其中的几种：</p>
@@ -160,14 +160,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论3 函数的增长</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论3-函数的增长"> 算法导论3 函数的增长</h1>
 <p>算法的<strong>渐近</strong>（asymptotic）效率关注的是算法的运行时间如何随着输入规模的增长而增长。本章介绍了分析渐近效率时使用的数学符号和定义，并且给出了一些常用函数之间的渐近效率关系。</p>
 <h2 id="_3-1-渐近符号"> 3.1 渐近符号</h2>
@@ -298,14 +298,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论5 概率分析和随机算法</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论5-概率分析和随机算法"> 算法导论5 概率分析和随机算法</h1>
 <h2 id="_5-1-招聘问题"> 5.1 招聘问题</h2>
 <p>假设你要雇佣新员工。每次你可以花费少量资金，面试一个应聘者。该应聘者的能力是随机的，如果你决定雇佣他，你需要花费一大笔钱。只有当你决定是否雇佣此应聘者之后，你才能面试下一个应聘者。你的策略如下：如果应聘者的能力比上一个被雇佣的应聘者优秀（当没有上一个时直接雇佣），那么雇佣该应聘者；否则就不雇佣该应聘者，继续面试。这种策略的伪代码如下：</p>
@@ -400,14 +400,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论7 快速排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论7-快速排序"> 算法导论7 快速排序</h1>
 <p><strong>快速排序</strong>（quicksort）的最坏情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span><span>n</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>)</span></span></span></span>。虽然如此，快速排序在实际场景中经常是表现最好的，它的期望运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，并且隐含的常数相对小。另外，快速排序还有原地排序的优点。</p>
 <h2 id="_7-1-快速排序"> 7.1 快速排序</h2>
@@ -498,14 +498,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论8 线性时间排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论8-线性时间排序"> 算法导论8 线性时间排序</h1>
 <p>前几章中提到的几种排序方法，例如插入排序、归并排序、堆排序和快速排序，有一个共同点：顺序判断仅基于元素间的比较。这类排序算法称为<strong>比较排序</strong>（comparsion sort）。</p>
 <p>接下来会先证明比较排序算法都是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Ω</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，然后给出几个可以在线性时间内排序的算法。</p>
@@ -638,14 +638,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论"> 算法导论</h1>
 <ul>
 <li>I 基础概念
@@ -680,28 +680,55 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
+    <rights>Copyright by zenk</rights>
+  </entry>
+  <entry>
+    <title type="html">Go 的正则</title>
+    <id>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E9%9B%B6%EF%BC%89%E7%B4%A2%E5%BC%95/</id>
+    <link href="https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E9%9B%B6%EF%BC%89%E7%B4%A2%E5%BC%95/"/>
+    <updated>2021-06-15T12:08:47.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="go-的正则"> Go 的正则</h1>
+<p>由于本系列大部分内容是读代码的随笔，所以这里列一个索引。建议只看总结篇。如果实现很闲，也可以都看看。</p>
+<ol>
+<li><a href="./2021-06-15 Go 的正则（四）总结篇.html">正则表达式的解析</a>
+<ol>
+<li><a href="./2021-06-13 Go 的正则（一）.html">Go 的正则（一）</a></li>
+<li><a href="./2021-06-13 Go 的正则（二）.html">Go 的正则（二）</a></li>
+<li><a href="./2021-06-13 Go 的正则（三）.html">Go 的正则（三）</a></li>
+</ol>
+</li>
+</ol>
+]]></content>
+    <author>
+      <name>zenk</name>
+    </author>
+    <category term="编译器"/>
+    <contributor>
+      <name>zenk</name>
+    </contributor>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">zenk&amp;apos;s blog</title>
     <id>https://flyginger.top/</id>
     <link href="https://flyginger.top/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <author>
       <name>zenk</name>
     </author>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论12 二叉搜索树</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论12-二叉搜索树"> 算法导论12 二叉搜索树</h1>
 <h2 id="_12-1-二叉搜索树"> 12.1 二叉搜索树</h2>
 <p>以下是两棵二叉搜索树：</p>
@@ -885,14 +912,14 @@ TREE-MAXIMUM(x)
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论2 设计算法的流程</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论2-设计算法的流程"> 算法导论2 设计算法的流程</h1>
 <p>设计、证明、分析是处理计算问题的基本步骤。本章以排序问题为例，遍历了这三个基本步骤。首先给出了一个算法（插入排序），证明了它的正确性，分析了它的运行时间。然后使用另一种设计思想（分治）设计了另一种算法（归并排序），同样证明了它的正确性，分析了它的运行时间。</p>
 <h2 id="_2-1-插入排序"> 2.1 插入排序</h2>
@@ -1093,14 +1120,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论4 分治</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论4-分治"> 算法导论4 分治</h1>
 <p><strong>递推式</strong>（recurrence）是使用更小输入的项来描述当前项的等式或不等式。本章提供了三种求解递推式的方法，分别是<strong>替换法</strong>（substitution method），<strong>递归树法</strong>（recursion-tree method），<strong>主方法</strong>（master method）。</p>
 <h2 id="_4-1-最大子数组问题"> 4.1 最大子数组问题</h2>
@@ -1250,14 +1277,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论6 堆排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论6-堆排序"> 算法导论6 堆排序</h1>
 <h2 id="_6-1-堆"> 6.1 堆</h2>
 <p><strong>二叉堆</strong>（binary heap）是一种可以看成完全二叉树的数组，一般简称为堆。满二叉树是满足以下两个条件的二叉树：</p>
@@ -1412,14 +1439,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论9 中位数和顺序统计</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论9-中位数和顺序统计"> 算法导论9 中位数和顺序统计</h1>
 <p>第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 位顺序统计是指 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个元素的集合中第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 小的元素。那么元素集合的<strong>最小值</strong>（minimum）就是第一个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>），<strong>最大值</strong>（maximum）就是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>）。</p>
 <p><strong>中位数</strong>（median）是集合中位于“中间”的元素。当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为奇数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span></span></span></span> 个顺序统计；当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为偶数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span></span></span></span> 和第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span> 两个顺序统计的平均数。通常把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌊(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌋</span></span></span></span> 称为<strong>下中位数</strong>（lower median），把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌉</span></span></span></span> 称为<strong>上中位数</strong>（upper median）。为简化描述，下文中的中位数均指下中位数。</p>
@@ -1500,14 +1527,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">快速排序的优化</title>
     <id>https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/</id>
     <link href="https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="快速排序的优化"> 快速排序的优化</h1>
 <p>在对快速排序进行优化之前，回忆一下部分基于比较的排序算法的时间复杂度。</p>
 <table>
@@ -1716,14 +1743,14 @@ BenchmarkGoSort-8              9        1197205511 ns/op
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">PyNN</title>
     <id>https://flyginger.top/post/2021-05-22%20PyNN/</id>
     <link href="https://flyginger.top/post/2021-05-22%20PyNN/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="pynn"> PyNN</h1>
 <p><a href="http://neuralensemble.org/PyNN/" target="_blank" rel="noopener noreferrer">PyNN</a>（发音与 pine 相同）是一种用于构建神经网络模型的语言，且独立于模拟器。使用 PyNN 的 API 和 Python 编程语言编写的模型代码，无需修改即可运行于多种 PyNN 支持的模拟器后端或者神经拟态（neuronmorphic）硬件系统。</p>
 <h2 id="安装"> 安装</h2>
@@ -2006,14 +2033,14 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（一）</title>
     <id>https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <link href="https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-一"> Go 的正则（一）</h1>
 <p>今天想研究一下 Go 的正则包是怎么实现的，看看能不能写一个效率高一些的 tokenizer 。正则包收到正则表达式后，一般首先会对其进行一些处理。 Go 的正则包，据我所知是 <code>re2</code> ，使用的是传统的 NFA/DFA 技术。因此，正则表达式应该会被转换成一个状态机。</p>
 <div><p>提示</p>
@@ -2261,14 +2288,14 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（三）</title>
     <id>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%89%EF%BC%89/</id>
     <link href="https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%89%EF%BC%89/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-三"> Go 的正则（三）</h1>
 <p>括号的处理还没有说完……</p>
 <h2 id="括号"> 括号</h2>
@@ -2674,14 +2701,271 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
+    <rights>Copyright by zenk</rights>
+  </entry>
+  <entry>
+    <title type="html">Go 的正则（四）总结篇</title>
+    <id>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%9B%9B%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/</id>
+    <link href="https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%9B%9B%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/"/>
+    <updated>2021-06-15T12:08:47.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="go-的正则-四-总结篇"> Go 的正则（四）总结篇</h1>
+<p>想要判断正则表达式能否匹配某个字符串，首先要理解正则表达式的含义。这就需要解析正则表达式，构造一个等价的语法树，并在构造过程中尽可能地进行优化。</p>
+<p>这个总结篇总结了以下三篇随笔。这三篇不建议看，都是读代码时随手写的。</p>
+<ol>
+<li><a href="./2021-06-13 Go 的正则（一）.html">Go 的正则（一）</a></li>
+<li><a href="./2021-06-13 Go 的正则（二）.html">Go 的正则（二）</a></li>
+<li><a href="./2021-06-13 Go 的正则（三）.html">Go 的正则（三）</a></li>
+</ol>
+<h2 id="语法树的数据结构"> 语法树的数据结构</h2>
+<div><pre><code><span>// A Regexp is a node in a regular expression syntax tree.</span>
+<span>type</span> Regexp <span>struct</span> <span>{</span>
+    Op       Op <span>// operator</span>
+    Flags    Flags
+    Sub      <span>[</span><span>]</span><span>*</span>Regexp  <span>// subexpressions, if any</span>
+    Sub0     <span>[</span><span>1</span><span>]</span><span>*</span>Regexp <span>// storage for short Sub</span>
+    Rune     <span>[</span><span>]</span><span>rune</span>     <span>// matched runes, for OpLiteral, OpCharClass</span>
+    Rune0    <span>[</span><span>2</span><span>]</span><span>rune</span>    <span>// storage for short Rune</span>
+    Min<span>,</span> Max <span>int</span>        <span>// min, max for OpRepeat</span>
+    Cap      <span>int</span>        <span>// capturing index, for OpCapture</span>
+    Name     <span>string</span>     <span>// capturing name, for OpCapture</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p><code>Regexp</code> 位于 <code>regexp/syntax</code> 包中，定义了正则表达式语法树的节点结构。</p>
+<h3 id="op-字段"> <code>Op</code> 字段</h3>
+<p><code>Op</code> 字段，保存了节点的类型。</p>
+<div><pre><code><span>// An Op is a single regular expression operator.</span>
+<span>type</span> Op <span>uint8</span>
+
+<span>// Operators are listed in precedence order, tightest binding to weakest.</span>
+<span>// Character class operators are listed simplest to most complex</span>
+<span>// (OpLiteral, OpCharClass, OpAnyCharNotNL, OpAnyChar).</span>
+
+<span>const</span> <span>(</span>
+    OpNoMatch        Op <span>=</span> <span>1</span> <span>+</span> <span>iota</span> <span>// matches no strings</span>
+    OpEmptyMatch                   <span>// matches empty string</span>
+    OpLiteral                      <span>// matches Runes sequence</span>
+    OpCharClass                    <span>// matches Runes interpreted as range pair list</span>
+    OpAnyCharNotNL                 <span>// matches any character except newline</span>
+    OpAnyChar                      <span>// matches any character</span>
+    OpBeginLine                    <span>// matches empty string at beginning of line</span>
+    OpEndLine                      <span>// matches empty string at end of line</span>
+    OpBeginText                    <span>// matches empty string at beginning of text</span>
+    OpEndText                      <span>// matches empty string at end of text</span>
+    OpWordBoundary                 <span>// matches word boundary `\b`</span>
+    OpNoWordBoundary               <span>// matches word non-boundary `\B`</span>
+    OpCapture                      <span>// capturing subexpression with index Cap, optional name Name</span>
+    OpStar                         <span>// matches Sub[0] zero or more times</span>
+    OpPlus                         <span>// matches Sub[0] one or more times</span>
+    OpQuest                        <span>// matches Sub[0] zero or one times</span>
+    OpRepeat                       <span>// matches Sub[0] at least Min times, at most Max (Max == -1 is no limit)</span>
+    OpConcat                       <span>// matches concatenation of Subs</span>
+    OpAlternate                    <span>// matches alternation of Subs</span>
+<span>)</span>
+
+<span>const</span> opPseudo Op <span>=</span> <span>128</span> <span>// where pseudo-ops start</span>
+
+<span>// Pseudo-ops for parsing stack.</span>
+<span>const</span> <span>(</span>
+    opLeftParen <span>=</span> opPseudo <span>+</span> <span>iota</span>
+    opVerticalBar
+<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br></div></div><p><code>Op</code> 是按照结合的程度从紧到松定义的。</p>
+<p><code>OpNoMatch</code> 是不匹配任何字符串的类型。 <code>OpEmptyMatch</code> 是空字符串类型。</p>
+<p><code>OpLiteral</code> 是字面量类型，最普通的类型了，匹配字符本身。 <code>OpCharClass</code> 是字符类类型，代表 <code>[a-b]</code> 这种形式的正则表达式。 <code>OpAnyCharNotNL</code> 是通配符类型，能够匹配除了 <code>\n</code> 之外的任何一个字符。 <code>OpAnyChar</code> 是全集类型，能够匹配任何一个字符。</p>
+<p><code>OpBeginLine</code> 、 <code>OpEndLine</code> 、 <code>OpBeginText</code> 、 <code>OpEndText</code> 、 <code>OpWordBoundary</code> 、 <code>OpNoWordBoundary</code> 不匹配实际的字符。它们分别匹配行首、行末、文首、文末、单词边界和非单词边界，它们匹配的是一个位置。 POSIX 实际不支持 <code>\b</code> 、 <code>\A</code> 等这类操作，所以不会生成这些节点类型。不过 <code>^</code> 和 <code>$</code> 还是支持的，所以可以生成匹配行首行末的操作。</p>
+<p><code>OpCapture</code> 是捕获类型。在正则表达式中，可以使用 <code>()</code> 来捕获匹配到的内容。</p>
+<p><code>OpStar</code> 、 <code>OpPlus</code> 、 <code>OpQuest</code> 、 <code>OpRepeat</code> 是重复类型，分别是 <code>*</code> 、 <code>+</code> 、 <code>?</code> 和 <code>{m,n}</code> 类型的重复。</p>
+<p><code>OpConcat</code> 是连接类型，代表连接操作。比如正则表达式 <code>ab</code> ， <code>a</code> 和 <code>b</code> 就连接到了一起。 <code>OpAlternate</code> 是选择类型，代表选择操作。比如正则表达式 <code>a|b</code> ， <code>a</code> 和 <code>b</code> 就选择到了一起。</p>
+<p><code>opPseudo</code> 是伪操作符的起点，从这个值开始定义的操作符都是伪操作符。伪操作符在解析正则表达式过程中起到辅助作用的操作符，不会出现在解析结果中。</p>
+<p>伪操作符只有两个，一个是左括号 <code>opLeftParen</code> ，一个是选择符号 <code>opVerticalBar</code> 。</p>
+<h3 id="sub-和-sub0-字段"> <code>Sub</code> 和 <code>Sub0</code> 字段</h3>
+<p><code>Sub</code> 字段是一个数组（切片），保存了该节点的子节点，从而构成一种树结构。</p>
+<p><code>Sub0</code> 是一个真正意义上的数组，定长数组，其存在的目的是减少内存操作的次数。在创建新节点或者清空 <code>Sub</code> 时，一般会令 <code>Sub = Sub0[:0]</code> 。这样一来，向 <code>Sub</code> 中添加的第一个元素，实际上是保存在 <code>Sub0</code> 这个定长数组中，没有进行任何申请新数组的内存操作。向 <code>Sub</code> 中添加第二个或更多个元素时， <code>Sub</code> 才会拓展长度。</p>
+<p>另外， Go 中向一个装满的切片添加新元素时， Go 会创建一个更大的数组，然后把原来切片内的元素都复制过来。</p>
+<h3 id="rune-和-rune0-字段"> <code>Rune</code> 和 <code>Rune0</code> 字段</h3>
+<p><code>Rune</code> 字段也是一个数组（切片），保存了字符信息。</p>
+<p><code>Rune</code> 用于两种 <code>Op</code> 类型。第一个是 <code>OpLiteral</code> 字面量类型，对应 <code>a</code> 、 <code>b</code> 这样的正则表达式。此时 <code>Rune</code> 字段中保存的是字符，例如 <code>['a', 'b', 'c']</code> 对应正则表达式 <code>abc</code> 。</p>
+<p>第二个是 <code>OpCharClass</code> 字符类类型，它代表的是一类字符，对应 <code>[a-z0-9]</code> 这样的正则表达式。此时 <code>Rune</code> 字段中保存的是范围，其格式是 <code>[lo0, hi0, lo1, hi1, lo2, hi2, ...]</code> ，每两个字符是一对。正则表达式 <code>[a-z0-9]</code> 对应的 <code>Rune</code> 字段应该是 <code>['a', 'z', '0', '9']</code> 。</p>
+<p>另外， <code>Rune0</code> 字段的作用和 <code>Sub0</code> 的作用是类似的，都是优化手段。由于字符类类型的 <code>Rune</code> 是一对一对的，所以 <code>Rune0</code> 是一个长度为 2 的定长数组。</p>
+<h3 id="其他字段"> 其他字段</h3>
+<p><code>Flags</code> 字段保存了节点的配置信息。包括大小写敏感、<code>.</code> 是否匹配 <code>\n</code> 等等一些配置。本文的中心是正则表达式的解析，因此这个字段不会详细介绍。下文的分析中，默认 <code>Flags == 0</code> 。在默认的 POSIX 模式下， <code>Flags</code> 就是等于 0 的。</p>
+<p><code>Min</code> 和 <code>Max</code> 字段用于 <code>OpRepeat</code> 类型的节点，保存的是重复的最小和最大的次数。</p>
+<p><code>Cap</code> 和 <code>Name</code> 字段用于 <code>OpCapture</code> 类型的节点，保存捕获的索引和命名。</p>
+<h2 id="解析器的数据结构"> 解析器的数据结构</h2>
+<div><pre><code><span>type</span> parser <span>struct</span> <span>{</span>
+    flags       Flags     <span>// parse mode flags</span>
+    stack       <span>[</span><span>]</span><span>*</span>Regexp <span>// stack of parsed expressions</span>
+    free        <span>*</span>Regexp
+    numCap      <span>int</span> <span>// number of capturing groups seen</span>
+    wholeRegexp <span>string</span>
+    tmpClass    <span>[</span><span>]</span><span>rune</span> <span>// temporary char class work space</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><code>parser</code> 位于 <code>regexp/syntax</code> 包中，是解析正则表达式时使用的辅助数据结构。</p>
+<p><code>flags</code> 字段用于保存解析时的配置参数，本文中默认它一直是 0 。</p>
+<p><code>stack</code> 是解析栈，解析过程中使用的栈。</p>
+<p><code>free</code> 是回收站，结构上来说是一个链表。 <code>free</code> 直接指向一个 <code>Regexp</code> ，然后通过该 <code>Regexp</code> 的 <code>Sub0[0]</code> 继续指向下一个 <code>Regexp</code> ……从而形成链表。链表中存放的是不再使用的节点。当解析器需要创建新节点时，首先会看看 <code>free</code> 中有没有节点，如果有就拿过来直接用，如果没有才去真正创建新的节点。当然，如果某节点不再使用了，就会直接塞到 <code>free</code> 中。</p>
+<p><code>numCap</code> 是捕获组的数量，可以简单理解为 <code>(</code> 的数量。</p>
+<p><code>wholeRegexp</code> 保存了正则表达式本体。</p>
+<p><code>tmpClass</code> 是在处理字符类时使用的一个辅助数组。</p>
+<h2 id="解析过程"> 解析过程</h2>
+<p>解析器的灵魂就是这个解析栈，解析过程主要就是栈的操作过程。</p>
+<h3 id="入栈操作"> 入栈操作</h3>
+<p>入栈是通过 <code>push()</code> 方法进行的，其中利用了一个非常重要的优化方法 <code>maybeConcat()</code> 。 <code>maybeConcat()</code> 会检查栈顶，如果栈顶的两个元素都是 <code>OpLiteral</code> 类型，那么就将其合并。</p>
+<p>每次调用 <code>push()</code> 时， <code>push()</code> 都会先调用 <code>maybeConcat()</code> ，然后再把新节点压入栈中。举个例子，依次向栈中压入字面量类型的节点 <code>a</code> 、 <code>b</code> 、 <code>c</code> 、 <code>d</code> 时，栈的变化如下。</p>
+<div><pre><code>                          +-------+    +-------+    +-------+
+                          |   b   |    |   c   |    |   d   |
+             +-------+    +-------+    +-------+    +-------+
+             |   a   |    |   a   |    |  ab   |    |  abc  |
++-------+    +-------+    +-------+    +-------+    +-------+
+| STACK | -&gt; | STACK | -&gt; | STACK | -&gt; | STACK | -&gt; | STACK |
++-------+    +-------+    +-------+    +-------+    +-------+
+        push a       push b       push c       push d
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>这样的 <code>push()</code> 操作保证了栈顶不会有连续的、超过两个 <code>OpLiteral</code> 节点。另外， <code>push()</code> 还有一个小优化。如果要入栈的节点是一个 <code>OpCharClass</code> 节点，并且 <code>len(Rune) == 2</code> 且 <code>Rune[0] == Rune[1]</code> ，那么可以把它优化成一个 <code>OpLiteral</code> 节点。用人话来说， <code>[a]</code> 这样的正则表达式可以优化成 <code>a</code> 。</p>
+<h3 id="字面量和字符类"> 字面量和字符类</h3>
+<p>说起来简单，但是字面量和字符类复杂程度很高。有最普通的字面量，还有通过转义来表示的字面量，还有预定义好的字符类，还可以用某些方式表示 Unicode 字符……具体的解析过程就不看了，假定我们已经拿到了字面量和字符类的节点，现在要把它入栈。</p>
+<p>忽略那些麻烦的部分之后，字面量和字符类确实是最简单的，它们的入栈没有花里胡哨的东西，直接通过 <code>push()</code> 放入栈中就完了。</p>
+<h3 id="连接"> 连接</h3>
+<p>假定依次向栈中压入了 <code>a</code> 、 <code>b</code> 、 <code>c</code> 、 <code>d</code> 、 <code>[0-9]</code> 、 <code>x</code> 、 <code>y</code> ，那么最终的栈应该是：</p>
+<div><pre><code>+-------+
+|   y   |
++-------+
+|   x   |
++-------+
+| [0-9] |
++-------+
+| abcd  |
++-------+
+| STACK |
++-------+
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>如果此时正则表达式已经解析完了，那么需要把栈中的各个节点合并为一个。这是通过 <code>concat()</code> 方法实现的。</p>
+<p><code>concat()</code> 中首先会调用熟悉的 <code>maybeConcat()</code> 方法，此时栈中会变成：</p>
+<div><pre><code>+-------+
+|  xy   |
++-------+
+| [0-9] |
++-------+
+| abcd  |
++-------+
+| STACK |
++-------+
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>然后 <code>concat()</code> 会创建一个 <code>OpConcat</code> 类型的节点 <code>re</code> ，然后把栈中的三个节点变成 <code>re</code> 的子节点， <code>re.Sub = {&quot;abcd&quot;, &quot;[0-9]&quot;, &quot;xy&quot;}</code> 。最后，栈中会变成：</p>
+<div><pre><code>+-------+
+| &lt;re&gt;  |
++-------+
+| STACK |
++-------+
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>实际上， <code>concat()</code> 不会把栈中的所有节点全部连接起来。它会从栈顶向下寻找，直到遇到 <code>opLeftParen</code> 、 <code>opVerticalBar</code> 或者栈底，标记这个位置为 <code>i</code> 。 <code>concat()</code> 只会将位置 <code>i</code> 之后所有节点连接起来。</p>
+<p>换句话说， <code>concat()</code> 只会把从栈顶往下的第一个 <code>(</code> 、 <code>|</code> 或者栈底之后的所有节点连接起来。</p>
+<h3 id="选择"> 选择</h3>
+<p>选择是除了连接之外的另一个重要的操作，其操作符是 <code>|</code> 。当解析正则表达式遇到 <code>|</code> 时，会调用 <code>parseVerticalBar()</code> 方法来处理。在 <code>parseVerticalBar()</code> 方法中，首先会调用 <code>concat()</code> 方法，将栈顶的 <code>(</code> 或者 <code>|</code> 之后的所有元素连接成一个。然后 <code>parseVerticalBar()</code> 会调用 <code>swapVerticalBar()</code> 方法。</p>
+<p> 中曾经提到 <code>concat()</code> 的施工范围。执行完 <code>concat()</code> 之后，只有三种可能的栈形态。</p>
+<div><pre><code>             +-------+    +-------+
+             | &lt;re&gt;  |    | &lt;re&gt;  |
+             +-------+    +-------+
+             |   (   |    |   |   |
++-------+    +-------+    +-------+
+| &lt;re&gt;  |    |  ...  |    |  ...  |
++-------+    +-------+    +-------+
+| STACK |    | STACK |    | STACK |
++-------+    +-------+    +-------+
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>第一种情况是栈中没有 <code>(</code> 和 <code>|</code> 的情况，所有节点被连接成了一个。第二种和第三种则是分别先遇到了 <code>(</code> 或 <code>|</code> 。 <code>(</code> 代表了子表达式的开始，可以认为是另一种形式的“栈底”，因此第二种情况就不多加解释。而第三种情况中，可以想想 <code>|</code> 之下具体是什么。</p>
+<div><pre><code>             +-------+    +-------+
+             | &lt;re&gt;  |    | &lt;re&gt;  |
+             +-------+    +-------+
+             |   |   |    |   |   |
++-------+    +-------+    +-------+
+| &lt;re&gt;  |    | &lt;re1&gt; |    | &lt;re1&gt; |
++-------+    +-------+    +-------+
+|   |   |    |   (   |    |   |   |
++-------+    +-------+    +-------+
+| &lt;re1&gt; |    |  ...  |    |  ...  |
++-------+    +-------+    +-------+
+| STACK |    | STACK |    | STACK |
++-------+    +-------+    +-------+
+    √            √            ×
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p>这次又是三种情况。第一种情况， <code>|</code> 之下只有另一个节点。第二种情况， <code>|</code> 之下是另一个节点和 <code>(</code> 。而第三种情况是不可能发生的， <code>|</code> 之下不可能还有 <code>|</code> 。 <code>parseVerticalBar()</code> 能够保证，从离栈顶最近的 <code>(</code> （或栈底，如果没有 <code>(</code> 的话）到栈顶之间的所有元素中，最多只有一个 <code>|</code> 。这一性质是靠 <code>swapVerticalBar()</code> 方法实现的。</p>
+<p><code>swapVerticalBar()</code> 会检查栈顶第二个元素，如果发现它是 <code>|</code> ，那么就把它交换到栈顶；如果不是 <code>|</code> ，那么手动在栈顶压入一个 <code>|</code> 。举个例子来说，入栈的节点分别是 <code>a</code> 、 <code>b</code> 、 <code>|</code> 、 <code>c</code> 、 <code>d</code> 、 <code>|</code> 、 <code>e</code> 、 <code>f</code> ，那么栈中的活动分别是：</p>
+<div><pre><code>                                                    +-------+
+                                                    |   c   |
+                          +-------+    +-------+    +-------+
+                          |   b   |    |   |   |    |   |   |
+             +-------+    +-------+    +-------+    +-------+
+             |   a   |    |   a   |    |  ab   |    |  ab   |
++-------+    +-------+    +-------+    +-------+    +-------+
+| STACK | -&gt; | STACK | -&gt; | STACK | -&gt; | STACK | -&gt; | STACK | -&gt;
++-------+    +-------+    +-------+    +-------+    +-------+
+        push a       push b       push |       push c        push d
+
+                                       +-------+
+                                       |   f   |
++-------+                 +-------+    +-------+
+|   d   |                 |   e   |    |   e   |
++-------+    +-------+    +-------+    +-------+
+|   c   |    |   |   |    |   |   |    |   |   |
++-------+    +-------+    +-------+    +-------+
+|   |   |    |  cd   |    |  cd   |    |  cd   |
++-------+    +-------+    +-------+    +-------+
+|  ab   |    |  ab   |    |  ab   |    |  ab   |
++-------+    +-------+    +-------+    +-------+
+| STACK | -&gt; | STACK | -&gt; | STACK | -&gt; | STACK |
++-------+    +-------+    +-------+    +-------+
+        push |       push e       push f
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div><p>也就是说 <code>|</code> 之下，到最近的 <code>(</code> （或者栈底）之上的所有节点，它们之间的关系都是选择关系。当向栈中加入字面量或者字符类时，它们会直接附加在栈顶。当遇到 <code>|</code> 时，从栈顶到第一个 <code>|</code> 之间节点会被打包成一个节点，放到 <code>|</code> 之下。被打包好的节点已经是一个完整的选项了。</p>
+<p>以上是遇到 <code>|</code> 之后的操作。还是用上面的例子，最后栈中剩了很多节点，需要把它们聚合成一个。首先，需要使用 <code>concat()</code> 把还没连接起来的元素连接起来。然后，使用 <code>swapVerticalBar()</code> 把 <code>|</code> 交换出来，丢掉。</p>
+<div><pre><code>+-------+    +-------+
+|  ef   |    |   |   |
++-------+    +-------+    +-------+
+|   |   |    |  ef   |    |  ef   |
++-------+    +-------+    +-------+
+|  cd   |    |  cd   |    |  cd   |
++-------+    +-------+    +-------+
+|  ab   |    |  ab   |    |  ab   |
++-------+    +-------+    +-------+
+| STACK | -&gt; | STACK | -&gt; | STACK |
++-------+    +-------+    +-------+
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>最后，使用 <code>alternate()</code> 方法把所有选项选择在一起。 <code>alternate()</code> 会从栈顶开始向下搜索，直到找到栈底或者 <code>(</code> ，标记这个位置为 <code>i</code> 。 <code>alternate()</code> 会把从 <code>i</code> 到栈顶的所有元素选择到一起。</p>
+<p>下文中，会把 <code>concat()</code> 、 <code>swapVerticalBar()</code> 、 <code>alternate()</code> 素质三连称为<strong>清理</strong>操作。很明显，清理操作可以把从栈顶开始往下，到第一个 <code>(</code> （或栈底）之间的所有节点组合成一个节点。</p>
+<p>正事说完了，然后说两个上面没提到的优化技巧。第一个是在 <code>swapVerticalBar()</code> 中。 <code>swapVerticalBar()</code> 不光会检查栈顶第二个节点是不是 <code>|</code> ，还会检查栈顶第一个节点和栈顶第三个节点是不是字符类节点。如果它们都是字符类节点，那么可以把它们直接合并。举个例子来说， <code>[a-z]|[0-9]</code> 可以简化成 <code>[a-z0-9]</code> 。</p>
+<p>另一个是在 <code>alternate()</code> 中，使用了一个 <code>cleanAlt()</code> 方法。 <code>cleanAlt()</code> 方法能够判断一个 <code>OpCharClass</code> 类型的节点是不是能够“升格”。如果一个 <code>OpCharClass</code> 的范围是 <code>{0, '\n'-1, '\n'+1, unicode.MaxRune}</code> ，那么它可以直接变为一个 <code>OpAnyCharNotNL</code> 节点。如果一个 <code>OpCharClass</code> 的范围是 <code>{0, unicode.MaxRune}</code> ，那么它可以直接变为一个 <code>OpAnyChar</code> 节点。</p>
+<h3 id="括号"> 括号</h3>
+<p>括号是能够改变优先级的重要操作，实现起来也很复杂。但是讲完连接和选择之后，括号其实不怎么难以理解了。</p>
+<p>当解析器遇到 <code>(</code> 时，会新建一个 <code>opLeftParen</code> 节点，压入栈中。并且会记录这个 <code>(</code> 是解析器遇到的第几个 <code>(</code> ，用户后续捕获分组时使用。</p>
+<p>当遇到 <code>)</code> 时，会调用 <code>parseRightParen()</code> 方法。它首先进行了清理操作（提示一下，是那个三连）。然后，它弹出了栈顶的两个元素，其一是括号内的内容，其二是 <code>opLeftParen</code> 节点（如果不是那就要报错了）。然后，创建一个新的 <code>OpCapture</code> 节点，令括号内的内容作为其唯一的子节点。最后，把新节点压入栈中。</p>
+<h3 id="重复"> 重复</h3>
+<p>重复有四种， <code>*</code> 、 <code>+</code> 、 <code>?</code> 、 <code>{m,n}</code> ，分别对应四种类型的节点。读过了连接、选择和括号之后，可以确定栈顶的元素一定是需要重复的那部分（除非原正则表达式就写错了，比如 <code>a**</code> ）。</p>
+<p>所以当遇到这些操作时，解析器会简单地创建一个新节点 <code>re</code> ，类型与重复方式对应，然后弹出栈顶元素，作为 <code>re</code> 的子节点，最后把 <code>re</code> 压入栈中。</p>
+<p>Go 中不允许 <code>{m,n}</code> 中的数字超过 1000 ，嵌套地超过也不行，也就是说 <code>(x{100}){11}</code> 也不行，拆开括号之后实际的重复次数是 1100 。这里有一个递归的判断过程。</p>
+<h3 id="结束和其他"> 结束和其他</h3>
+<p>结束时，来一个清理操作即可。</p>
+<p>其他的问题，比如说 <code>x*?</code> 可以代表非贪婪的匹配，这些操作是 POSIX 不支持的。</p>
+<p>语法树生成好了，接下来要看语法树怎么变成一个状态机了。</p>
+]]></content>
+    <author>
+      <name>zenk</name>
+    </author>
+    <category term="编译器"/>
+    <contributor>
+      <name>zenk</name>
+    </contributor>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论11 哈希表</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论11-哈希表"> 算法导论11 哈希表</h1>
 <p>很多应用需要一种只支持 <code>INSERT</code>、<code>SEARCH</code>、<code>DELETE</code> 即可的动态集合。<strong>哈希表</strong>（hashing table）是能够高效实现这种动态集合的数据结构，类似的动态集合通常被称为<strong>字典</strong>（dictionary）。一般认为哈希表中搜索的平均情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h2 id="_11-1-直接寻址"> 11.1 直接寻址</h2>
@@ -2921,14 +3205,14 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（二）</title>
     <id>https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
     <link href="https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-    <updated>2021-06-15T11:59:15.000Z</updated>
+    <updated>2021-06-15T12:08:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-二"> Go 的正则（二）</h1>
 <p>括号的处理还没有说完。</p>
 <h2 id="括号"> 括号</h2>
@@ -3479,7 +3763,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T11:59:15.000Z</published>
+    <published>2021-06-15T12:08:47.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
 </feed>
