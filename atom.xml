@@ -6,7 +6,7 @@
   <author>
     <name>zenk</name>
   </author>
-  <updated>2021-06-15T12:20:29.823Z</updated>
+  <updated>2021-06-16T14:12:02.329Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://flyginger.top/atom.xml"/>
   <link rel="alternate" href="https://flyginger.top/"/>
@@ -21,7 +21,7 @@
     <title type="html">个人介绍</title>
     <id>https://flyginger.top/intro/</id>
     <link href="https://flyginger.top/intro/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
 <p>hidden now.</p>
 ]]></content>
@@ -31,14 +31,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论1 算法的概念</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论1-算法的概念"> 算法导论1 算法的概念</h1>
 <p>通俗地讲，<strong>算法</strong>（algorithm）是以值或一组值作为<strong>输入</strong>（input），<strong>输出</strong>（output）值或一组值的计算步骤，也可以把算法看作解决<strong>计算问题</strong>（computational problem）的工具。举例来说，<strong>排序问题</strong>（sorting problem）的规范定义是：</p>
 <blockquote>
@@ -59,14 +59,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论10 基础数据结构</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论10-基础数据结构"> 算法导论10 基础数据结构</h1>
 <p>集合是数学和计算机科学中常用的概念。算法中的集合往往是<strong>动态</strong>（dynamic）的：算法经常对集合进行添加新数据，删除旧数据等操作。某些动态集合把元素的某一个属性当作<strong>键</strong>（key），用以区分不同的元素。元素中除了键的其他数据称为<strong>卫星数据</strong>（satellite data）。</p>
 <p>对动态集合进行的操作可以分为两大类：<strong>查询</strong>（query）和<strong>修改</strong>（modify）。下面列出了典型的操作，大部分算法中只会用到其中的几种：</p>
@@ -160,14 +160,14 @@
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论3 函数的增长</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论3-函数的增长"> 算法导论3 函数的增长</h1>
 <p>算法的<strong>渐近</strong>（asymptotic）效率关注的是算法的运行时间如何随着输入规模的增长而增长。本章介绍了分析渐近效率时使用的数学符号和定义，并且给出了一些常用函数之间的渐近效率关系。</p>
 <h2 id="_3-1-渐近符号"> 3.1 渐近符号</h2>
@@ -298,14 +298,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论5 概率分析和随机算法</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论5-概率分析和随机算法"> 算法导论5 概率分析和随机算法</h1>
 <h2 id="_5-1-招聘问题"> 5.1 招聘问题</h2>
 <p>假设你要雇佣新员工。每次你可以花费少量资金，面试一个应聘者。该应聘者的能力是随机的，如果你决定雇佣他，你需要花费一大笔钱。只有当你决定是否雇佣此应聘者之后，你才能面试下一个应聘者。你的策略如下：如果应聘者的能力比上一个被雇佣的应聘者优秀（当没有上一个时直接雇佣），那么雇佣该应聘者；否则就不雇佣该应聘者，继续面试。这种策略的伪代码如下：</p>
@@ -400,14 +400,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论7 快速排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论7-快速排序"> 算法导论7 快速排序</h1>
 <p><strong>快速排序</strong>（quicksort）的最坏情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span><span>n</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>)</span></span></span></span>。虽然如此，快速排序在实际场景中经常是表现最好的，它的期望运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，并且隐含的常数相对小。另外，快速排序还有原地排序的优点。</p>
 <h2 id="_7-1-快速排序"> 7.1 快速排序</h2>
@@ -498,14 +498,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论8 线性时间排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论8-线性时间排序"> 算法导论8 线性时间排序</h1>
 <p>前几章中提到的几种排序方法，例如插入排序、归并排序、堆排序和快速排序，有一个共同点：顺序判断仅基于元素间的比较。这类排序算法称为<strong>比较排序</strong>（comparsion sort）。</p>
 <p>接下来会先证明比较排序算法都是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Ω</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，然后给出几个可以在线性时间内排序的算法。</p>
@@ -638,14 +638,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论"> 算法导论</h1>
 <ul>
 <li>I 基础概念
@@ -680,14 +680,14 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则</title>
     <id>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E9%9B%B6%EF%BC%89%E7%B4%A2%E5%BC%95/</id>
     <link href="https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E9%9B%B6%EF%BC%89%E7%B4%A2%E5%BC%95/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则"> Go 的正则</h1>
 <p>由于本系列大部分内容是读代码的随笔，所以这里列一个索引。建议只看总结篇。如果实现很闲，也可以都看看。</p>
 <ol>
@@ -698,6 +698,11 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
 <li><a href="./2021-06-13 Go 的正则（三）.html">Go 的正则（三）</a></li>
 </ol>
 </li>
+<li>总结篇还没写
+<ol>
+<li><a href="./2021-06-16 Go 的正则（五）.html">Go 的正则（五）</a></li>
+</ol>
+</li>
 </ol>
 ]]></content>
     <author>
@@ -706,28 +711,28 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">zenk&amp;apos;s blog</title>
     <id>https://flyginger.top/</id>
     <link href="https://flyginger.top/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <author>
       <name>zenk</name>
     </author>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论12 二叉搜索树</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论12-二叉搜索树"> 算法导论12 二叉搜索树</h1>
 <h2 id="_12-1-二叉搜索树"> 12.1 二叉搜索树</h2>
 <p>以下是两棵二叉搜索树：</p>
@@ -911,14 +916,14 @@ TREE-MAXIMUM(x)
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论2 设计算法的流程</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论2-设计算法的流程"> 算法导论2 设计算法的流程</h1>
 <p>设计、证明、分析是处理计算问题的基本步骤。本章以排序问题为例，遍历了这三个基本步骤。首先给出了一个算法（插入排序），证明了它的正确性，分析了它的运行时间。然后使用另一种设计思想（分治）设计了另一种算法（归并排序），同样证明了它的正确性，分析了它的运行时间。</p>
 <h2 id="_2-1-插入排序"> 2.1 插入排序</h2>
@@ -1119,14 +1124,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论4 分治</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论4-分治"> 算法导论4 分治</h1>
 <p><strong>递推式</strong>（recurrence）是使用更小输入的项来描述当前项的等式或不等式。本章提供了三种求解递推式的方法，分别是<strong>替换法</strong>（substitution method），<strong>递归树法</strong>（recursion-tree method），<strong>主方法</strong>（master method）。</p>
 <h2 id="_4-1-最大子数组问题"> 4.1 最大子数组问题</h2>
@@ -1276,14 +1281,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论6 堆排序</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论6-堆排序"> 算法导论6 堆排序</h1>
 <h2 id="_6-1-堆"> 6.1 堆</h2>
 <p><strong>二叉堆</strong>（binary heap）是一种可以看成完全二叉树的数组，一般简称为堆。满二叉树是满足以下两个条件的二叉树：</p>
@@ -1438,14 +1443,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论9 中位数和顺序统计</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论9-中位数和顺序统计"> 算法导论9 中位数和顺序统计</h1>
 <p>第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 位顺序统计是指 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个元素的集合中第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 小的元素。那么元素集合的<strong>最小值</strong>（minimum）就是第一个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>），<strong>最大值</strong>（maximum）就是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>）。</p>
 <p><strong>中位数</strong>（median）是集合中位于“中间”的元素。当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为奇数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span></span></span></span> 个顺序统计；当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为偶数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span></span></span></span> 和第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span> 两个顺序统计的平均数。通常把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌊(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌋</span></span></span></span> 称为<strong>下中位数</strong>（lower median），把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌉</span></span></span></span> 称为<strong>上中位数</strong>（upper median）。为简化描述，下文中的中位数均指下中位数。</p>
@@ -1526,14 +1531,14 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">快速排序的优化</title>
     <id>https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/</id>
     <link href="https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="快速排序的优化"> 快速排序的优化</h1>
 <p>在对快速排序进行优化之前，回忆一下部分基于比较的排序算法的时间复杂度。</p>
 <table>
@@ -1742,14 +1747,14 @@ BenchmarkGoSort-8              9        1197205511 ns/op
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">PyNN</title>
     <id>https://flyginger.top/post/2021-05-22%20PyNN/</id>
     <link href="https://flyginger.top/post/2021-05-22%20PyNN/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="pynn"> PyNN</h1>
 <p><a href="http://neuralensemble.org/PyNN/" target="_blank" rel="noopener noreferrer">PyNN</a>（发音与 pine 相同）是一种用于构建神经网络模型的语言，且独立于模拟器。使用 PyNN 的 API 和 Python 编程语言编写的模型代码，无需修改即可运行于多种 PyNN 支持的模拟器后端或者神经拟态（neuronmorphic）硬件系统。</p>
 <h2 id="安装"> 安装</h2>
@@ -2032,14 +2037,14 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（一）</title>
     <id>https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <link href="https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-一"> Go 的正则（一）</h1>
 <p>今天想研究一下 Go 的正则包是怎么实现的，看看能不能写一个效率高一些的 tokenizer 。正则包收到正则表达式后，一般首先会对其进行一些处理。 Go 的正则包，据我所知是 <code>re2</code> ，使用的是传统的 NFA/DFA 技术。因此，正则表达式应该会被转换成一个状态机。</p>
 <div><p>提示</p>
@@ -2287,14 +2292,14 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（三）</title>
     <id>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%89%EF%BC%89/</id>
     <link href="https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%89%EF%BC%89/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-三"> Go 的正则（三）</h1>
 <p>括号的处理还没有说完……</p>
 <h2 id="括号"> 括号</h2>
@@ -2700,14 +2705,14 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（四）总结篇</title>
     <id>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%9B%9B%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/</id>
     <link href="https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%9B%9B%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-四-总结篇"> Go 的正则（四）总结篇</h1>
 <p>想要判断正则表达式能否匹配某个字符串，首先要理解正则表达式的含义。这就需要解析正则表达式，构造一个等价的语法树，并在构造过程中尽可能地进行优化。</p>
 <p>这个总结篇总结了以下三篇随笔。这三篇不建议看，都是读代码时随手写的。</p>
@@ -2957,14 +2962,14 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">算法导论11 哈希表</title>
     <id>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</id>
     <link href="https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="算法导论11-哈希表"> 算法导论11 哈希表</h1>
 <p>很多应用需要一种只支持 <code>INSERT</code>、<code>SEARCH</code>、<code>DELETE</code> 即可的动态集合。<strong>哈希表</strong>（hashing table）是能够高效实现这种动态集合的数据结构，类似的动态集合通常被称为<strong>字典</strong>（dictionary）。一般认为哈希表中搜索的平均情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h2 id="_11-1-直接寻址"> 11.1 直接寻址</h2>
@@ -3204,14 +3209,14 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
   <entry>
     <title type="html">Go 的正则（二）</title>
     <id>https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
     <link href="https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-    <updated>2021-06-15T12:19:23.000Z</updated>
+    <updated>2021-06-16T14:11:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="go-的正则-二"> Go 的正则（二）</h1>
 <p>括号的处理还没有说完。</p>
 <h2 id="括号"> 括号</h2>
@@ -3762,7 +3767,723 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
     <contributor>
       <name>zenk</name>
     </contributor>
-    <published>2021-06-15T12:19:23.000Z</published>
+    <published>2021-06-16T14:11:00.000Z</published>
+    <rights>Copyright by zenk</rights>
+  </entry>
+  <entry>
+    <title type="html">Go 的正则（五）</title>
+    <id>https://flyginger.top/post/2021-06-16%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%94%EF%BC%89/</id>
+    <link href="https://flyginger.top/post/2021-06-16%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%94%EF%BC%89/"/>
+    <updated>2021-06-16T14:11:00.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="go-的正则-五"> Go 的正则（五）</h1>
+<p>回到 <code>compile()</code> 函数，前面好多篇其实只是第一行。</p>
+<div><pre><code><span>func</span> <span>compile</span><span>(</span>expr <span>string</span><span>,</span> mode syntax<span>.</span>Flags<span>,</span> longest <span>bool</span><span>)</span> <span>(</span><span>*</span>Regexp<span>,</span> <span>error</span><span>)</span> <span>{</span>
+    re<span>,</span> err <span>:=</span> syntax<span>.</span><span>Parse</span><span>(</span>expr<span>,</span> mode<span>)</span>
+    <span>if</span> err <span>!=</span> <span>nil</span> <span>{</span>
+        <span>return</span> <span>nil</span><span>,</span> err
+    <span>}</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>接下来， <code>compile()</code> 通过递归地方式获取了捕获组的数量和名字。</p>
+<div><pre><code>    maxCap <span>:=</span> re<span>.</span><span>MaxCap</span><span>(</span><span>)</span>
+    capNames <span>:=</span> re<span>.</span><span>CapNames</span><span>(</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后，调用了一个看起来会很麻烦的方法， <code>Simplify()</code> ，大概就是这几篇博客的主题了。</p>
+<div><pre><code>    re <span>=</span> re<span>.</span><span>Simplify</span><span>(</span><span>)</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="语法树的化简"> 语法树的化简</h2>
+<div><pre><code><span>func</span> <span>(</span>re <span>*</span>Regexp<span>)</span> <span>Simplify</span><span>(</span><span>)</span> <span>*</span>Regexp <span>{</span>
+    <span>if</span> re <span>==</span> <span>nil</span> <span>{</span>
+        <span>return</span> <span>nil</span>
+    <span>}</span>
+    <span>switch</span> re<span>.</span>Op <span>{</span>
+    <span>case</span> OpCapture<span>,</span> OpConcat<span>,</span> OpAlternate<span>:</span>
+        <span>// Simplify children, building new Regexp if children change.</span>
+        nre <span>:=</span> re
+        <span>for</span> i<span>,</span> sub <span>:=</span> <span>range</span> re<span>.</span>Sub <span>{</span>
+            nsub <span>:=</span> sub<span>.</span><span>Simplify</span><span>(</span><span>)</span>
+            <span>if</span> nre <span>==</span> re <span>&amp;&amp;</span> nsub <span>!=</span> sub <span>{</span>
+                <span>// Start a copy.</span>
+                nre <span>=</span> <span>new</span><span>(</span>Regexp<span>)</span>
+                <span>*</span>nre <span>=</span> <span>*</span>re
+                nre<span>.</span>Rune <span>=</span> <span>nil</span>
+                nre<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>nre<span>.</span>Sub0<span>[</span><span>:</span><span>0</span><span>]</span><span>,</span> re<span>.</span>Sub<span>[</span><span>:</span>i<span>]</span><span>...</span><span>)</span>
+            <span>}</span>
+            <span>if</span> nre <span>!=</span> re <span>{</span>
+                nre<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>nre<span>.</span>Sub<span>,</span> nsub<span>)</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> nre
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><code>Simplify()</code> 的程序其实不长，主要内容也是一个大 <code>switch</code> 。</p>
+<p>如果节点类型是 <code>OpCapture</code> 、 <code>OpConcat</code> 或 <code>OpAlternate</code> ，那么就递归地简化它们的子节点。如果子节点变化了，那么本节点也重新构造一下。这里还看不出为什么，为什么不能直接覆盖数组的某个位置。</p>
+<div><pre><code>    <span>case</span> OpStar<span>,</span> OpPlus<span>,</span> OpQuest<span>:</span>
+        sub <span>:=</span> re<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>.</span><span>Simplify</span><span>(</span><span>)</span>
+        <span>return</span> <span>simplify1</span><span>(</span>re<span>.</span>Op<span>,</span> re<span>.</span>Flags<span>,</span> sub<span>,</span> re<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>如果节点类型是 <code>OpStar</code> 、 <code>OpPlus</code> 或 <code>OpQuest</code> ，那么除了简化它们的子节点之外，还进行了 <code>simplify1()</code> 这种特殊的优化。</p>
+<div><pre><code><span>func</span> <span>simplify1</span><span>(</span>op Op<span>,</span> flags Flags<span>,</span> sub<span>,</span> re <span>*</span>Regexp<span>)</span> <span>*</span>Regexp <span>{</span>
+    <span>// Special case: repeat the empty string as much as</span>
+    <span>// you want, but it's still the empty string.</span>
+    <span>if</span> sub<span>.</span>Op <span>==</span> OpEmptyMatch <span>{</span>
+        <span>return</span> sub
+    <span>}</span>
+    <span>// The operators are idempotent if the flags match.</span>
+    <span>if</span> op <span>==</span> sub<span>.</span>Op <span>&amp;&amp;</span> flags<span>&amp;</span>NonGreedy <span>==</span> sub<span>.</span>Flags<span>&amp;</span>NonGreedy <span>{</span>
+        <span>return</span> sub
+    <span>}</span>
+    <span>if</span> re <span>!=</span> <span>nil</span> <span>&amp;&amp;</span> re<span>.</span>Op <span>==</span> op <span>&amp;&amp;</span> re<span>.</span>Flags<span>&amp;</span>NonGreedy <span>==</span> flags<span>&amp;</span>NonGreedy <span>&amp;&amp;</span> sub <span>==</span> re<span>.</span>Sub<span>[</span><span>0</span><span>]</span> <span>{</span>
+        <span>return</span> re
+    <span>}</span>
+
+    re <span>=</span> <span>&amp;</span>Regexp<span>{</span>Op<span>:</span> op<span>,</span> Flags<span>:</span> flags<span>}</span>
+    re<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>re<span>.</span>Sub0<span>[</span><span>:</span><span>0</span><span>]</span><span>,</span> sub<span>)</span>
+    <span>return</span> re
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div><p>优化点一，空匹配的重复，重复多少次都是匹配空，所以直接返回子节点。优化点二，重复的重复，如果配置都一样，那么和重复一次是等价的，所以直接返回子节点。第三个 <code>if</code> ，看不懂在做什么。 <code>Simplify()</code> 中还有其他地方调用了 <code>simplify1()</code> ，先回去继续看看。</p>
+<div><pre><code>    <span>case</span> OpRepeat<span>:</span>
+        <span>// Special special case: x{0} matches the empty string</span>
+        <span>// and doesn't even need to consider x.</span>
+        <span>if</span> re<span>.</span>Min <span>==</span> <span>0</span> <span>&amp;&amp;</span> re<span>.</span>Max <span>==</span> <span>0</span> <span>{</span>
+            <span>return</span> <span>&amp;</span>Regexp<span>{</span>Op<span>:</span> OpEmptyMatch<span>}</span>
+        <span>}</span>
+
+        <span>// The fun begins.</span>
+        sub <span>:=</span> re<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>.</span><span>Simplify</span><span>(</span><span>)</span>
+
+        <span>// x{n,} means at least n matches of x.</span>
+        <span>if</span> re<span>.</span>Max <span>==</span> <span>-</span><span>1</span> <span>{</span>
+            <span>// Special case: x{0,} is x*.</span>
+            <span>if</span> re<span>.</span>Min <span>==</span> <span>0</span> <span>{</span>
+                <span>return</span> <span>simplify1</span><span>(</span>OpStar<span>,</span> re<span>.</span>Flags<span>,</span> sub<span>,</span> <span>nil</span><span>)</span>
+            <span>}</span>
+
+            <span>// Special case: x{1,} is x+.</span>
+            <span>if</span> re<span>.</span>Min <span>==</span> <span>1</span> <span>{</span>
+                <span>return</span> <span>simplify1</span><span>(</span>OpPlus<span>,</span> re<span>.</span>Flags<span>,</span> sub<span>,</span> <span>nil</span><span>)</span>
+            <span>}</span>
+
+            <span>// General case: x{4,} is xxxx+.</span>
+            nre <span>:=</span> <span>&amp;</span>Regexp<span>{</span>Op<span>:</span> OpConcat<span>}</span>
+            nre<span>.</span>Sub <span>=</span> nre<span>.</span>Sub0<span>[</span><span>:</span><span>0</span><span>]</span>
+            <span>for</span> i <span>:=</span> <span>0</span><span>;</span> i <span>&lt;</span> re<span>.</span>Min<span>-</span><span>1</span><span>;</span> i<span>++</span> <span>{</span>
+                nre<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>nre<span>.</span>Sub<span>,</span> sub<span>)</span>
+            <span>}</span>
+            nre<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>nre<span>.</span>Sub<span>,</span> <span>simplify1</span><span>(</span>OpPlus<span>,</span> re<span>.</span>Flags<span>,</span> sub<span>,</span> <span>nil</span><span>)</span><span>)</span>
+            <span>return</span> nre
+        <span>}</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br></div></div><p><code>OpRepeat</code> 是对 <code>x{m,n}</code> 类型重复的优化。首先，如果是 0 次循环，那么可以直接使用空匹配来替换。然后，递归地对其子节点进行 <code>Simplify()</code> 。后面的 <code>if</code> 分支，对于只写了最小限制的重复，可以对其拆分。</p>
+<div><pre><code>        <span>// Special case x{0} handled above.</span>
+
+        <span>// Special case: x{1} is just x.</span>
+        <span>if</span> re<span>.</span>Min <span>==</span> <span>1</span> <span>&amp;&amp;</span> re<span>.</span>Max <span>==</span> <span>1</span> <span>{</span>
+            <span>return</span> sub
+        <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>接下来处理的是固定重复次数的情况，重复 0 次和重复 1 次都是特殊情况。</p>
+<div><pre><code>        <span>// General case: x{n,m} means n copies of x and m copies of x?</span>
+        <span>// The machine will do less work if we nest the final m copies,</span>
+        <span>// so that x{2,5} = xx(x(x(x)?)?)?</span>
+
+        <span>// Build leading prefix: xx.</span>
+        <span>var</span> prefix <span>*</span>Regexp
+        <span>if</span> re<span>.</span>Min <span>></span> <span>0</span> <span>{</span>
+            prefix <span>=</span> <span>&amp;</span>Regexp<span>{</span>Op<span>:</span> OpConcat<span>}</span>
+            prefix<span>.</span>Sub <span>=</span> prefix<span>.</span>Sub0<span>[</span><span>:</span><span>0</span><span>]</span>
+            <span>for</span> i <span>:=</span> <span>0</span><span>;</span> i <span>&lt;</span> re<span>.</span>Min<span>;</span> i<span>++</span> <span>{</span>
+                prefix<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>prefix<span>.</span>Sub<span>,</span> sub<span>)</span>
+            <span>}</span>
+        <span>}</span>
+
+        <span>// Build and attach suffix: (x(x(x)?)?)?</span>
+        <span>if</span> re<span>.</span>Max <span>></span> re<span>.</span>Min <span>{</span>
+            suffix <span>:=</span> <span>simplify1</span><span>(</span>OpQuest<span>,</span> re<span>.</span>Flags<span>,</span> sub<span>,</span> <span>nil</span><span>)</span>
+            <span>for</span> i <span>:=</span> re<span>.</span>Min <span>+</span> <span>1</span><span>;</span> i <span>&lt;</span> re<span>.</span>Max<span>;</span> i<span>++</span> <span>{</span>
+                nre2 <span>:=</span> <span>&amp;</span>Regexp<span>{</span>Op<span>:</span> OpConcat<span>}</span>
+                nre2<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>nre2<span>.</span>Sub0<span>[</span><span>:</span><span>0</span><span>]</span><span>,</span> sub<span>,</span> suffix<span>)</span>
+                suffix <span>=</span> <span>simplify1</span><span>(</span>OpQuest<span>,</span> re<span>.</span>Flags<span>,</span> nre2<span>,</span> <span>nil</span><span>)</span>
+            <span>}</span>
+            <span>if</span> prefix <span>==</span> <span>nil</span> <span>{</span>
+                <span>return</span> suffix
+            <span>}</span>
+            prefix<span>.</span>Sub <span>=</span> <span>append</span><span>(</span>prefix<span>.</span>Sub<span>,</span> suffix<span>)</span>
+        <span>}</span>
+        <span>if</span> prefix <span>!=</span> <span>nil</span> <span>{</span>
+            <span>return</span> prefix
+        <span>}</span>
+        <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>最后是通用形式。 <code>x{n,m}</code> 最终会被转化为 <code>xxx...xxx(x(x(x(...)?)?)?)?</code> 。也就是说 <code>OpRepeat</code> 类型的节点最终会被完全消除掉，转化为其他三种重复形式的节点。</p>
+<div><pre><code>        <span>// Some degenerate case like min > max or min &lt; max &lt; 0.</span>
+        <span>// Handle as impossible match.</span>
+        <span>return</span> <span>&amp;</span>Regexp<span>{</span>Op<span>:</span> OpNoMatch<span>}</span>
+    <span>}</span>
+
+    <span>return</span> re
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>最后处理了 <code>min</code> 和 <code>max</code> 的非法情况。但是如果直接在正则表达式中写 <code>x{8,2}</code> 会导致报错，那么这些非法情况具体是怎么生成的呢？</p>
+<h2 id="语法树的转换"> 语法树的转换</h2>
+<p>回到 <code>compile()</code> ，继续向下看。下一步就是把语法树转换为状态机了，对应的是 <code>syntax</code> 包中的 <code>Compile()</code> 函数。</p>
+<div><pre><code><span>// A Prog is a compiled regular expression program.</span>
+<span>type</span> Prog <span>struct</span> <span>{</span>
+    Inst   <span>[</span><span>]</span>Inst
+    Start  <span>int</span> <span>// index of start instruction</span>
+    NumCap <span>int</span> <span>// number of InstCapture insts in re</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><code>Prog</code> 是正则表达式语法树的编译结果，看起来是某种线性程序。</p>
+<div><pre><code><span>// An InstOp is an instruction opcode.</span>
+<span>type</span> InstOp <span>uint8</span>
+
+<span>const</span> <span>(</span>
+    InstAlt InstOp <span>=</span> <span>iota</span>
+    InstAltMatch
+    InstCapture
+    InstEmptyWidth
+    InstMatch
+    InstFail
+    InstNop
+    InstRune
+    InstRune1
+    InstRuneAny
+    InstRuneAnyNotNL
+<span>)</span>
+
+<span>// An Inst is a single instruction in a regular expression program.</span>
+<span>type</span> Inst <span>struct</span> <span>{</span>
+    Op   InstOp
+    Out  <span>uint32</span> <span>// all but InstMatch, InstFail</span>
+    Arg  <span>uint32</span> <span>// InstAlt, InstAltMatch, InstCapture, InstEmptyWidth</span>
+    Rune <span>[</span><span>]</span><span>rune</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></div></div><p>指令的数量还不少，看看是怎么生成的吧。 <code>Out</code> 、 <code>Arg</code> 字段的作用还有些看不懂。</p>
+<div><pre><code><span>type</span> compiler <span>struct</span> <span>{</span>
+    p <span>*</span>Prog
+<span>}</span>
+
+<span>// Compile compiles the regexp into a program to be executed.</span>
+<span>// The regexp should have been simplified already (returned from re.Simplify).</span>
+<span>func</span> <span>Compile</span><span>(</span>re <span>*</span>Regexp<span>)</span> <span>(</span><span>*</span>Prog<span>,</span> <span>error</span><span>)</span> <span>{</span>
+    <span>var</span> c compiler
+    c<span>.</span><span>init</span><span>(</span><span>)</span>
+    f <span>:=</span> c<span>.</span><span>compile</span><span>(</span>re<span>)</span>
+    f<span>.</span>out<span>.</span><span>patch</span><span>(</span>c<span>.</span>p<span>,</span> c<span>.</span><span>inst</span><span>(</span>InstMatch<span>)</span><span>.</span>i<span>)</span>
+    c<span>.</span>p<span>.</span>Start <span>=</span> <span>int</span><span>(</span>f<span>.</span>i<span>)</span>
+    <span>return</span> c<span>.</span>p<span>,</span> <span>nil</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p><code>Compile()</code> 函数首先创建了一个 <code>compiler</code> 结构，然后对其初始化。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>init</span><span>(</span><span>)</span> <span>{</span>
+    c<span>.</span>p <span>=</span> <span>new</span><span>(</span>Prog<span>)</span>
+    c<span>.</span>p<span>.</span>NumCap <span>=</span> <span>2</span> <span>// implicit ( and ) for whole match $0</span>
+    c<span>.</span><span>inst</span><span>(</span>InstFail<span>)</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>inst</span><span>(</span>op InstOp<span>)</span> frag <span>{</span>
+    <span>// TODO: impose length limit</span>
+    f <span>:=</span> frag<span>{</span>i<span>:</span> <span>uint32</span><span>(</span><span>len</span><span>(</span>c<span>.</span>p<span>.</span>Inst<span>)</span><span>)</span><span>}</span>
+    c<span>.</span>p<span>.</span>Inst <span>=</span> <span>append</span><span>(</span>c<span>.</span>p<span>.</span>Inst<span>,</span> Inst<span>{</span>Op<span>:</span> op<span>}</span><span>)</span>
+    <span>return</span> f
+<span>}</span>
+
+<span>// A frag represents a compiled program fragment.</span>
+<span>type</span> frag <span>struct</span> <span>{</span>
+    i   <span>uint32</span>    <span>// index of first instruction</span>
+    out patchList <span>// where to record end instruction</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div><p>虽然 <code>init()</code> 方法没有使用 <code>inst()</code> 方法的返回结果，但是我还是列出来了。 <code>inst()</code> 会创建一个指定类型的指令，然后附加到 <code>compiler.Prog.Inst</code> 中。返回的 <code>frag</code> 中，只标明了新加入的指令的索引， <code>frag.out</code> 字段没有用到。</p>
+<p><code>init()</code> 中还说明，由于捕获的第 0 组（指的就是整个捕获），所以需要加入 <code>(</code> 、 <code>)</code> 。问题在于为什么 <code>NumCap = 2</code> 而不是 <code>NumCap = 1</code> 。另一个问题是为什么插入了一个 <code>InstFail</code> 指令。这些目前无所谓， <code>init()</code> 会创建一个：</p>
+<div><pre><code>&amp;Prog{Inst: []Inst{{Op: InstFail}}, NumCap: 2}
+</code></pre>
+<div><span>1</span><br></div></div><p>初始化之后， <code>Compile()</code> 调用了 <code>compile()</code> 方法，看起来是主要的部分。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>compile</span><span>(</span>re <span>*</span>Regexp<span>)</span> frag <span>{</span>
+    <span>switch</span> re<span>.</span>Op <span>{</span>
+    <span>case</span> OpNoMatch<span>:</span>
+        <span>return</span> c<span>.</span><span>fail</span><span>(</span><span>)</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>典型大 <code>switch</code> 。 <code>OpNoMatch</code> 类型对应的是 <code>fail()</code> 方法，进去看看。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>fail</span><span>(</span><span>)</span> frag <span>{</span>
+    <span>return</span> frag<span>{</span><span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><code>fail()</code> 返回一个初始的 <code>frag</code> 。令人迷惑，继续看。</p>
+<div><pre><code>    <span>case</span> OpEmptyMatch<span>:</span>
+        <span>return</span> c<span>.</span><span>nop</span><span>(</span><span>)</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><code>OpEmptyMatch</code> 类型对应的是 <code>nop()</code> 方法。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>nop</span><span>(</span><span>)</span> frag <span>{</span>
+    f <span>:=</span> c<span>.</span><span>inst</span><span>(</span>InstNop<span>)</span>
+    f<span>.</span>out <span>=</span> <span>makePatchList</span><span>(</span>f<span>.</span>i <span>&lt;&lt;</span> <span>1</span><span>)</span>
+    <span>return</span> f
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>这次向 <code>Prog</code> 中插入了一个 <code>InstNop</code> 指令，并得到了一个 <code>frag</code> 。然后给 <code>f.out</code> 赋值了。</p>
+<div><pre><code><span>// A patchList is a list of instruction pointers that need to be filled in (patched).</span>
+<span>// Because the pointers haven't been filled in yet, we can reuse their storage</span>
+<span>// to hold the list. It's kind of sleazy, but works well in practice.</span>
+<span>// See https://swtch.com/~rsc/regexp/regexp1.html for inspiration.</span>
+<span>//</span>
+<span>// These aren't really pointers: they're integers, so we can reinterpret them</span>
+<span>// this way without using package unsafe. A value l.head denotes</span>
+<span>// p.inst[l.head>>1].Out (l.head&amp;1==0) or .Arg (l.head&amp;1==1).</span>
+<span>// head == 0 denotes the empty list, okay because we start every program</span>
+<span>// with a fail instruction, so we'll never want to point at its output link.</span>
+<span>type</span> patchList <span>struct</span> <span>{</span>
+    head<span>,</span> tail <span>uint32</span>
+<span>}</span>
+
+<span>func</span> <span>makePatchList</span><span>(</span>n <span>uint32</span><span>)</span> patchList <span>{</span>
+    <span>return</span> patchList<span>{</span>n<span>,</span> n<span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>令人迷惑的地方来啦，搞不懂。现在只知道 <code>head</code> 和 <code>tail</code> 是逻辑上的指针。如果 <code>head&amp;1</code> 是 <code>0</code> ，那么它是 <code>Out</code> 字段的指针，否则是 <code>Arg</code> 字段的指针。</p>
+<p>当插入 <code>InstNop</code> 指令时，假设这个指令的索引是 <code>i</code> ，那么返回的 <code>f = frag{i, patchList{i&lt;&lt;1, i&lt;&lt;1}}</code> 。两个指针均指向自身。</p>
+<div><pre><code>    <span>case</span> OpLiteral<span>:</span>
+        <span>if</span> <span>len</span><span>(</span>re<span>.</span>Rune<span>)</span> <span>==</span> <span>0</span> <span>{</span>
+            <span>return</span> c<span>.</span><span>nop</span><span>(</span><span>)</span>
+        <span>}</span>
+        <span>var</span> f frag
+        <span>for</span> j <span>:=</span> <span>range</span> re<span>.</span>Rune <span>{</span>
+            f1 <span>:=</span> c<span>.</span><span>rune</span><span>(</span>re<span>.</span>Rune<span>[</span>j<span>:</span>j<span>+</span><span>1</span><span>]</span><span>,</span> re<span>.</span>Flags<span>)</span>
+            <span>if</span> j <span>==</span> <span>0</span> <span>{</span>
+                f <span>=</span> f1
+            <span>}</span> <span>else</span> <span>{</span>
+                f <span>=</span> c<span>.</span><span>cat</span><span>(</span>f<span>,</span> f1<span>)</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> f
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br></div></div><p>接下来是字面量类型。如果需要匹配的字符数量是 0 ，那么调用 <code>nop()</code> 。否则，对于 <code>Rune</code> 中的每一个字符，都需要调用一次 <code>rune()</code> 方法，然后由此产生的 <code>frag</code> 似乎需要通过 <code>cat</code> 方法聚合起来。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>rune</span><span>(</span>r <span>[</span><span>]</span><span>rune</span><span>,</span> flags Flags<span>)</span> frag <span>{</span>
+    f <span>:=</span> c<span>.</span><span>inst</span><span>(</span>InstRune<span>)</span>
+    i <span>:=</span> <span>&amp;</span>c<span>.</span>p<span>.</span>Inst<span>[</span>f<span>.</span>i<span>]</span>
+    i<span>.</span>Rune <span>=</span> r
+    flags <span>&amp;=</span> FoldCase <span>// only relevant flag is FoldCase</span>
+    <span>if</span> <span>len</span><span>(</span>r<span>)</span> <span>!=</span> <span>1</span> <span>||</span> unicode<span>.</span><span>SimpleFold</span><span>(</span>r<span>[</span><span>0</span><span>]</span><span>)</span> <span>==</span> r<span>[</span><span>0</span><span>]</span> <span>{</span>
+        <span>// and sometimes not even that</span>
+        flags <span>&amp;^=</span> FoldCase
+    <span>}</span>
+    i<span>.</span>Arg <span>=</span> <span>uint32</span><span>(</span>flags<span>)</span>
+    f<span>.</span>out <span>=</span> <span>makePatchList</span><span>(</span>f<span>.</span>i <span>&lt;&lt;</span> <span>1</span><span>)</span>
+
+    <span>// Special cases for exec machine.</span>
+    <span>switch</span> <span>{</span>
+    <span>case</span> flags<span>&amp;</span>FoldCase <span>==</span> <span>0</span> <span>&amp;&amp;</span> <span>(</span><span>len</span><span>(</span>r<span>)</span> <span>==</span> <span>1</span> <span>||</span> <span>len</span><span>(</span>r<span>)</span> <span>==</span> <span>2</span> <span>&amp;&amp;</span> r<span>[</span><span>0</span><span>]</span> <span>==</span> r<span>[</span><span>1</span><span>]</span><span>)</span><span>:</span>
+        i<span>.</span>Op <span>=</span> InstRune1
+    <span>case</span> <span>len</span><span>(</span>r<span>)</span> <span>==</span> <span>2</span> <span>&amp;&amp;</span> r<span>[</span><span>0</span><span>]</span> <span>==</span> <span>0</span> <span>&amp;&amp;</span> r<span>[</span><span>1</span><span>]</span> <span>==</span> unicode<span>.</span>MaxRune<span>:</span>
+        i<span>.</span>Op <span>=</span> InstRuneAny
+    <span>case</span> <span>len</span><span>(</span>r<span>)</span> <span>==</span> <span>4</span> <span>&amp;&amp;</span> r<span>[</span><span>0</span><span>]</span> <span>==</span> <span>0</span> <span>&amp;&amp;</span> r<span>[</span><span>1</span><span>]</span> <span>==</span> <span>'\n'</span><span>-</span><span>1</span> <span>&amp;&amp;</span> r<span>[</span><span>2</span><span>]</span> <span>==</span> <span>'\n'</span><span>+</span><span>1</span> <span>&amp;&amp;</span> r<span>[</span><span>3</span><span>]</span> <span>==</span> unicode<span>.</span>MaxRune<span>:</span>
+        i<span>.</span>Op <span>=</span> InstRuneAnyNotNL
+    <span>}</span>
+
+    <span>return</span> f
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></div></div><p><code>rune()</code> 意外地复杂。首先向 <code>Prog</code> 插入了一个 <code>Inst{Op: InstRune, Rune: r}</code> 。有些迷惑， <code>Rune</code> 是一个数组，可以存放多个字符，但是为什么要每个字符都调用一次 <code>rune()</code> 呢？先往下看。</p>
+<p>接下来， <code>rune()</code> 把配置参数信息放到了 <code>Inst.Arg</code> 。本次调用的 <code>rune()</code> 只会用到后面 <code>switch</code> 的第一个 <code>case</code> 。这个 <code>switch</code> 会根据字符类的范围，生成对应的指令。单个字面量的指令对应的是 <code>InstRune1</code> 。所以最终生成的指令中，不会有 <code>InstRune</code> 指令。</p>
+<p>最后，再来看 <code>cat()</code> 方法。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>cat</span><span>(</span>f1<span>,</span> f2 frag<span>)</span> frag <span>{</span>
+    <span>// concat of failure is failure</span>
+    <span>if</span> f1<span>.</span>i <span>==</span> <span>0</span> <span>||</span> f2<span>.</span>i <span>==</span> <span>0</span> <span>{</span>
+        <span>return</span> frag<span>{</span><span>}</span>
+    <span>}</span>
+
+    <span>// TODO: elide nop</span>
+
+    f1<span>.</span>out<span>.</span><span>patch</span><span>(</span>c<span>.</span>p<span>,</span> f2<span>.</span>i<span>)</span>
+    <span>return</span> frag<span>{</span>f1<span>.</span>i<span>,</span> f2<span>.</span>out<span>}</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>l patchList<span>)</span> <span>patch</span><span>(</span>p <span>*</span>Prog<span>,</span> val <span>uint32</span><span>)</span> <span>{</span>
+    head <span>:=</span> l<span>.</span>head
+    <span>for</span> head <span>!=</span> <span>0</span> <span>{</span>
+        i <span>:=</span> <span>&amp;</span>p<span>.</span>Inst<span>[</span>head<span>>></span><span>1</span><span>]</span>
+        <span>if</span> head<span>&amp;</span><span>1</span> <span>==</span> <span>0</span> <span>{</span>
+            head <span>=</span> i<span>.</span>Out
+            i<span>.</span>Out <span>=</span> val
+        <span>}</span> <span>else</span> <span>{</span>
+            head <span>=</span> i<span>.</span>Arg
+            i<span>.</span>Arg <span>=</span> val
+        <span>}</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div><p>首先，如果其中一个 <code>frag</code> 的 <code>i</code> 是 0 ，那么就直接返回一个空 <code>frag</code> 。否则，需要调用 <code>patch()</code> 方法。</p>
+<p>首先，让 <code>head</code> 等于 <code>f1.out.head</code> 。然后，利用 <code>head</code> 取出了它所指的指令 <code>i</code> 。猜测这里有某种链表结构， <code>for</code> 循环让链表中的所有元素的 <code>Out</code> 或者 <code>Arg</code> 指向 <code>val</code> 。</p>
+<p>针对字面量来说，如果连续压入了两个字面量 <code>a</code> 、 <code>b</code> ，那么（注意初始情况下 <code>Prog.Inst</code> 中有一个 <code>InstFail</code> ，所以下标从 1 开始）：</p>
+<div><pre><code>// before cat()
+
+[1] Inst of &#39;a&#39;: {Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst of &#39;b&#39;: {Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+
+frag of &#39;a&#39;: {i: 1, patchList{head: 1&lt;&lt;1, tail: 1&lt;&lt;1}}
+frag of &#39;b&#39;: {i: 2, patchList{head: 2&lt;&lt;1, tail: 2&lt;&lt;1}}
+
+// after cat()
+
+[1] Inst of &#39;a&#39;: {Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst of &#39;b&#39;: {Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+
+frag of &#39;a&#39;: {i: 1, patchList{head: 1&lt;&lt;1, tail: 1&lt;&lt;1}}
+frag of &#39;b&#39;: {i: 2, patchList{head: 2&lt;&lt;1, tail: 2&lt;&lt;1}}
+
+return frag{i: 1, patchList{head: 2&lt;&lt;1, tail: 2&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>只改变了一个地方，那就是 <code>Inst.Out</code> 。假如此时又插入了 <code>c</code> 呢？</p>
+<div><pre><code>// before cat()
+
+[1] Inst of &#39;a&#39;:  {Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst of &#39;b&#39;:  {Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst of &#39;c&#39;:  {Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;c&#39;}}
+
+frag of &#39;ab&#39;: {i: 1, patchList{head: 2&lt;&lt;1, tail: 2&lt;&lt;1}}
+frag of &#39;c&#39;:  {i: 3, patchList{head: 3&lt;&lt;1, tail: 3&lt;&lt;1}}
+
+// after cat()
+
+[1] Inst of &#39;a&#39;:  {Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst of &#39;b&#39;:  {Op: InstRune1, Out: 3, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst of &#39;c&#39;:  {Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;c&#39;}}
+
+frag of &#39;ab&#39;: {i: 1, patchList{head: 2&lt;&lt;1, tail: 2&lt;&lt;1}}
+frag of &#39;c&#39;:  {i: 3, patchList{head: 3&lt;&lt;1, tail: 3&lt;&lt;1}}
+
+return frag{i: 1, patchList{head: 3&lt;&lt;1, tail: 3&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div><p>看来是形成了某种链表结构。问题， <code>i.Arg = uint32(flags)</code> 这里把 <code>Arg</code> 当作了保存参数的位置，然而 <code>patch()</code> 里又把它当链表用。难道是某种复用。</p>
+<div><pre><code>    <span>case</span> OpCharClass<span>:</span>
+        <span>return</span> c<span>.</span><span>rune</span><span>(</span>re<span>.</span>Rune<span>,</span> re<span>.</span>Flags<span>)</span>
+    <span>case</span> OpAnyCharNotNL<span>:</span>
+        <span>return</span> c<span>.</span><span>rune</span><span>(</span>anyRuneNotNL<span>,</span> <span>0</span><span>)</span>
+    <span>case</span> OpAnyChar<span>:</span>
+        <span>return</span> c<span>.</span><span>rune</span><span>(</span>anyRune<span>,</span> <span>0</span><span>)</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>其他字符类的难度不高。</p>
+<div><pre><code>    <span>case</span> OpBeginLine<span>:</span>
+        <span>return</span> c<span>.</span><span>empty</span><span>(</span>EmptyBeginLine<span>)</span>
+    <span>case</span> OpEndLine<span>:</span>
+        <span>return</span> c<span>.</span><span>empty</span><span>(</span>EmptyEndLine<span>)</span>
+    <span>case</span> OpBeginText<span>:</span>
+        <span>return</span> c<span>.</span><span>empty</span><span>(</span>EmptyBeginText<span>)</span>
+    <span>case</span> OpEndText<span>:</span>
+        <span>return</span> c<span>.</span><span>empty</span><span>(</span>EmptyEndText<span>)</span>
+    <span>case</span> OpWordBoundary<span>:</span>
+        <span>return</span> c<span>.</span><span>empty</span><span>(</span>EmptyWordBoundary<span>)</span>
+    <span>case</span> OpNoWordBoundary<span>:</span>
+        <span>return</span> c<span>.</span><span>empty</span><span>(</span>EmptyNoWordBoundary<span>)</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>匹配位置的类型使用的都是 <code>empty()</code> 方法。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>empty</span><span>(</span>op EmptyOp<span>)</span> frag <span>{</span>
+    f <span>:=</span> c<span>.</span><span>inst</span><span>(</span>InstEmptyWidth<span>)</span>
+    c<span>.</span>p<span>.</span>Inst<span>[</span>f<span>.</span>i<span>]</span><span>.</span>Arg <span>=</span> <span>uint32</span><span>(</span>op<span>)</span>
+    f<span>.</span>out <span>=</span> <span>makePatchList</span><span>(</span>f<span>.</span>i <span>&lt;&lt;</span> <span>1</span><span>)</span>
+    <span>return</span> f
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>可以看到，不管什么类型的位置，生成的都是 <code>InstEmptyWidth</code> 指令。具体类型被保存在 <code>Arg</code> 字段中。</p>
+<div><pre><code>    <span>case</span> OpCapture<span>:</span>
+        bra <span>:=</span> c<span>.</span><span>cap</span><span>(</span><span>uint32</span><span>(</span>re<span>.</span>Cap <span>&lt;&lt;</span> <span>1</span><span>)</span><span>)</span>
+        sub <span>:=</span> c<span>.</span><span>compile</span><span>(</span>re<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span>
+        ket <span>:=</span> c<span>.</span><span>cap</span><span>(</span><span>uint32</span><span>(</span>re<span>.</span>Cap<span>&lt;&lt;</span><span>1</span> <span>|</span> <span>1</span><span>)</span><span>)</span>
+        <span>return</span> c<span>.</span><span>cat</span><span>(</span>c<span>.</span><span>cat</span><span>(</span>bra<span>,</span> sub<span>)</span><span>,</span> ket<span>)</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><code>OpCapture</code> 类型调用了 <code>cap()</code> 、 <code>compile()</code> 、 <code>cap()</code> 三个方法。其中 <code>compile()</code> 是递归调用的，不需要进去看了，主要看看 <code>cap()</code> 方法。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>cap</span><span>(</span>arg <span>uint32</span><span>)</span> frag <span>{</span>
+    f <span>:=</span> c<span>.</span><span>inst</span><span>(</span>InstCapture<span>)</span>
+    f<span>.</span>out <span>=</span> <span>makePatchList</span><span>(</span>f<span>.</span>i <span>&lt;&lt;</span> <span>1</span><span>)</span>
+    c<span>.</span>p<span>.</span>Inst<span>[</span>f<span>.</span>i<span>]</span><span>.</span>Arg <span>=</span> arg
+
+    <span>if</span> c<span>.</span>p<span>.</span>NumCap <span>&lt;</span> <span>int</span><span>(</span>arg<span>)</span><span>+</span><span>1</span> <span>{</span>
+        c<span>.</span>p<span>.</span>NumCap <span>=</span> <span>int</span><span>(</span>arg<span>)</span> <span>+</span> <span>1</span>
+    <span>}</span>
+    <span>return</span> f
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>传进 <code>cap()</code> 的参数是 <code>re.Cap &lt;&lt; 1</code> ， <code>re.Cap</code> 代表当前的捕获是第几组。 <code>re.Cap</code> 是从 1 开始的，所以 <code>re.Cap &lt;&lt; 1</code> 是 2 、 4 、 6 ……这个值被放在 <code>Inst.Arg</code> 字段。</p>
+<p>假设第一次遇到 <code>(</code> ，此时 <code>c.p.NumCap</code> 已经是 2 （回忆 <code>init()</code> ）。此时 <code>int(arg) + 1</code> 应该是 3 。条件满足，所以 <code>c.p.NumCap</code> 会被设置为 3 。</p>
+<p>返回的 <code>frag</code> 没什么可说的。假设 <code>i</code> 是生成的 <code>InstCapture</code> 指令的索引。</p>
+<div><pre><code>left parent: frag{i, patchList{i&lt;&lt;1, i&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br></div></div><p><code>compile()</code> 递归调用，生成了括号中表达式的指令。返回的 <code>frag</code> 应该是什么样子呢？假设生成的这一段指令，第一条位于 <code>j</code> ，最后一条位于 <code>k</code> 。猜测可能的样子应该这样的。</p>
+<div><pre><code>content: frag{j, patchList{k&lt;&lt;1, k&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br></div></div><p><code>head</code> 和 <code>tail</code> 应该不会总一样。继续看大概就知道了。</p>
+<p>第二次调用 <code>cap()</code> 时， <code>re.Cap&lt;&lt;1 | 1</code> 应该是 3 、 5 、 7 ……此时 <code>c.p.NumCap</code> 是左括号设置的 3 ，前提是子表达式里没有括号了。先假设里面没有，那么 <code>c.p.NumCap</code> 还是 3 ，此时 <code>int(arg)+1</code> 是 4 ，所以 <code>c.p.NumCap</code> 会被设置成 4 。如果里面有括号， <code>c.p.NumCap</code> 又增长了，那条件就不会满足了。右括号的 <code>frag</code> 应该是这样的，假设这条指令位于 <code>l</code> 。</p>
+<div><pre><code>right parent: frag{l, patchList{l&lt;&lt;1, l&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br></div></div><p>首先会把前两个 <code>frag</code> 连接到一起，然后把生成的 <code>frag</code> 和后面的连接到一起。结果应该是：</p>
+<div><pre><code>frag{i, patchList{l&lt;&lt;1, l&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br></div></div><p>接下来是重复。</p>
+<div><pre><code>    <span>case</span> OpStar<span>:</span>
+        <span>return</span> c<span>.</span><span>star</span><span>(</span>c<span>.</span><span>compile</span><span>(</span>re<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span><span>,</span> re<span>.</span>Flags<span>&amp;</span>NonGreedy <span>!=</span> <span>0</span><span>)</span>
+    <span>case</span> OpPlus<span>:</span>
+        <span>return</span> c<span>.</span><span>plus</span><span>(</span>c<span>.</span><span>compile</span><span>(</span>re<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span><span>,</span> re<span>.</span>Flags<span>&amp;</span>NonGreedy <span>!=</span> <span>0</span><span>)</span>
+    <span>case</span> OpQuest<span>:</span>
+        <span>return</span> c<span>.</span><span>quest</span><span>(</span>c<span>.</span><span>compile</span><span>(</span>re<span>.</span>Sub<span>[</span><span>0</span><span>]</span><span>)</span><span>,</span> re<span>.</span>Flags<span>&amp;</span>NonGreedy <span>!=</span> <span>0</span><span>)</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>挨个儿看看。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>star</span><span>(</span>f1 frag<span>,</span> nongreedy <span>bool</span><span>)</span> frag <span>{</span>
+    f <span>:=</span> c<span>.</span><span>inst</span><span>(</span>InstAlt<span>)</span>
+    i <span>:=</span> <span>&amp;</span>c<span>.</span>p<span>.</span>Inst<span>[</span>f<span>.</span>i<span>]</span>
+    <span>if</span> nongreedy <span>{</span>
+        i<span>.</span>Arg <span>=</span> f1<span>.</span>i
+        f<span>.</span>out <span>=</span> <span>makePatchList</span><span>(</span>f<span>.</span>i <span>&lt;&lt;</span> <span>1</span><span>)</span>
+    <span>}</span> <span>else</span> <span>{</span>
+        i<span>.</span>Out <span>=</span> f1<span>.</span>i
+        f<span>.</span>out <span>=</span> <span>makePatchList</span><span>(</span>f<span>.</span>i<span>&lt;&lt;</span><span>1</span> <span>|</span> <span>1</span><span>)</span>
+    <span>}</span>
+    f1<span>.</span>out<span>.</span><span>patch</span><span>(</span>c<span>.</span>p<span>,</span> f<span>.</span>i<span>)</span>
+    <span>return</span> f
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>从刚才的经验来说，最后进入 <code>Prog.Inst</code> 的指令的 <code>Out</code> 字段应该是 0 。问题在于，调用 <code>star()</code> 之前，先对需要重复的部分进行了编译。这样 <code>Inst</code> 中其实会包含三段程序。</p>
+<p>第一段， <code>init()</code> 时放入的 <code>InstFail</code> 。第二段，这个重复部分之前的部分，是一段程序， <code>[]Inst</code> ，并且“出口”的 <code>Out</code> 还都是 0 。第三段，需要重复的部分，也是一段程序， <code>[]Inst</code> ，“出口”的 <code>Out</code> 也都是 0 。现在如何把这三段连接起来呢？还是我想错了。</p>
+<p>哦，想错了。因为语法树是树状结构。所以不存在第二段。即使有，它也是上一层递归，它正等着我们返回一个 <code>frag</code> ，好把两段连接起来。</p>
+<div><pre><code>nongreedy: frag{i, patchList{i&lt;&lt;1, i&lt;&lt;1}}
+greedy:    frag{i, patchList{i&lt;&lt;1|1, i&lt;&lt;1|1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>首先，如果非贪婪匹配， <code>Inst.Arg = i</code> ，而贪婪匹配的时候 <code>Inst.Out = i</code> 。注意 <code>f.out</code> 使用了正相反的配置。 <code>patch()</code> 方法走到这个指令时一定会撞 0 而停下。</p>
+<p>不太理解这里插入的 <code>InstAlt</code> 指令。之前重复的部分，出口连接到了这个指令，然后呢？如果确实要重复，怎么回去执行原来的指令？</p>
+<p>还是举个例子吧，脑内编译。假设一个 <code>OpStar</code> 节点的子节点是 <code>OpLiteral</code> ，字面量是 <code>ab</code> 。实际会怎么运行呢？</p>
+<p>首先被执行的是 <code>c.compile(re.Sub[0])</code> ，所以跳转到了下一层级的 <code>case OpLiteral</code> 。</p>
+<p>插入 <code>a</code> :</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;a&#39;}}
+
+return frag{i: 1, out: patchList{1&lt;&lt;1, 1&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>插入 <code>b</code> ：</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+
+return frag{i: 2, out: patchList{2&lt;&lt;1, 2&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>然后 <code>cat()</code> ：</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+
+return frag{i: 1, out: patchList{2&lt;&lt;1, 2&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>然后上面那样的 <code>frag</code> 传入到了 <code>star()</code> 方法中。首先第一行， <code>f := c.inst(InstAlt)</code> 。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstAlt,   Out: 0, Arg: 0, Rune: nil}
+
+f: frag{i: 3, out: patchList{3&lt;&lt;1, 3&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>假设是贪婪模式，那么 <code>if</code> 分支走完之后应该是：</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstAlt,   Out: 1, Arg: 0, Rune: nil}
+
+f: frag{i: 3, out: patchList{3&lt;&lt;1|1, 3&lt;&lt;1|1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>噢噢噢噢！有循环了。 <code>InstAlt</code> 应该是一个分支， <code>Out</code> 字段提供一个分支， <code>Arg</code> 字段提供另一个分支。最后还调用了 <code>patch()</code> 。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 3, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstAlt,   Out: 1, Arg: 0, Rune: nil}
+
+f: frag{i: 3, out: patchList{3&lt;&lt;1|1, 3&lt;&lt;1|1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>懂了懂了。最后返回发 <code>frag</code> 正好是分支位置。因为 <code>*</code> 是重复任意次，也可以 0 次，所以把岔路口传回去的话，正好就实现了这一点。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>plus</span><span>(</span>f1 frag<span>,</span> nongreedy <span>bool</span><span>)</span> frag <span>{</span>
+    <span>return</span> frag<span>{</span>f1<span>.</span>i<span>,</span> c<span>.</span><span>star</span><span>(</span>f1<span>,</span> nongreedy<span>)</span><span>.</span>out<span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>然后再来看 <code>plus()</code> 的实现方法。与 <code>star()</code> 可以说是完全相同，但是在返回的东西上做了手脚，改了 <code>frag.i</code> ，这样就必须从头开始执行一次才能遇到岔路口了。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>quest</span><span>(</span>f1 frag<span>,</span> nongreedy <span>bool</span><span>)</span> frag <span>{</span>
+    f <span>:=</span> c<span>.</span><span>inst</span><span>(</span>InstAlt<span>)</span>
+    i <span>:=</span> <span>&amp;</span>c<span>.</span>p<span>.</span>Inst<span>[</span>f<span>.</span>i<span>]</span>
+    <span>if</span> nongreedy <span>{</span>
+        i<span>.</span>Arg <span>=</span> f1<span>.</span>i
+        f<span>.</span>out <span>=</span> <span>makePatchList</span><span>(</span>f<span>.</span>i <span>&lt;&lt;</span> <span>1</span><span>)</span>
+    <span>}</span> <span>else</span> <span>{</span>
+        i<span>.</span>Out <span>=</span> f1<span>.</span>i
+        f<span>.</span>out <span>=</span> <span>makePatchList</span><span>(</span>f<span>.</span>i<span>&lt;&lt;</span><span>1</span> <span>|</span> <span>1</span><span>)</span>
+    <span>}</span>
+    f<span>.</span>out <span>=</span> f<span>.</span>out<span>.</span><span>append</span><span>(</span>c<span>.</span>p<span>,</span> f1<span>.</span>out<span>)</span>
+    <span>return</span> f
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>最后一种重复是 <code>quest()</code> 。它与 <code>star()</code> 类似，唯一的差别在于 <code>f.out = f.out.append(c.p, f1.out)</code> 这一行。</p>
+<p>还以上面的 <code>ab</code> 重复为例。此时两个 <code>frag</code> 分别是：</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 3, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstAlt,   Out: 1, Arg: 0, Rune: nil}
+
+f1: frag{i: 1, out: patchList{2&lt;&lt;1, 2&lt;&lt;1}}
+f:  frag{i: 3, out: patchList{3&lt;&lt;1|1, 3&lt;&lt;1|1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><div><pre><code><span>func</span> <span>(</span>l1 patchList<span>)</span> <span>append</span><span>(</span>p <span>*</span>Prog<span>,</span> l2 patchList<span>)</span> patchList <span>{</span>
+    <span>if</span> l1<span>.</span>head <span>==</span> <span>0</span> <span>{</span>
+        <span>return</span> l2
+    <span>}</span>
+    <span>if</span> l2<span>.</span>head <span>==</span> <span>0</span> <span>{</span>
+        <span>return</span> l1
+    <span>}</span>
+
+    i <span>:=</span> <span>&amp;</span>p<span>.</span>Inst<span>[</span>l1<span>.</span>tail<span>>></span><span>1</span><span>]</span>
+    <span>if</span> l1<span>.</span>tail<span>&amp;</span><span>1</span> <span>==</span> <span>0</span> <span>{</span>
+        i<span>.</span>Out <span>=</span> l2<span>.</span>head
+    <span>}</span> <span>else</span> <span>{</span>
+        i<span>.</span>Arg <span>=</span> l2<span>.</span>head
+    <span>}</span>
+    <span>return</span> patchList<span>{</span>l1<span>.</span>head<span>,</span> l2<span>.</span>tail<span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><p>看看 <code>append()</code> 的逻辑。调用它时， <code>l1</code> 是 <code>[3&lt;&lt;1|1, 3&lt;&lt;1|1]</code> ， <code>l2</code> 是 <code>[2&lt;&lt;1, 2&lt;&lt;1]</code> 。所以前面两个判断 0 的逻辑就躲过去了。</p>
+<p><code>i</code> 取出了第三个 <code>Inst</code> 。 <code>if</code> 分支之后：</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0,    Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 3, Arg: 0,    Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstAlt,   Out: 1, Arg: 2&lt;&lt;1, Rune: nil}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>最后的返回值是 <code>patchList{3&lt;&lt;1|1, 2&lt;&lt;1}</code> 。这什么意思呢。<code>quest()</code> 返回的是：</p>
+<div><pre><code>frag{i: 3, out: patchList{3&lt;&lt;1|1, 2&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br></div></div><p>确实，入口是 3 没问题，2 和 3 也都可以当出口。但是 <code>head</code> 和 <code>tail</code> 这用法有些迷惑。查了一下 <code>tail</code> 只在 <code>append()</code> 里用到，那就再研究研究。</p>
+<div><pre><code>    <span>case</span> OpConcat<span>:</span>
+        <span>if</span> <span>len</span><span>(</span>re<span>.</span>Sub<span>)</span> <span>==</span> <span>0</span> <span>{</span>
+            <span>return</span> c<span>.</span><span>nop</span><span>(</span><span>)</span>
+        <span>}</span>
+        <span>var</span> f frag
+        <span>for</span> i<span>,</span> sub <span>:=</span> <span>range</span> re<span>.</span>Sub <span>{</span>
+            <span>if</span> i <span>==</span> <span>0</span> <span>{</span>
+                f <span>=</span> c<span>.</span><span>compile</span><span>(</span>sub<span>)</span>
+            <span>}</span> <span>else</span> <span>{</span>
+                f <span>=</span> c<span>.</span><span>cat</span><span>(</span>f<span>,</span> c<span>.</span><span>compile</span><span>(</span>sub<span>)</span><span>)</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> f
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><p>然后是 <code>OpConcat</code> 类型的节点，比较简单，编译每一个子表达式，然后将他们连接起来。</p>
+<div><pre><code><span>case</span> OpAlternate<span>:</span>
+        <span>var</span> f frag
+        <span>for</span> <span>_</span><span>,</span> sub <span>:=</span> <span>range</span> re<span>.</span>Sub <span>{</span>
+            f <span>=</span> c<span>.</span><span>alt</span><span>(</span>f<span>,</span> c<span>.</span><span>compile</span><span>(</span>sub<span>)</span><span>)</span>
+        <span>}</span>
+        <span>return</span> f
+    <span>}</span>
+    <span>panic</span><span>(</span><span>"regexp: unhandled case in compile"</span><span>)</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>最后一个短一点，但是其实可能比较难。 <code>OpAlternate</code> 类型的节点会把每一个子表达式编译，然后选择在一起。</p>
+<div><pre><code><span>func</span> <span>(</span>c <span>*</span>compiler<span>)</span> <span>alt</span><span>(</span>f1<span>,</span> f2 frag<span>)</span> frag <span>{</span>
+    <span>// alt of failure is other</span>
+    <span>if</span> f1<span>.</span>i <span>==</span> <span>0</span> <span>{</span>
+        <span>return</span> f2
+    <span>}</span>
+    <span>if</span> f2<span>.</span>i <span>==</span> <span>0</span> <span>{</span>
+        <span>return</span> f1
+    <span>}</span>
+
+    f <span>:=</span> c<span>.</span><span>inst</span><span>(</span>InstAlt<span>)</span>
+    i <span>:=</span> <span>&amp;</span>c<span>.</span>p<span>.</span>Inst<span>[</span>f<span>.</span>i<span>]</span>
+    i<span>.</span>Out <span>=</span> f1<span>.</span>i
+    i<span>.</span>Arg <span>=</span> f2<span>.</span>i
+    f<span>.</span>out <span>=</span> f1<span>.</span>out<span>.</span><span>append</span><span>(</span>c<span>.</span>p<span>,</span> f2<span>.</span>out<span>)</span>
+    <span>return</span> f
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><p>好耶，这里又出现了 <code>append()</code> 函数，正好没看懂。没看懂的东西，出现的次数越多越好啊。再举个例子吧， <code>ab|cd|ef</code> ，假设该正则表达式编译完之后是一个 <code>OpAlternate</code> 节点，它有三个子节点，都是字面量类型，分别是 <code>ab</code> 、 <code>cd</code> 、 <code>ef</code> 。</p>
+<p>首先是处理第一个子节点的过程，先对 <code>ab</code> 进行编译。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+
+return frag{i: 1, out: patchList{2&lt;&lt;1, 2&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>然后会调用 <code>alt()</code> ，参数 <code>f1</code> 是新建的，空的， <code>f1.i</code> 当然是 0 ，所以返回的就是上面的 <code>frag{i: 1, out: patchList{2&lt;&lt;1, 2&lt;&lt;1}}</code> 。</p>
+<p>接下来，调用了 <code>compile()</code> 对第二部分进行了编译。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstRune1, Out: 4, Arg: 0, Rune: []rune{&#39;c&#39;}}
+[4] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;d&#39;}}
+
+return frag{i: 3, out: patchList{4&lt;&lt;1, 4&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>这次再调用 <code>alt()</code> 。</p>
+<div><pre><code>f1: frag{i: 1, out: patchList{2&lt;&lt;1, 2&lt;&lt;1}}
+f2: frag{i: 3, out: patchList{4&lt;&lt;1, 4&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>先是创建了一个 <code>InitAlt</code> 节点。而且调用 <code>append()</code> 之前，修改了不少东西。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstRune1, Out: 4, Arg: 0, Rune: []rune{&#39;c&#39;}}
+[4] Inst{Op: InstRune1, Out: 0, Arg: 0, Rune: []rune{&#39;d&#39;}}
+[5] Inst{Op: InstAlt,   Out: 1, Arg: 3, Rune: nil}
+
+f: frag{i: 5, out: patchList{5&lt;&lt;1, 5&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>然后调用了 <code>append()</code> ，参数 <code>l1</code> 是 <code>[2&lt;&lt;1, 2&lt;&lt;1]</code> ， <code>l2</code> 是 <code>[4&lt;&lt;1, 4&lt;&lt;1]</code> 。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2,    Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 4&lt;&lt;1, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstRune1, Out: 4,    Arg: 0, Rune: []rune{&#39;c&#39;}}
+[4] Inst{Op: InstRune1, Out: 0,    Arg: 0, Rune: []rune{&#39;d&#39;}}
+[5] Inst{Op: InstAlt,   Out: 1,    Arg: 3, Rune: nil}
+
+f: frag{i: 5, out: patchList{2&lt;&lt;1, 4&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>这一轮结束了，下一局继续，先插入字面量。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2,    Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 4&lt;&lt;1, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstRune1, Out: 4,    Arg: 0, Rune: []rune{&#39;c&#39;}}
+[4] Inst{Op: InstRune1, Out: 0,    Arg: 0, Rune: []rune{&#39;d&#39;}}
+[5] Inst{Op: InstAlt,   Out: 1,    Arg: 3, Rune: nil}
+[6] Inst{Op: InstRune1, Out: 7,    Arg: 0, Rune: []rune{&#39;e&#39;}}
+[7] Inst{Op: InstRune1, Out: 0,    Arg: 0, Rune: []rune{&#39;f&#39;}}
+
+return frag{i: 6, out: patchList{7&lt;&lt;1, 7&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>再进入 <code>alt()</code> ，插入 <code>InstAlt</code> 指令，然后做修改。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2,    Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 4&lt;&lt;1, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstRune1, Out: 4,    Arg: 0, Rune: []rune{&#39;c&#39;}}
+[4] Inst{Op: InstRune1, Out: 0,    Arg: 0, Rune: []rune{&#39;d&#39;}}
+[5] Inst{Op: InstAlt,   Out: 1,    Arg: 3, Rune: nil}
+[6] Inst{Op: InstRune1, Out: 7,    Arg: 0, Rune: []rune{&#39;e&#39;}}
+[7] Inst{Op: InstRune1, Out: 0,    Arg: 0, Rune: []rune{&#39;f&#39;}}
+[8] Inst{Op: InstAlt,   Out: 5,    Arg: 6, Rune: nil}
+
+f1: frag{i: 5, out: patchList{2&lt;&lt;1, 4&lt;&lt;1}}
+f2: frag{i: 6, out: patchList{7&lt;&lt;1, 7&lt;&lt;1}}
+f:  frag{i: 8, out: patchList{8&lt;&lt;1, 8&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p>然后调用了 <code>append()</code> 方法， <code>l1</code> 是 <code>[2&lt;&lt;1, 4&lt;&lt;1]</code> ， <code>l2</code> 是 <code>[7&lt;&lt;1, 7&lt;&lt;1]</code> 。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2,    Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 4&lt;&lt;1, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstRune1, Out: 4,    Arg: 0, Rune: []rune{&#39;c&#39;}}
+[4] Inst{Op: InstRune1, Out: 7&lt;&lt;1, Arg: 0, Rune: []rune{&#39;d&#39;}}
+[5] Inst{Op: InstAlt,   Out: 1,    Arg: 3, Rune: nil}
+[6] Inst{Op: InstRune1, Out: 7,    Arg: 0, Rune: []rune{&#39;e&#39;}}
+[7] Inst{Op: InstRune1, Out: 0,    Arg: 0, Rune: []rune{&#39;f&#39;}}
+[8] Inst{Op: InstAlt,   Out: 5,    Arg: 6, Rune: nil}
+
+f: frag{i: 8, out: patchList{2&lt;&lt;1, 7&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>这个 <code>f</code> 就是最终 <code>compile()</code> 的返回值了。观察第一个和第二个 <code>Inst</code> ，它们的 <code>Out</code> 似乎都代表下一个位置，然而一个是左移一位的版本，另一个没有。具体是怎么判断的呢。</p>
+]]></content>
+    <author>
+      <name>zenk</name>
+    </author>
+    <category term="编译器"/>
+    <contributor>
+      <name>zenk</name>
+    </contributor>
+    <published>2021-06-16T14:11:00.000Z</published>
     <rights>Copyright by zenk</rights>
   </entry>
 </feed>
