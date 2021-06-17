@@ -6,8 +6,8 @@
     <link>https://flyginger.top/</link>
     <description>zenk's blog</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 16 Jun 2021 14:19:26 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Jun 2021 14:19:26 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Jun 2021 08:06:29 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Jun 2021 08:06:29 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by zenk</copyright>
@@ -19,7 +19,7 @@
       <link>https://flyginger.top/intro/</link>
       <guid>https://flyginger.top/intro/</guid>
       <source url="https://flyginger.top/rss.xml">个人介绍</source>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
 <p>hidden now.</p>
 ]]></content:encoded>
@@ -30,7 +30,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论1 算法的概念</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论1-算法的概念"> 算法导论1 算法的概念</h1>
 <p>通俗地讲，<strong>算法</strong>（algorithm）是以值或一组值作为<strong>输入</strong>（input），<strong>输出</strong>（output）值或一组值的计算步骤，也可以把算法看作解决<strong>计算问题</strong>（computational problem）的工具。举例来说，<strong>排序问题</strong>（sorting problem）的规范定义是：</p>
 <blockquote>
@@ -51,7 +51,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论10 基础数据结构</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论10-基础数据结构"> 算法导论10 基础数据结构</h1>
 <p>集合是数学和计算机科学中常用的概念。算法中的集合往往是<strong>动态</strong>（dynamic）的：算法经常对集合进行添加新数据，删除旧数据等操作。某些动态集合把元素的某一个属性当作<strong>键</strong>（key），用以区分不同的元素。元素中除了键的其他数据称为<strong>卫星数据</strong>（satellite data）。</p>
 <p>对动态集合进行的操作可以分为两大类：<strong>查询</strong>（query）和<strong>修改</strong>（modify）。下面列出了典型的操作，大部分算法中只会用到其中的几种：</p>
@@ -145,7 +145,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论3 函数的增长</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论3-函数的增长"> 算法导论3 函数的增长</h1>
 <p>算法的<strong>渐近</strong>（asymptotic）效率关注的是算法的运行时间如何随着输入规模的增长而增长。本章介绍了分析渐近效率时使用的数学符号和定义，并且给出了一些常用函数之间的渐近效率关系。</p>
 <h2 id="_3-1-渐近符号"> 3.1 渐近符号</h2>
@@ -276,7 +276,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论5 概率分析和随机算法</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论5-概率分析和随机算法"> 算法导论5 概率分析和随机算法</h1>
 <h2 id="_5-1-招聘问题"> 5.1 招聘问题</h2>
 <p>假设你要雇佣新员工。每次你可以花费少量资金，面试一个应聘者。该应聘者的能力是随机的，如果你决定雇佣他，你需要花费一大笔钱。只有当你决定是否雇佣此应聘者之后，你才能面试下一个应聘者。你的策略如下：如果应聘者的能力比上一个被雇佣的应聘者优秀（当没有上一个时直接雇佣），那么雇佣该应聘者；否则就不雇佣该应聘者，继续面试。这种策略的伪代码如下：</p>
@@ -371,7 +371,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论7 快速排序</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论7-快速排序"> 算法导论7 快速排序</h1>
 <p><strong>快速排序</strong>（quicksort）的最坏情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span><span>n</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>)</span></span></span></span>。虽然如此，快速排序在实际场景中经常是表现最好的，它的期望运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，并且隐含的常数相对小。另外，快速排序还有原地排序的优点。</p>
 <h2 id="_7-1-快速排序"> 7.1 快速排序</h2>
@@ -462,7 +462,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论8 线性时间排序</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论8-线性时间排序"> 算法导论8 线性时间排序</h1>
 <p>前几章中提到的几种排序方法，例如插入排序、归并排序、堆排序和快速排序，有一个共同点：顺序判断仅基于元素间的比较。这类排序算法称为<strong>比较排序</strong>（comparsion sort）。</p>
 <p>接下来会先证明比较排序算法都是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Ω</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，然后给出几个可以在线性时间内排序的算法。</p>
@@ -594,7 +594,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</link>
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论</source>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论"> 算法导论</h1>
 <ul>
 <li>I 基础概念
@@ -629,7 +629,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E9%9B%B6%EF%BC%89%E7%B4%A2%E5%BC%95/</link>
       <guid>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E9%9B%B6%EF%BC%89%E7%B4%A2%E5%BC%95/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则</source>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则"> Go 的正则</h1>
 <p>由于本系列大部分内容是读代码的随笔，所以这里列一个索引。建议只看总结篇。如果实现很闲，也可以都看看。</p>
 <ol>
@@ -653,7 +653,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/</link>
       <guid>https://flyginger.top/</guid>
       <source url="https://flyginger.top/rss.xml">zenk's blog</source>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
     </item>
     <item>
       <title>算法导论12 二叉搜索树</title>
@@ -661,7 +661,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论12 二叉搜索树</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论12-二叉搜索树"> 算法导论12 二叉搜索树</h1>
 <h2 id="_12-1-二叉搜索树"> 12.1 二叉搜索树</h2>
 <p>以下是两棵二叉搜索树：</p>
@@ -845,7 +845,7 @@ TREE-MAXIMUM(x)
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论2 设计算法的流程</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论2-设计算法的流程"> 算法导论2 设计算法的流程</h1>
 <p>设计、证明、分析是处理计算问题的基本步骤。本章以排序问题为例，遍历了这三个基本步骤。首先给出了一个算法（插入排序），证明了它的正确性，分析了它的运行时间。然后使用另一种设计思想（分治）设计了另一种算法（归并排序），同样证明了它的正确性，分析了它的运行时间。</p>
 <h2 id="_2-1-插入排序"> 2.1 插入排序</h2>
@@ -1046,7 +1046,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论4 分治</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论4-分治"> 算法导论4 分治</h1>
 <p><strong>递推式</strong>（recurrence）是使用更小输入的项来描述当前项的等式或不等式。本章提供了三种求解递推式的方法，分别是<strong>替换法</strong>（substitution method），<strong>递归树法</strong>（recursion-tree method），<strong>主方法</strong>（master method）。</p>
 <h2 id="_4-1-最大子数组问题"> 4.1 最大子数组问题</h2>
@@ -1196,7 +1196,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论6 堆排序</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论6-堆排序"> 算法导论6 堆排序</h1>
 <h2 id="_6-1-堆"> 6.1 堆</h2>
 <p><strong>二叉堆</strong>（binary heap）是一种可以看成完全二叉树的数组，一般简称为堆。满二叉树是满足以下两个条件的二叉树：</p>
@@ -1351,7 +1351,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论9 中位数和顺序统计</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论9-中位数和顺序统计"> 算法导论9 中位数和顺序统计</h1>
 <p>第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 位顺序统计是指 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个元素的集合中第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 小的元素。那么元素集合的<strong>最小值</strong>（minimum）就是第一个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>），<strong>最大值</strong>（maximum）就是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>）。</p>
 <p><strong>中位数</strong>（median）是集合中位于“中间”的元素。当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为奇数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span></span></span></span> 个顺序统计；当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为偶数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span></span></span></span> 和第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span> 两个顺序统计的平均数。通常把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌊(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌋</span></span></span></span> 称为<strong>下中位数</strong>（lower median），把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌉</span></span></span></span> 称为<strong>上中位数</strong>（upper median）。为简化描述，下文中的中位数均指下中位数。</p>
@@ -1432,7 +1432,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/</guid>
       <source url="https://flyginger.top/rss.xml">快速排序的优化</source>
       <category>每日迷惑</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="快速排序的优化"> 快速排序的优化</h1>
 <p>在对快速排序进行优化之前，回忆一下部分基于比较的排序算法的时间复杂度。</p>
 <table>
@@ -1641,7 +1641,7 @@ BenchmarkGoSort-8              9        1197205511 ns/op
       <guid>https://flyginger.top/post/2021-05-22%20PyNN/</guid>
       <source url="https://flyginger.top/rss.xml">PyNN</source>
       <category>每日迷惑</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="pynn"> PyNN</h1>
 <p><a href="http://neuralensemble.org/PyNN/" target="_blank" rel="noopener noreferrer">PyNN</a>（发音与 pine 相同）是一种用于构建神经网络模型的语言，且独立于模拟器。使用 PyNN 的 API 和 Python 编程语言编写的模型代码，无需修改即可运行于多种 PyNN 支持的模拟器后端或者神经拟态（neuronmorphic）硬件系统。</p>
 <h2 id="安装"> 安装</h2>
@@ -1924,7 +1924,7 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
       <guid>https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（一）</source>
       <category>编译器</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-一"> Go 的正则（一）</h1>
 <p>今天想研究一下 Go 的正则包是怎么实现的，看看能不能写一个效率高一些的 tokenizer 。正则包收到正则表达式后，一般首先会对其进行一些处理。 Go 的正则包，据我所知是 <code>re2</code> ，使用的是传统的 NFA/DFA 技术。因此，正则表达式应该会被转换成一个状态机。</p>
 <div><p>提示</p>
@@ -2172,7 +2172,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
       <guid>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%89%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（三）</source>
       <category>编译器</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-三"> Go 的正则（三）</h1>
 <p>括号的处理还没有说完……</p>
 <h2 id="括号"> 括号</h2>
@@ -2578,7 +2578,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
       <guid>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%9B%9B%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（四）总结篇</source>
       <category>编译器</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-四-总结篇"> Go 的正则（四）总结篇</h1>
 <p>想要判断正则表达式能否匹配某个字符串，首先要理解正则表达式的含义。这就需要解析正则表达式，构造一个等价的语法树，并在构造过程中尽可能地进行优化。</p>
 <p>这个总结篇总结了以下三篇随笔。这三篇不建议看，都是读代码时随手写的。</p>
@@ -2823,12 +2823,727 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>Go 的正则（六）</title>
+      <link>https://flyginger.top/post/2021-06-17%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%85%AD%EF%BC%89/</link>
+      <guid>https://flyginger.top/post/2021-06-17%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%85%AD%EF%BC%89/</guid>
+      <source url="https://flyginger.top/rss.xml">Go 的正则（六）</source>
+      <category>编译器</category>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="go-的正则-六"> Go 的正则（六）</h1>
+<p>上次竟然没说完。</p>
+<div><pre><code><span>func</span> <span>Compile</span><span>(</span>re <span>*</span>Regexp<span>)</span> <span>(</span><span>*</span>Prog<span>,</span> <span>error</span><span>)</span> <span>{</span>
+    <span>var</span> c compiler
+    c<span>.</span><span>init</span><span>(</span><span>)</span>
+    f <span>:=</span> c<span>.</span><span>compile</span><span>(</span>re<span>)</span>
+    f<span>.</span>out<span>.</span><span>patch</span><span>(</span>c<span>.</span>p<span>,</span> c<span>.</span><span>inst</span><span>(</span>InstMatch<span>)</span><span>.</span>i<span>)</span>
+    c<span>.</span>p<span>.</span>Start <span>=</span> <span>int</span><span>(</span>f<span>.</span>i<span>)</span>
+    <span>return</span> c<span>.</span>p<span>,</span> <span>nil</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>然后再回忆一下返回的 <code>f</code> 是什么。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2,    Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 4&lt;&lt;1, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstRune1, Out: 4,    Arg: 0, Rune: []rune{&#39;c&#39;}}
+[4] Inst{Op: InstRune1, Out: 7&lt;&lt;1, Arg: 0, Rune: []rune{&#39;d&#39;}}
+[5] Inst{Op: InstAlt,   Out: 1,    Arg: 3, Rune: nil}
+[6] Inst{Op: InstRune1, Out: 7,    Arg: 0, Rune: []rune{&#39;e&#39;}}
+[7] Inst{Op: InstRune1, Out: 0,    Arg: 0, Rune: []rune{&#39;f&#39;}}
+[8] Inst{Op: InstAlt,   Out: 5,    Arg: 6, Rune: nil}
+
+f: frag{i: 8, out: patchList{2&lt;&lt;1, 7&lt;&lt;1}}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>然后 <code>Compile()</code> 插入了 <code>InstMatch</code> ，然后 <code>patch()</code> 。</p>
+<div><pre><code>[1] Inst{Op: InstRune1, Out: 2, Arg: 0, Rune: []rune{&#39;a&#39;}}
+[2] Inst{Op: InstRune1, Out: 9, Arg: 0, Rune: []rune{&#39;b&#39;}}
+[3] Inst{Op: InstRune1, Out: 4, Arg: 0, Rune: []rune{&#39;c&#39;}}
+[4] Inst{Op: InstRune1, Out: 9, Arg: 0, Rune: []rune{&#39;d&#39;}}
+[5] Inst{Op: InstAlt,   Out: 1, Arg: 3, Rune: nil}
+[6] Inst{Op: InstRune1, Out: 7, Arg: 0, Rune: []rune{&#39;e&#39;}}
+[7] Inst{Op: InstRune1, Out: 9, Arg: 0, Rune: []rune{&#39;f&#39;}}
+[8] Inst{Op: InstAlt,   Out: 5, Arg: 6, Rune: nil}
+[9] Inst{Op: InstMatch, Out: 0, Arg: 0, Rune: nil}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>最后， <code>Start</code> 是 <code>8</code> 。虽然不知道怎么回事但是 it works ？再捋一捋 <code>head</code> 和 <code>tail</code> 的作用。似乎理解了，当存在多个岔路的时候，会形成某种链表关系。 <code>head</code> 和 <code>tail</code> 是链表的头尾，它们的作用是帮助链表的连接。</p>
+<div><pre><code>    matchcap <span>:=</span> prog<span>.</span>NumCap
+    <span>if</span> matchcap <span>&lt;</span> <span>2</span> <span>{</span>
+        matchcap <span>=</span> <span>2</span>
+    <span>}</span>
+    regexp <span>:=</span> <span>&amp;</span>Regexp<span>{</span>
+        expr<span>:</span>        expr<span>,</span>
+        prog<span>:</span>        prog<span>,</span>
+        onepass<span>:</span>     <span>compileOnePass</span><span>(</span>prog<span>)</span><span>,</span>
+        numSubexp<span>:</span>   maxCap<span>,</span>
+        subexpNames<span>:</span> capNames<span>,</span>
+        cond<span>:</span>        prog<span>.</span><span>StartCond</span><span>(</span><span>)</span><span>,</span>
+        longest<span>:</span>     longest<span>,</span>
+        matchcap<span>:</span>    matchcap<span>,</span>
+        minInputLen<span>:</span> <span>minInputLen</span><span>(</span>re<span>)</span><span>,</span>
+    <span>}</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><p>返回到 <code>compile()</code> 函数。这里最终生成了编译好的正则表达式，但是构造这个结构体的同时还调用了许多函数。一个个来看，首先是 <code>compileOnePass()</code> 。</p>
+<h2 id="one-pass-优化"> One-Pass 优化</h2>
+<p><code>compileOnePass()</code> 会尝试把编译好的 <code>Prog</code> 重新梳理，变成具有 One-Pass 属性的 <code>Prog</code> 。如果不能产生这样的 <code>Prog</code> ，就返回 <code>nil</code> 。 One-Pass 属性指的是任意 <code>InstAlt</code> 指令处，都能够非歧义地决定跳向哪个分支。</p>
+<div><pre><code><span>func</span> <span>compileOnePass</span><span>(</span>prog <span>*</span>syntax<span>.</span>Prog<span>)</span> <span>(</span>p <span>*</span>onePassProg<span>)</span> <span>{</span>
+    <span>if</span> prog<span>.</span>Start <span>==</span> <span>0</span> <span>{</span>
+        <span>return</span> <span>nil</span>
+    <span>}</span>
+    <span>// onepass regexp is anchored</span>
+    <span>if</span> prog<span>.</span>Inst<span>[</span>prog<span>.</span>Start<span>]</span><span>.</span>Op <span>!=</span> syntax<span>.</span>InstEmptyWidth <span>||</span>
+        syntax<span>.</span><span>EmptyOp</span><span>(</span>prog<span>.</span>Inst<span>[</span>prog<span>.</span>Start<span>]</span><span>.</span>Arg<span>)</span><span>&amp;</span>syntax<span>.</span>EmptyBeginText <span>!=</span> syntax<span>.</span>EmptyBeginText <span>{</span>
+        <span>return</span> <span>nil</span>
+    <span>}</span>
+
+    <span>// every instruction leading to InstMatch must be EmptyEndText</span>
+    <span>for</span> <span>_</span><span>,</span> inst <span>:=</span> <span>range</span> prog<span>.</span>Inst <span>{</span>
+        opOut <span>:=</span> prog<span>.</span>Inst<span>[</span>inst<span>.</span>Out<span>]</span><span>.</span>Op
+        <span>switch</span> inst<span>.</span>Op <span>{</span>
+        <span>default</span><span>:</span>
+            <span>if</span> opOut <span>==</span> syntax<span>.</span>InstMatch <span>{</span>
+                <span>return</span> <span>nil</span>
+            <span>}</span>
+        <span>case</span> syntax<span>.</span>InstAlt<span>,</span> syntax<span>.</span>InstAltMatch<span>:</span>
+            <span>if</span> opOut <span>==</span> syntax<span>.</span>InstMatch <span>||</span> prog<span>.</span>Inst<span>[</span>inst<span>.</span>Arg<span>]</span><span>.</span>Op <span>==</span> syntax<span>.</span>InstMatch <span>{</span>
+                <span>return</span> <span>nil</span>
+            <span>}</span>
+        <span>case</span> syntax<span>.</span>InstEmptyWidth<span>:</span>
+            <span>if</span> opOut <span>==</span> syntax<span>.</span>InstMatch <span>{</span>
+                <span>if</span> syntax<span>.</span><span>EmptyOp</span><span>(</span>inst<span>.</span>Arg<span>)</span><span>&amp;</span>syntax<span>.</span>EmptyEndText <span>==</span> syntax<span>.</span>EmptyEndText <span>{</span>
+                    <span>continue</span>
+                <span>}</span>
+                <span>return</span> <span>nil</span>
+            <span>}</span>
+        <span>}</span>
+    <span>}</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br></div></div><p>根据以上代码， One-Pass 属性要求：</p>
+<ol>
+<li>第一个指令必须是一个空匹配指令，且匹配的是文首位置。</li>
+<li>如果本条指令是 <code>InstEmptyWidth</code> 指令，且下一条是 <code>InstMatch</code> 指令，那么本条指令必须是匹配文末位置的。</li>
+<li>如果本条指令是 <code>InstAlt</code> 指令（ <code>compile()</code> 期间似乎没有生成过 <code>InstAltMatch</code> 指令），那么下一条不能是 <code>InstMatch</code> 。</li>
+<li>其他指令，下一条不能是 <code>InstMatch</code> 。</li>
+</ol>
+<p>总结来说，One-Pass 属性要求开头必须有匹配文首的操作符，结束时必须有匹配文末的操作符。</p>
+<div><pre><code>    <span>// Creates a slightly optimized copy of the original Prog</span>
+    <span>// that cleans up some Prog idioms that block valid onepass programs</span>
+    p <span>=</span> <span>onePassCopy</span><span>(</span>prog<span>)</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>如果满足这样严苛的要求，那么就可以生成一个优化的版本。</p>
+<div><pre><code><span>// A onePassProg is a compiled one-pass regular expression program.</span>
+<span>// It is the same as syntax.Prog except for the use of onePassInst.</span>
+<span>type</span> onePassProg <span>struct</span> <span>{</span>
+    Inst   <span>[</span><span>]</span>onePassInst
+    Start  <span>int</span> <span>// index of start instruction</span>
+    NumCap <span>int</span> <span>// number of InstCapture insts in re</span>
+<span>}</span>
+
+<span>// A onePassInst is a single instruction in a one-pass regular expression program.</span>
+<span>// It is the same as syntax.Inst except for the new 'Next' field.</span>
+<span>type</span> onePassInst <span>struct</span> <span>{</span>
+    syntax<span>.</span>Inst
+    Next <span>[</span><span>]</span><span>uint32</span>
+<span>}</span>
+
+<span>// onePassCopy creates a copy of the original Prog, as we'll be modifying it</span>
+<span>func</span> <span>onePassCopy</span><span>(</span>prog <span>*</span>syntax<span>.</span>Prog<span>)</span> <span>*</span>onePassProg <span>{</span>
+    p <span>:=</span> <span>&amp;</span>onePassProg<span>{</span>
+        Start<span>:</span>  prog<span>.</span>Start<span>,</span>
+        NumCap<span>:</span> prog<span>.</span>NumCap<span>,</span>
+        Inst<span>:</span>   <span>make</span><span>(</span><span>[</span><span>]</span>onePassInst<span>,</span> <span>len</span><span>(</span>prog<span>.</span>Inst<span>)</span><span>)</span><span>,</span>
+    <span>}</span>
+    <span>for</span> i<span>,</span> inst <span>:=</span> <span>range</span> prog<span>.</span>Inst <span>{</span>
+        p<span>.</span>Inst<span>[</span>i<span>]</span> <span>=</span> onePassInst<span>{</span>Inst<span>:</span> inst<span>}</span>
+    <span>}</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div><p>首先对原来的程序进行了一个复制，但是 <code>Next</code> 字段还没有写。</p>
+<div><pre><code>    <span>// rewrites one or more common Prog constructs that enable some otherwise</span>
+    <span>// non-onepass Progs to be onepass. A:BD (for example) means an InstAlt at</span>
+    <span>// ip A, that points to ips B &amp; C.</span>
+    <span>// A:BC + B:DA => A:BC + B:CD</span>
+    <span>// A:BC + B:DC => A:DC + B:DC</span>
+    <span>for</span> pc <span>:=</span> <span>range</span> p<span>.</span>Inst <span>{</span>
+        <span>switch</span> p<span>.</span>Inst<span>[</span>pc<span>]</span><span>.</span>Op <span>{</span>
+        <span>default</span><span>:</span>
+            <span>continue</span>
+        <span>case</span> syntax<span>.</span>InstAlt<span>,</span> syntax<span>.</span>InstAltMatch<span>:</span>
+            <span>// A:Bx + B:Ay</span>
+            p_A_Other <span>:=</span> <span>&amp;</span>p<span>.</span>Inst<span>[</span>pc<span>]</span><span>.</span>Out
+            p_A_Alt <span>:=</span> <span>&amp;</span>p<span>.</span>Inst<span>[</span>pc<span>]</span><span>.</span>Arg
+            <span>// make sure a target is another Alt</span>
+            instAlt <span>:=</span> p<span>.</span>Inst<span>[</span><span>*</span>p_A_Alt<span>]</span>
+            <span>if</span> <span>!</span><span>(</span>instAlt<span>.</span>Op <span>==</span> syntax<span>.</span>InstAlt <span>||</span> instAlt<span>.</span>Op <span>==</span> syntax<span>.</span>InstAltMatch<span>)</span> <span>{</span>
+                p_A_Alt<span>,</span> p_A_Other <span>=</span> p_A_Other<span>,</span> p_A_Alt
+                instAlt <span>=</span> p<span>.</span>Inst<span>[</span><span>*</span>p_A_Alt<span>]</span>
+                <span>if</span> <span>!</span><span>(</span>instAlt<span>.</span>Op <span>==</span> syntax<span>.</span>InstAlt <span>||</span> instAlt<span>.</span>Op <span>==</span> syntax<span>.</span>InstAltMatch<span>)</span> <span>{</span>
+                    <span>continue</span>
+                <span>}</span>
+            <span>}</span>
+            instOther <span>:=</span> p<span>.</span>Inst<span>[</span><span>*</span>p_A_Other<span>]</span>
+            <span>// Analyzing both legs pointing to Alts is for another day</span>
+            <span>if</span> instOther<span>.</span>Op <span>==</span> syntax<span>.</span>InstAlt <span>||</span> instOther<span>.</span>Op <span>==</span> syntax<span>.</span>InstAltMatch <span>{</span>
+                <span>// too complicated</span>
+                <span>continue</span>
+            <span>}</span>
+            <span>// simple empty transition loop</span>
+            <span>// A:BC + B:DA => A:BC + B:DC</span>
+            p_B_Alt <span>:=</span> <span>&amp;</span>p<span>.</span>Inst<span>[</span><span>*</span>p_A_Alt<span>]</span><span>.</span>Out
+            p_B_Other <span>:=</span> <span>&amp;</span>p<span>.</span>Inst<span>[</span><span>*</span>p_A_Alt<span>]</span><span>.</span>Arg
+            patch <span>:=</span> <span>false</span>
+            <span>if</span> instAlt<span>.</span>Out <span>==</span> <span>uint32</span><span>(</span>pc<span>)</span> <span>{</span>
+                patch <span>=</span> <span>true</span>
+            <span>}</span> <span>else</span> <span>if</span> instAlt<span>.</span>Arg <span>==</span> <span>uint32</span><span>(</span>pc<span>)</span> <span>{</span>
+                patch <span>=</span> <span>true</span>
+                p_B_Alt<span>,</span> p_B_Other <span>=</span> p_B_Other<span>,</span> p_B_Alt
+            <span>}</span>
+            <span>if</span> patch <span>{</span>
+                <span>*</span>p_B_Alt <span>=</span> <span>*</span>p_A_Other
+            <span>}</span>
+
+            <span>// empty transition to common target</span>
+            <span>// A:BC + B:DC => A:DC + B:DC</span>
+            <span>if</span> <span>*</span>p_A_Other <span>==</span> <span>*</span>p_B_Alt <span>{</span>
+                <span>*</span>p_A_Alt <span>=</span> <span>*</span>p_B_Other
+            <span>}</span>
+        <span>}</span>
+    <span>}</span>
+    <span>return</span> p
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><p>这部分优化了一些 <code>InstAlt</code> 逻辑。首先，本节点必须是一个 <code>InstAlt</code> 节点，然后对于本节点 <code>A</code> 的两个分支 <code>p_A_alt</code> 和 <code>p_A_Other</code> ， <code>p_A_alt</code> 指向的必须是另一个 <code>InstAlt</code> 指令， <code>p_A_Other</code> 必须指向另一个非 <code>InstAlt</code> 指令。然后读取出 <code>p_A_alt</code> 指向的那条指令 <code>B</code> ，并分析它的两个分支。对它的两条分支分情况讨论。</p>
+<p>第一种情况是有一条分支 <code>p_B_Alt</code> 指向 <code>A</code> 。注意，除了 <code>A</code> 和 <code>B</code> 之间的循环指向之外的另一条指令可以指向同一条指令。</p>
+<p><img src="./img/2021-06-17-1.png" alt="情况一" /></p>
+<p>第二种情况是没有循环指向，但是 <code>A</code> 和 <code>B</code> 的分支中有一个相同的。有点小问题的的是，只有 <code>p_A_Other</code> 和 <code>B.Out</code> 指向的那条指令相同时，才会优化。另一个分支没有进行判断。</p>
+<p><img src="./img/2021-06-17-2.png" alt="情况二" /></p>
+<p>到这里， One-Pass 优化就结束了，但是似乎没有看到所谓的歧义性处理。</p>
+<div><pre><code>    <span>// checkAmbiguity on InstAlts, build onepass Prog if possible</span>
+    p <span>=</span> <span>makeOnePass</span><span>(</span>p<span>)</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>说完就来了。</p>
+<div><pre><code><span>// makeOnePass creates a onepass Prog, if possible. It is possible if at any alt,</span>
+<span>// the match engine can always tell which branch to take. The routine may modify</span>
+<span>// p if it is turned into a onepass Prog. If it isn't possible for this to be a</span>
+<span>// onepass Prog, the Prog nil is returned. makeOnePass is recursive</span>
+<span>// to the size of the Prog.</span>
+<span>func</span> <span>makeOnePass</span><span>(</span>p <span>*</span>onePassProg<span>)</span> <span>*</span>onePassProg <span>{</span>
+    <span>// If the machine is very long, it's not worth the time to check if we can use one pass.</span>
+    <span>if</span> <span>len</span><span>(</span>p<span>.</span>Inst<span>)</span> <span>>=</span> <span>1000</span> <span>{</span>
+        <span>return</span> <span>nil</span>
+    <span>}</span>
+    <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>指令很长时，不值得进行优化。看来 One-Pass 优化适用范围不大，一旦指令很长，能够生成 One-Pass <code>Prog</code> 的可能性就很低了。</p>
+<div><pre><code>    <span>var</span> <span>(</span>
+        instQueue    <span>=</span> <span>newQueue</span><span>(</span><span>len</span><span>(</span>p<span>.</span>Inst<span>)</span><span>)</span>
+        visitQueue   <span>=</span> <span>newQueue</span><span>(</span><span>len</span><span>(</span>p<span>.</span>Inst<span>)</span><span>)</span>
+        check        <span>func</span><span>(</span><span>uint32</span><span>,</span> <span>[</span><span>]</span><span>bool</span><span>)</span> <span>bool</span>
+        onePassRunes <span>=</span> <span>make</span><span>(</span><span>[</span><span>]</span><span>[</span><span>]</span><span>rune</span><span>,</span> <span>len</span><span>(</span>p<span>.</span>Inst<span>)</span><span>)</span>
+    <span>)</span>
+
+    <span>// check that paths from Alt instructions are unambiguous, and rebuild the new</span>
+    <span>// program as a onepass program</span>
+    check <span>=</span> <span>func</span><span>(</span>pc <span>uint32</span><span>,</span> m <span>[</span><span>]</span><span>bool</span><span>)</span> <span>(</span>ok <span>bool</span><span>)</span> <span>{</span>
+        <span>// ...</span>
+    <span>}</span>
+
+    instQueue<span>.</span><span>clear</span><span>(</span><span>)</span>
+    instQueue<span>.</span><span>insert</span><span>(</span><span>uint32</span><span>(</span>p<span>.</span>Start<span>)</span><span>)</span>
+    m <span>:=</span> <span>make</span><span>(</span><span>[</span><span>]</span><span>bool</span><span>,</span> <span>len</span><span>(</span>p<span>.</span>Inst<span>)</span><span>)</span>
+    <span>for</span> <span>!</span>instQueue<span>.</span><span>empty</span><span>(</span><span>)</span> <span>{</span>
+        visitQueue<span>.</span><span>clear</span><span>(</span><span>)</span>
+        pc <span>:=</span> instQueue<span>.</span><span>next</span><span>(</span><span>)</span>
+        <span>if</span> <span>!</span><span>check</span><span>(</span>pc<span>,</span> m<span>)</span> <span>{</span>
+            p <span>=</span> <span>nil</span>
+            <span>break</span>
+        <span>}</span>
+    <span>}</span>
+    <span>if</span> p <span>!=</span> <span>nil</span> <span>{</span>
+        <span>for</span> i <span>:=</span> <span>range</span> p<span>.</span>Inst <span>{</span>
+            p<span>.</span>Inst<span>[</span>i<span>]</span><span>.</span>Rune <span>=</span> onePassRunes<span>[</span>i<span>]</span>
+        <span>}</span>
+    <span>}</span>
+    <span>return</span> p
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>看这段代码之前，需要介绍用到的数据结构。</p>
+<div><pre><code><span>// Sparse Array implementation is used as a queueOnePass.</span>
+<span>type</span> queueOnePass <span>struct</span> <span>{</span>
+    sparse          <span>[</span><span>]</span><span>uint32</span>
+    dense           <span>[</span><span>]</span><span>uint32</span>
+    size<span>,</span> nextIndex <span>uint32</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>q <span>*</span>queueOnePass<span>)</span> <span>empty</span><span>(</span><span>)</span> <span>bool</span> <span>{</span>
+    <span>return</span> q<span>.</span>nextIndex <span>>=</span> q<span>.</span>size
+<span>}</span>
+
+<span>func</span> <span>(</span>q <span>*</span>queueOnePass<span>)</span> <span>next</span><span>(</span><span>)</span> <span>(</span>n <span>uint32</span><span>)</span> <span>{</span>
+    n <span>=</span> q<span>.</span>dense<span>[</span>q<span>.</span>nextIndex<span>]</span>
+    q<span>.</span>nextIndex<span>++</span>
+    <span>return</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>q <span>*</span>queueOnePass<span>)</span> <span>clear</span><span>(</span><span>)</span> <span>{</span>
+    q<span>.</span>size <span>=</span> <span>0</span>
+    q<span>.</span>nextIndex <span>=</span> <span>0</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>q <span>*</span>queueOnePass<span>)</span> <span>contains</span><span>(</span>u <span>uint32</span><span>)</span> <span>bool</span> <span>{</span>
+    <span>if</span> u <span>>=</span> <span>uint32</span><span>(</span><span>len</span><span>(</span>q<span>.</span>sparse<span>)</span><span>)</span> <span>{</span>
+        <span>return</span> <span>false</span>
+    <span>}</span>
+    <span>return</span> q<span>.</span>sparse<span>[</span>u<span>]</span> <span>&lt;</span> q<span>.</span>size <span>&amp;&amp;</span> q<span>.</span>dense<span>[</span>q<span>.</span>sparse<span>[</span>u<span>]</span><span>]</span> <span>==</span> u
+<span>}</span>
+
+<span>func</span> <span>(</span>q <span>*</span>queueOnePass<span>)</span> <span>insert</span><span>(</span>u <span>uint32</span><span>)</span> <span>{</span>
+    <span>if</span> <span>!</span>q<span>.</span><span>contains</span><span>(</span>u<span>)</span> <span>{</span>
+        q<span>.</span><span>insertNew</span><span>(</span>u<span>)</span>
+    <span>}</span>
+<span>}</span>
+
+<span>func</span> <span>(</span>q <span>*</span>queueOnePass<span>)</span> <span>insertNew</span><span>(</span>u <span>uint32</span><span>)</span> <span>{</span>
+    <span>if</span> u <span>>=</span> <span>uint32</span><span>(</span><span>len</span><span>(</span>q<span>.</span>sparse<span>)</span><span>)</span> <span>{</span>
+        <span>return</span>
+    <span>}</span>
+    q<span>.</span>sparse<span>[</span>u<span>]</span> <span>=</span> q<span>.</span>size
+    q<span>.</span>dense<span>[</span>q<span>.</span>size<span>]</span> <span>=</span> u
+    q<span>.</span>size<span>++</span>
+<span>}</span>
+
+<span>func</span> <span>newQueue</span><span>(</span>size <span>int</span><span>)</span> <span>(</span>q <span>*</span>queueOnePass<span>)</span> <span>{</span>
+    <span>return</span> <span>&amp;</span>queueOnePass<span>{</span>
+        sparse<span>:</span> <span>make</span><span>(</span><span>[</span><span>]</span><span>uint32</span><span>,</span> size<span>)</span><span>,</span>
+        dense<span>:</span>  <span>make</span><span>(</span><span>[</span><span>]</span><span>uint32</span><span>,</span> size<span>)</span><span>,</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br></div></div><p>用以前的例子 <code>ab|cd|ef</code> 。</p>
+<div><pre><code>instQueue:
+  size     [0]
+  nextInst [0]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    []
+
+visitQueue:
+  size     [0]
+  nextInst [0]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    []
+
+m: [false, false, false, false, false, false, false, false, false, false]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>在 <code>makeOnePass</code> 中，首先调用了 <code>insert(uint32(p.Start))</code> 。在 <code>insert()</code> 中先调用了 <code>contains()</code> 。</p>
+<p>如果 <code>p.Start</code> 大于等于 <code>sparse</code> 数组的长度，那么直接返回 <code>false</code> 。否则，会进行一个比较复杂的判断。第一次调用 <code>q.sparse[u]</code> 必定是 0 ， <code>q.size == 0</code> ，所以 <code>contains()</code> 会返回 <code>false</code> 。</p>
+<p>因此最后会调用 <code>insertNew()</code> ， <code>q.sparse[u] = 0</code> ， <code>q.dense[0] = u</code> ，然后 <code>q.size</code> 自增。</p>
+<div><pre><code>instQueue:
+  size     [1]
+  nextInst [0]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    [8]
+
+visitQueue:
+  size     [0]
+  nextInst [0]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    []
+
+m: [false, false, false, false, false, false, false, false, false, false]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>一直循环到 <code>instQueue</code> 为空。先调用 <code>visitQueue.clear()</code> ，然后调用了 <code>instQueue.next()</code> 。最后进行了 <code>check()</code> 。进入 <code>check()</code> 时，调用过一次 <code>next()</code> ，具体的调用参数是 <code>check(8, m)</code> 。</p>
+<div><pre><code>instQueue:
+  size     [1]
+  nextInst [1]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    [8]
+
+visitQueue:
+  size     [0]
+  nextInst [0]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    []
+
+m: [false, false, false, false, false, false, false, false, false, false]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><div><pre><code>    check <span>=</span> <span>func</span><span>(</span>pc <span>uint32</span><span>,</span> m <span>[</span><span>]</span><span>bool</span><span>)</span> <span>(</span>ok <span>bool</span><span>)</span> <span>{</span>
+        ok <span>=</span> <span>true</span>
+        inst <span>:=</span> <span>&amp;</span>p<span>.</span>Inst<span>[</span>pc<span>]</span>
+        <span>if</span> visitQueue<span>.</span><span>contains</span><span>(</span>pc<span>)</span> <span>{</span>
+            <span>return</span>
+        <span>}</span>
+        visitQueue<span>.</span><span>insert</span><span>(</span>pc<span>)</span>
+        <span>switch</span> inst<span>.</span>Op <span>{</span>
+        <span>case</span> syntax<span>.</span>InstAlt<span>,</span> syntax<span>.</span>InstAltMatch<span>:</span>
+            ok <span>=</span> <span>check</span><span>(</span>inst<span>.</span>Out<span>,</span> m<span>)</span> <span>&amp;&amp;</span> <span>check</span><span>(</span>inst<span>.</span>Arg<span>,</span> m<span>)</span>
+            <span>// check no-input paths to InstMatch</span>
+            matchOut <span>:=</span> m<span>[</span>inst<span>.</span>Out<span>]</span>
+            matchArg <span>:=</span> m<span>[</span>inst<span>.</span>Arg<span>]</span>
+            <span>if</span> matchOut <span>&amp;&amp;</span> matchArg <span>{</span>
+                ok <span>=</span> <span>false</span>
+                <span>break</span>
+            <span>}</span>
+            <span>// Match on empty goes in inst.Out</span>
+            <span>if</span> matchArg <span>{</span>
+                inst<span>.</span>Out<span>,</span> inst<span>.</span>Arg <span>=</span> inst<span>.</span>Arg<span>,</span> inst<span>.</span>Out
+                matchOut<span>,</span> matchArg <span>=</span> matchArg<span>,</span> matchOut
+            <span>}</span>
+            <span>if</span> matchOut <span>{</span>
+                m<span>[</span>pc<span>]</span> <span>=</span> <span>true</span>
+                inst<span>.</span>Op <span>=</span> syntax<span>.</span>InstAltMatch
+            <span>}</span>
+
+            <span>// build a dispatch operator from the two legs of the alt.</span>
+            onePassRunes<span>[</span>pc<span>]</span><span>,</span> inst<span>.</span>Next <span>=</span> <span>mergeRuneSets</span><span>(</span>
+                <span>&amp;</span>onePassRunes<span>[</span>inst<span>.</span>Out<span>]</span><span>,</span> <span>&amp;</span>onePassRunes<span>[</span>inst<span>.</span>Arg<span>]</span><span>,</span> inst<span>.</span>Out<span>,</span> inst<span>.</span>Arg<span>)</span>
+            <span>if</span> <span>len</span><span>(</span>inst<span>.</span>Next<span>)</span> <span>></span> <span>0</span> <span>&amp;&amp;</span> inst<span>.</span>Next<span>[</span><span>0</span><span>]</span> <span>==</span> mergeFailed <span>{</span>
+                ok <span>=</span> <span>false</span>
+                <span>break</span>
+            <span>}</span>
+        <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br></div></div><p>第一行会递归地检查 <code>InstAlt</code> 指令的两个分支，调用的是 <code>check(5, m)</code> 。然后会 <code>visitQueue.insert()</code> 。进入 <code>check(5, m)</code> 之前：</p>
+<div><pre><code>instQueue:
+  size     [1]
+  nextInst [1]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    [8]
+
+visitQueue:
+  size     [1]
+  nextInst [0]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    [8]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>不幸的是 <code>5</code> 号节点也是个 <code>InstAlt</code> ，还需要递归下降，这次调用的是 <code>check(1, m)</code> 。进入 <code>check(1, m)</code> 之前：</p>
+<div><pre><code>instQueue:
+  size     [1]
+  nextInst [1]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    [8]
+
+visitQueue:
+  size     [2]
+  nextInst [0]
+  sparse   [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+  dense    [8, 5]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>终于进入了 <code>check(1, m)</code> 。</p>
+<div><pre><code>        <span>case</span> syntax<span>.</span>InstRune1<span>:</span>
+            m<span>[</span>pc<span>]</span> <span>=</span> <span>false</span>
+            <span>if</span> <span>len</span><span>(</span>inst<span>.</span>Next<span>)</span> <span>></span> <span>0</span> <span>{</span>
+                <span>break</span>
+            <span>}</span>
+            instQueue<span>.</span><span>insert</span><span>(</span>inst<span>.</span>Out<span>)</span>
+            runes <span>:=</span> <span>[</span><span>]</span><span>rune</span><span>{</span><span>}</span>
+            <span>// expand case-folded runes</span>
+            <span>if</span> syntax<span>.</span><span>Flags</span><span>(</span>inst<span>.</span>Arg<span>)</span><span>&amp;</span>syntax<span>.</span>FoldCase <span>!=</span> <span>0</span> <span>{</span>
+                <span>// omitted...</span>
+            <span>}</span> <span>else</span> <span>{</span>
+                runes <span>=</span> <span>append</span><span>(</span>runes<span>,</span> inst<span>.</span>Rune<span>[</span><span>0</span><span>]</span><span>,</span> inst<span>.</span>Rune<span>[</span><span>0</span><span>]</span><span>)</span>
+            <span>}</span>
+            onePassRunes<span>[</span>pc<span>]</span> <span>=</span> runes
+            inst<span>.</span>Next <span>=</span> <span>make</span><span>(</span><span>[</span><span>]</span><span>uint32</span><span>,</span> <span>len</span><span>(</span>onePassRunes<span>[</span>pc<span>]</span><span>)</span><span>/</span><span>2</span><span>+</span><span>1</span><span>)</span>
+            <span>for</span> i <span>:=</span> <span>range</span> inst<span>.</span>Next <span>{</span>
+                inst<span>.</span>Next<span>[</span>i<span>]</span> <span>=</span> inst<span>.</span>Out
+            <span>}</span>
+            inst<span>.</span>Op <span>=</span> syntax<span>.</span>InstRune
+        <span>// to be continued...</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>执行这一段之前：</p>
+<div><pre><code>instQueue:
+  size     [1]
+  nextInst [1]
+  sparse   [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  dense    [8]
+
+visitQueue:
+  size     [3]
+  nextInst [0]
+  sparse   [0, 2, 0, 0, 0, 1, 0, 0, 0, 0]
+  dense    [8, 5, 1]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>执行完之后：</p>
+<div><pre><code>instQueue:
+  size     [2]
+  nextInst [1]
+  sparse   [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+  dense    [8, 2]
+
+visitQueue:
+  size     [3]
+  nextInst [0]
+  sparse   [0, 2, 0, 0, 0, 1, 0, 0, 0, 0]
+  dense    [8, 5, 1]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+
+Insts:
+[1] {Op: InstRune, Next: [2, 2]}
+
+Runes:
+[1] [&#39;a&#39;, &#39;a&#39;]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div><p>现在会进入 <code>5</code> 节点的另一个分支， <code>check(3, m)</code> 。这个节点也是个 <code>InstRune1</code> 类型。执行完之后：</p>
+<div><pre><code>instQueue:
+  size     [3]
+  nextInst [1]
+  sparse   [0, 0, 1, 0, 2, 0, 0, 0, 0, 0]
+  dense    [8, 2, 4]
+
+visitQueue:
+  size     [4]
+  nextInst [0]
+  sparse   [0, 2, 0, 3, 0, 1, 0, 0, 0, 0]
+  dense    [8, 5, 1, 3]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+
+Insts:
+[1] {Op: InstRune, Next: [2, 2]}
+[3] {Op: InstRune, Next: [4, 4]}
+
+Runes:
+[1] [&#39;a&#39;, &#39;a&#39;]
+[3] [&#39;c&#39;, &#39;c&#39;]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br></div></div><p>结束之后，回到了 <code>5</code> 节点。接下来的程序说明了 <code>m</code> 的作用， <code>m</code> 是 <code>match</code> 的缩写。</p>
+<div><pre><code><span>func</span> <span>mergeRuneSets</span><span>(</span>leftRunes<span>,</span> rightRunes <span>*</span><span>[</span><span>]</span><span>rune</span><span>,</span> leftPC<span>,</span> rightPC <span>uint32</span><span>)</span> <span>(</span><span>[</span><span>]</span><span>rune</span><span>,</span> <span>[</span><span>]</span><span>uint32</span><span>)</span> <span>{</span>
+    leftLen <span>:=</span> <span>len</span><span>(</span><span>*</span>leftRunes<span>)</span>
+    rightLen <span>:=</span> <span>len</span><span>(</span><span>*</span>rightRunes<span>)</span>
+    <span>if</span> leftLen<span>&amp;</span><span>0x1</span> <span>!=</span> <span>0</span> <span>||</span> rightLen<span>&amp;</span><span>0x1</span> <span>!=</span> <span>0</span> <span>{</span>
+        <span>panic</span><span>(</span><span>"mergeRuneSets odd length []rune"</span><span>)</span>
+    <span>}</span>
+    <span>var</span> <span>(</span>
+        lx<span>,</span> rx <span>int</span>
+    <span>)</span>
+    merged <span>:=</span> <span>make</span><span>(</span><span>[</span><span>]</span><span>rune</span><span>,</span> <span>0</span><span>)</span>
+    next <span>:=</span> <span>make</span><span>(</span><span>[</span><span>]</span><span>uint32</span><span>,</span> <span>0</span><span>)</span>
+    ok <span>:=</span> <span>true</span>
+    <span>defer</span> <span>func</span><span>(</span><span>)</span> <span>{</span>
+        <span>if</span> <span>!</span>ok <span>{</span>
+            merged <span>=</span> <span>nil</span>
+            next <span>=</span> <span>nil</span>
+        <span>}</span>
+    <span>}</span><span>(</span><span>)</span>
+
+    ix <span>:=</span> <span>-</span><span>1</span>
+    extend <span>:=</span> <span>func</span><span>(</span>newLow <span>*</span><span>int</span><span>,</span> newArray <span>*</span><span>[</span><span>]</span><span>rune</span><span>,</span> pc <span>uint32</span><span>)</span> <span>bool</span> <span>{</span>
+        <span>if</span> ix <span>></span> <span>0</span> <span>&amp;&amp;</span> <span>(</span><span>*</span>newArray<span>)</span><span>[</span><span>*</span>newLow<span>]</span> <span>&lt;=</span> merged<span>[</span>ix<span>]</span> <span>{</span>
+            <span>return</span> <span>false</span>
+        <span>}</span>
+        merged <span>=</span> <span>append</span><span>(</span>merged<span>,</span> <span>(</span><span>*</span>newArray<span>)</span><span>[</span><span>*</span>newLow<span>]</span><span>,</span> <span>(</span><span>*</span>newArray<span>)</span><span>[</span><span>*</span>newLow<span>+</span><span>1</span><span>]</span><span>)</span>
+        <span>*</span>newLow <span>+=</span> <span>2</span>
+        ix <span>+=</span> <span>2</span>
+        next <span>=</span> <span>append</span><span>(</span>next<span>,</span> pc<span>)</span>
+        <span>return</span> <span>true</span>
+    <span>}</span>
+
+    <span>for</span> lx <span>&lt;</span> leftLen <span>||</span> rx <span>&lt;</span> rightLen <span>{</span>
+        <span>switch</span> <span>{</span>
+        <span>case</span> rx <span>>=</span> rightLen<span>:</span>
+            ok <span>=</span> <span>extend</span><span>(</span><span>&amp;</span>lx<span>,</span> leftRunes<span>,</span> leftPC<span>)</span>
+        <span>case</span> lx <span>>=</span> leftLen<span>:</span>
+            ok <span>=</span> <span>extend</span><span>(</span><span>&amp;</span>rx<span>,</span> rightRunes<span>,</span> rightPC<span>)</span>
+        <span>case</span> <span>(</span><span>*</span>rightRunes<span>)</span><span>[</span>rx<span>]</span> <span>&lt;</span> <span>(</span><span>*</span>leftRunes<span>)</span><span>[</span>lx<span>]</span><span>:</span>
+            ok <span>=</span> <span>extend</span><span>(</span><span>&amp;</span>rx<span>,</span> rightRunes<span>,</span> rightPC<span>)</span>
+        <span>default</span><span>:</span>
+            ok <span>=</span> <span>extend</span><span>(</span><span>&amp;</span>lx<span>,</span> leftRunes<span>,</span> leftPC<span>)</span>
+        <span>}</span>
+        <span>if</span> <span>!</span>ok <span>{</span>
+            <span>return</span> noRune<span>,</span> noNext
+        <span>}</span>
+    <span>}</span>
+    <span>return</span> merged<span>,</span> next
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br></div></div><p>执行完这一段：</p>
+<div><pre><code>Insts:
+[1] {Op: InstRune, Next: [2, 2]}
+[3] {Op: InstRune, Next: [4, 4]}
+[5] {Op: InstAlt,  Next: [1, 3]}
+
+Runes:
+[1] [&#39;a&#39;, &#39;a&#39;]
+[3] [&#39;c&#39;, &#39;c&#39;]
+[5] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>越来越迷惑。返回上一层，还要去 <code>check(6, m)</code> 。执行完：</p>
+<div><pre><code>instQueue:
+  size     [4]
+  nextInst [1]
+  sparse   [0, 0, 1, 0, 2, 0, 0, 3, 0, 0]
+  dense    [8, 2, 4, 7]
+
+visitQueue:
+  size     [5]
+  nextInst [0]
+  sparse   [0, 2, 0, 3, 0, 1, 4, 0, 0, 0]
+  dense    [8, 5, 1, 3, 6]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+
+Insts:
+[1] {Op: InstRune, Next: [2, 2]}
+[3] {Op: InstRune, Next: [4, 4]}
+[5] {Op: InstAlt,  Next: [1, 3]}
+[6] {Op: InstRune, Next: [7, 7]}
+
+Runes:
+[1] [&#39;a&#39;, &#39;a&#39;]
+[3] [&#39;c&#39;, &#39;c&#39;]
+[5] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;]
+[6] [&#39;e&#39;, &#39;e&#39;]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div><p>然后回到了 <code>check(8, m)</code> 这一层。执行完：</p>
+<div><pre><code>Insts:
+[1] {Op: InstRune, Next: [2, 2]}
+[3] {Op: InstRune, Next: [4, 4]}
+[5] {Op: InstAlt,  Next: [1, 3]}
+[6] {Op: InstRune, Next: [7, 7]}
+[8] {Op: InstRune, Next: [5, 5, 6]}
+
+Runes:
+[1] [&#39;a&#39;, &#39;a&#39;]
+[3] [&#39;c&#39;, &#39;c&#39;]
+[5] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;]
+[6] [&#39;e&#39;, &#39;e&#39;]
+[8] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;, &#39;e&#39;, &#39;e&#39;]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>然后是下一个循环。这次 <code>pc</code> 等于 <code>2</code> 。刚进入 <code>check(2, m)</code> 时（由于不递归了，所以 <code>visitQueue</code> 就不写了）：</p>
+<div><pre><code>instQueue:
+  size     [4]
+  nextInst [2]
+  sparse   [0, 0, 1, 0, 2, 0, 0, 3, 0, 0]
+  dense    [8, 2, 4, 7]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>执行完：</p>
+<div><pre><code>instQueue:
+  size     [5]
+  nextInst [2]
+  sparse   [0, 0, 1, 0, 2, 0, 0, 3, 0, 4]
+  dense    [8, 2, 4, 7, 9]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+
+Insts:
+[1] {Op: InstRune, Next: [2, 2]}
+[2] {Op: InstRune, Next: [9, 9]}
+[3] {Op: InstRune, Next: [4, 4]}
+[5] {Op: InstAlt,  Next: [1, 3]}
+[6] {Op: InstRune, Next: [7, 7]}
+[8] {Op: InstRune, Next: [5, 5, 6]}
+
+Runes:
+[1] [&#39;a&#39;, &#39;a&#39;]
+[2] [&#39;b&#39;, &#39;b&#39;]
+[3] [&#39;c&#39;, &#39;c&#39;]
+[5] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;]
+[6] [&#39;e&#39;, &#39;e&#39;]
+[8] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;, &#39;e&#39;, &#39;e&#39;]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p>完了，下一个循环 <code>check(4, m)</code> 。执行完：</p>
+<div><pre><code>instQueue:
+  size     [5]
+  nextInst [3]
+  sparse   [0, 0, 1, 0, 2, 0, 0, 3, 0, 4]
+  dense    [8, 2, 4, 7, 9]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+
+Insts:
+[1] {Op: InstRune, Next: [2, 2]}
+[2] {Op: InstRune, Next: [9, 9]}
+[3] {Op: InstRune, Next: [4, 4]}
+[4] {Op: InstRune, Next: [9, 9]}
+[5] {Op: InstAlt,  Next: [1, 3]}
+[6] {Op: InstRune, Next: [7, 7]}
+[8] {Op: InstRune, Next: [5, 5, 6]}
+
+Runes:
+[1] [&#39;a&#39;, &#39;a&#39;]
+[2] [&#39;b&#39;, &#39;b&#39;]
+[3] [&#39;c&#39;, &#39;c&#39;]
+[4] [&#39;d&#39;, &#39;d&#39;]
+[5] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;]
+[6] [&#39;e&#39;, &#39;e&#39;]
+[8] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;, &#39;e&#39;, &#39;e&#39;]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div><p>完了，下一个循环 <code>check(7, m)</code> 。 执行完：</p>
+<div><pre><code>instQueue:
+  size     [5]
+  nextInst [4]
+  sparse   [0, 0, 1, 0, 2, 0, 0, 3, 0, 4]
+  dense    [8, 2, 4, 7, 9]
+
+m: [false, false, false, false, false, false, false, false, false, false]
+
+Insts:
+[1] {Op: InstRune, Next: [2, 2]}
+[2] {Op: InstRune, Next: [9, 9]}
+[3] {Op: InstRune, Next: [4, 4]}
+[4] {Op: InstRune, Next: [9, 9]}
+[5] {Op: InstAlt,  Next: [1, 3]}
+[6] {Op: InstRune, Next: [7, 7]}
+[7] {Op: InstRune, Next: [9, 9]}
+[8] {Op: InstRune, Next: [5, 5, 6]}
+
+Runes:
+[1] [&#39;a&#39;, &#39;a&#39;]
+[2] [&#39;b&#39;, &#39;b&#39;]
+[3] [&#39;c&#39;, &#39;c&#39;]
+[4] [&#39;d&#39;, &#39;d&#39;]
+[5] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;]
+[6] [&#39;e&#39;, &#39;e&#39;]
+[7] [&#39;f&#39;, &#39;f&#39;]
+[8] [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;, &#39;e&#39;, &#39;e&#39;]
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p>完了，下一个循环 <code>check(9, m)</code> 。这次没什么要执行的。</p>
+<div><pre><code>[1] {Op: InstRune,  Out: 2, Arg: 0, Rune: [&#39;a&#39;, &#39;a&#39;],                     Next: [2, 2]}
+[2] {Op: InstRune,  Out: 9, Arg: 0, Rune: [&#39;b&#39;, &#39;b&#39;],                     Next: [9, 9]}
+[3] {Op: InstRune,  Out: 4, Arg: 0, Rune: [&#39;c&#39;, &#39;c&#39;],                     Next: [4, 4]}
+[4] {Op: InstRune,  Out: 9, Arg: 0, Rune: [&#39;d&#39;, &#39;d&#39;],                     Next: [9, 9]}
+[5] {Op: InstAlt,   Out: 1, Arg: 3, Rune: [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;],           Next: [1, 3]}
+[6] {Op: InstRune,  Out: 7, Arg: 0, Rune: [&#39;e&#39;, &#39;e&#39;],                     Next: [7, 7]}
+[7] {Op: InstRune,  Out: 9, Arg: 0, Rune: [&#39;f&#39;, &#39;f&#39;],                     Next: [9, 9]}
+[8] {Op: InstAlt,   Out: 5, Arg: 6, Rune: [&#39;a&#39;, &#39;a&#39;, &#39;c&#39;, &#39;c&#39;, &#39;e&#39;, &#39;e&#39;], Next: [5, 5, 6]}
+[9] {Op: InstMatch, Out: 0, Arg: 0, Rune: [],                             Next: []}
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>最后，如果成功生成了 One-Pass 版的指令，那么还需要清理一下施工现场。</p>
+<div><pre><code><span>// cleanupOnePass drops working memory, and restores certain shortcut instructions.</span>
+<span>func</span> <span>cleanupOnePass</span><span>(</span>prog <span>*</span>onePassProg<span>,</span> original <span>*</span>syntax<span>.</span>Prog<span>)</span> <span>{</span>
+    <span>for</span> ix<span>,</span> instOriginal <span>:=</span> <span>range</span> original<span>.</span>Inst <span>{</span>
+        <span>switch</span> instOriginal<span>.</span>Op <span>{</span>
+        <span>case</span> syntax<span>.</span>InstAlt<span>,</span> syntax<span>.</span>InstAltMatch<span>,</span> syntax<span>.</span>InstRune<span>:</span>
+        <span>case</span> syntax<span>.</span>InstCapture<span>,</span> syntax<span>.</span>InstEmptyWidth<span>,</span> syntax<span>.</span>InstNop<span>,</span> syntax<span>.</span>InstMatch<span>,</span> syntax<span>.</span>InstFail<span>:</span>
+            prog<span>.</span>Inst<span>[</span>ix<span>]</span><span>.</span>Next <span>=</span> <span>nil</span>
+        <span>case</span> syntax<span>.</span>InstRune1<span>,</span> syntax<span>.</span>InstRuneAny<span>,</span> syntax<span>.</span>InstRuneAnyNotNL<span>:</span>
+            prog<span>.</span>Inst<span>[</span>ix<span>]</span><span>.</span>Next <span>=</span> <span>nil</span>
+            prog<span>.</span>Inst<span>[</span>ix<span>]</span> <span>=</span> onePassInst<span>{</span>Inst<span>:</span> instOriginal<span>}</span>
+        <span>}</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>但是在这个例子中，什么都不做。结束了。所以结果是什么？具体观察来说， <code>Rune</code> 字段和 <code>Next</code> 字段指明了当前遇到什么字符、应该前往什么状态。这是如何实现的呢？</p>
+<p>大概懂了。但是不太明白为什么 <code>InstRune</code> 的 <code>Next</code> 要多一个。不过，确实，经过了 One-Pass 处理之后， NFA 变成了 DFA 。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>算法导论11 哈希表</title>
       <link>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</link>
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论11 哈希表</source>
       <category>算法导论</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论11-哈希表"> 算法导论11 哈希表</h1>
 <p>很多应用需要一种只支持 <code>INSERT</code>、<code>SEARCH</code>、<code>DELETE</code> 即可的动态集合。<strong>哈希表</strong>（hashing table）是能够高效实现这种动态集合的数据结构，类似的动态集合通常被称为<strong>字典</strong>（dictionary）。一般认为哈希表中搜索的平均情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h2 id="_11-1-直接寻址"> 11.1 直接寻址</h2>
@@ -3068,7 +3783,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
       <guid>https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（二）</source>
       <category>编译器</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-二"> Go 的正则（二）</h1>
 <p>括号的处理还没有说完。</p>
 <h2 id="括号"> 括号</h2>
@@ -3619,7 +4334,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
       <guid>https://flyginger.top/post/2021-06-16%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%94%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（五）</source>
       <category>编译器</category>
-      <pubDate>Wed, 16 Jun 2021 14:18:17 GMT</pubDate>
+      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-五"> Go 的正则（五）</h1>
 <p>回到 <code>compile()</code> 函数，前面好多篇其实只是第一行。</p>
 <div><pre><code><span>func</span> <span>compile</span><span>(</span>expr <span>string</span><span>,</span> mode syntax<span>.</span>Flags<span>,</span> longest <span>bool</span><span>)</span> <span>(</span><span>*</span>Regexp<span>,</span> <span>error</span><span>)</span> <span>{</span>
