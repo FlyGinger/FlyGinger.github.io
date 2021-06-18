@@ -6,8 +6,8 @@
     <link>https://flyginger.top/</link>
     <description>zenk's blog</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 17 Jun 2021 08:06:29 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Jun 2021 08:06:29 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Jun 2021 07:13:51 GMT</pubDate>
+    <lastBuildDate>Fri, 18 Jun 2021 07:13:51 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by zenk</copyright>
@@ -19,7 +19,7 @@
       <link>https://flyginger.top/intro/</link>
       <guid>https://flyginger.top/intro/</guid>
       <source url="https://flyginger.top/rss.xml">个人介绍</source>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="个人介绍"> 个人介绍</h1>
 <p>hidden now.</p>
 ]]></content:encoded>
@@ -30,7 +30,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/1%20%E7%AE%97%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论1 算法的概念</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论1-算法的概念"> 算法导论1 算法的概念</h1>
 <p>通俗地讲，<strong>算法</strong>（algorithm）是以值或一组值作为<strong>输入</strong>（input），<strong>输出</strong>（output）值或一组值的计算步骤，也可以把算法看作解决<strong>计算问题</strong>（computational problem）的工具。举例来说，<strong>排序问题</strong>（sorting problem）的规范定义是：</p>
 <blockquote>
@@ -51,7 +51,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/10%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论10 基础数据结构</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论10-基础数据结构"> 算法导论10 基础数据结构</h1>
 <p>集合是数学和计算机科学中常用的概念。算法中的集合往往是<strong>动态</strong>（dynamic）的：算法经常对集合进行添加新数据，删除旧数据等操作。某些动态集合把元素的某一个属性当作<strong>键</strong>（key），用以区分不同的元素。元素中除了键的其他数据称为<strong>卫星数据</strong>（satellite data）。</p>
 <p>对动态集合进行的操作可以分为两大类：<strong>查询</strong>（query）和<strong>修改</strong>（modify）。下面列出了典型的操作，大部分算法中只会用到其中的几种：</p>
@@ -145,7 +145,7 @@
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/3%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A2%9E%E9%95%BF/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论3 函数的增长</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论3-函数的增长"> 算法导论3 函数的增长</h1>
 <p>算法的<strong>渐近</strong>（asymptotic）效率关注的是算法的运行时间如何随着输入规模的增长而增长。本章介绍了分析渐近效率时使用的数学符号和定义，并且给出了一些常用函数之间的渐近效率关系。</p>
 <h2 id="_3-1-渐近符号"> 3.1 渐近符号</h2>
@@ -276,7 +276,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/5%20%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90%E5%92%8C%E9%9A%8F%E6%9C%BA%E7%AE%97%E6%B3%95/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论5 概率分析和随机算法</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论5-概率分析和随机算法"> 算法导论5 概率分析和随机算法</h1>
 <h2 id="_5-1-招聘问题"> 5.1 招聘问题</h2>
 <p>假设你要雇佣新员工。每次你可以花费少量资金，面试一个应聘者。该应聘者的能力是随机的，如果你决定雇佣他，你需要花费一大笔钱。只有当你决定是否雇佣此应聘者之后，你才能面试下一个应聘者。你的策略如下：如果应聘者的能力比上一个被雇佣的应聘者优秀（当没有上一个时直接雇佣），那么雇佣该应聘者；否则就不雇佣该应聘者，继续面试。这种策略的伪代码如下：</p>
@@ -371,7 +371,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/7%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论7 快速排序</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论7-快速排序"> 算法导论7 快速排序</h1>
 <p><strong>快速排序</strong>（quicksort）的最坏情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span><span>n</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>)</span></span></span></span>。虽然如此，快速排序在实际场景中经常是表现最好的，它的期望运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Θ</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，并且隐含的常数相对小。另外，快速排序还有原地排序的优点。</p>
 <h2 id="_7-1-快速排序"> 7.1 快速排序</h2>
@@ -462,7 +462,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/8%20%E7%BA%BF%E6%80%A7%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论8 线性时间排序</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论8-线性时间排序"> 算法导论8 线性时间排序</h1>
 <p>前几章中提到的几种排序方法，例如插入排序、归并排序、堆排序和快速排序，有一个共同点：顺序判断仅基于元素间的比较。这类排序算法称为<strong>比较排序</strong>（comparsion sort）。</p>
 <p>接下来会先证明比较排序算法都是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>Ω</span><span>(</span><span>n</span><span style="margin-right:0.16666666666666666em;"></span><span>l<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>)</span></span></span></span>，然后给出几个可以在线性时间内排序的算法。</p>
@@ -594,7 +594,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</link>
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论</source>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论"> 算法导论</h1>
 <ul>
 <li>I 基础概念
@@ -629,7 +629,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E9%9B%B6%EF%BC%89%E7%B4%A2%E5%BC%95/</link>
       <guid>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E9%9B%B6%EF%BC%89%E7%B4%A2%E5%BC%95/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则</source>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则"> Go 的正则</h1>
 <p>由于本系列大部分内容是读代码的随笔，所以这里列一个索引。建议只看总结篇。如果实现很闲，也可以都看看。</p>
 <ol>
@@ -640,9 +640,10 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
 <li><a href="./2021-06-13 Go 的正则（三）.html">Go 的正则（三）</a></li>
 </ol>
 </li>
-<li>总结篇还没写
+<li><a href="./2021-06-18 Go 的正则（七）总结篇.html">从语法树到状态机</a>
 <ol>
 <li><a href="./2021-06-16 Go 的正则（五）.html">Go 的正则（五）</a></li>
+<li><a href="./2021-06-17 Go 的正则（六）.html">Go 的正则（六）</a></li>
 </ol>
 </li>
 </ol>
@@ -653,7 +654,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <link>https://flyginger.top/</link>
       <guid>https://flyginger.top/</guid>
       <source url="https://flyginger.top/rss.xml">zenk's blog</source>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
     </item>
     <item>
       <title>算法导论12 二叉搜索树</title>
@@ -661,7 +662,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/12%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论12 二叉搜索树</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论12-二叉搜索树"> 算法导论12 二叉搜索树</h1>
 <h2 id="_12-1-二叉搜索树"> 12.1 二叉搜索树</h2>
 <p>以下是两棵二叉搜索树：</p>
@@ -845,7 +846,7 @@ TREE-MAXIMUM(x)
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/2%20%E8%AE%BE%E8%AE%A1%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论2 设计算法的流程</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论2-设计算法的流程"> 算法导论2 设计算法的流程</h1>
 <p>设计、证明、分析是处理计算问题的基本步骤。本章以排序问题为例，遍历了这三个基本步骤。首先给出了一个算法（插入排序），证明了它的正确性，分析了它的运行时间。然后使用另一种设计思想（分治）设计了另一种算法（归并排序），同样证明了它的正确性，分析了它的运行时间。</p>
 <h2 id="_2-1-插入排序"> 2.1 插入排序</h2>
@@ -1046,7 +1047,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/4%20%E5%88%86%E6%B2%BB/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论4 分治</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论4-分治"> 算法导论4 分治</h1>
 <p><strong>递推式</strong>（recurrence）是使用更小输入的项来描述当前项的等式或不等式。本章提供了三种求解递推式的方法，分别是<strong>替换法</strong>（substitution method），<strong>递归树法</strong>（recursion-tree method），<strong>主方法</strong>（master method）。</p>
 <h2 id="_4-1-最大子数组问题"> 4.1 最大子数组问题</h2>
@@ -1196,7 +1197,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/6%20%E5%A0%86%E6%8E%92%E5%BA%8F/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论6 堆排序</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论6-堆排序"> 算法导论6 堆排序</h1>
 <h2 id="_6-1-堆"> 6.1 堆</h2>
 <p><strong>二叉堆</strong>（binary heap）是一种可以看成完全二叉树的数组，一般简称为堆。满二叉树是满足以下两个条件的二叉树：</p>
@@ -1351,7 +1352,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/9%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E5%92%8C%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论9 中位数和顺序统计</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论9-中位数和顺序统计"> 算法导论9 中位数和顺序统计</h1>
 <p>第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 位顺序统计是指 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个元素的集合中第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span> 小的元素。那么元素集合的<strong>最小值</strong>（minimum）就是第一个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>），<strong>最大值</strong>（maximum）就是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 个顺序统计（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>）。</p>
 <p><strong>中位数</strong>（median）是集合中位于“中间”的元素。当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为奇数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span></span></span></span> 个顺序统计；当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span> 为偶数时，中位数是第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span></span></span></span> 和第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>/2</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span> 两个顺序统计的平均数。通常把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌊(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌋</span></span></span></span> 称为<strong>下中位数</strong>（lower median），把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈(</span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>/2</span><span>⌉</span></span></span></span> 称为<strong>上中位数</strong>（upper median）。为简化描述，下文中的中位数均指下中位数。</p>
@@ -1432,7 +1433,7 @@ lg n   cn/4  cn/4  cn/4  cn/4 -----&gt; cn
       <guid>https://flyginger.top/post/2021-05-19%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%BC%98%E5%8C%96/</guid>
       <source url="https://flyginger.top/rss.xml">快速排序的优化</source>
       <category>每日迷惑</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="快速排序的优化"> 快速排序的优化</h1>
 <p>在对快速排序进行优化之前，回忆一下部分基于比较的排序算法的时间复杂度。</p>
 <table>
@@ -1641,7 +1642,7 @@ BenchmarkGoSort-8              9        1197205511 ns/op
       <guid>https://flyginger.top/post/2021-05-22%20PyNN/</guid>
       <source url="https://flyginger.top/rss.xml">PyNN</source>
       <category>每日迷惑</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="pynn"> PyNN</h1>
 <p><a href="http://neuralensemble.org/PyNN/" target="_blank" rel="noopener noreferrer">PyNN</a>（发音与 pine 相同）是一种用于构建神经网络模型的语言，且独立于模拟器。使用 PyNN 的 API 和 Python 编程语言编写的模型代码，无需修改即可运行于多种 PyNN 支持的模拟器后端或者神经拟态（neuronmorphic）硬件系统。</p>
 <h2 id="安装"> 安装</h2>
@@ -1924,7 +1925,7 @@ array<span>(</span><span>[</span><span>[</span>  nan<span>,</span>   nan<span>,<
       <guid>https://flyginger.top/post/2021-06-13%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（一）</source>
       <category>编译器</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-一"> Go 的正则（一）</h1>
 <p>今天想研究一下 Go 的正则包是怎么实现的，看看能不能写一个效率高一些的 tokenizer 。正则包收到正则表达式后，一般首先会对其进行一些处理。 Go 的正则包，据我所知是 <code>re2</code> ，使用的是传统的 NFA/DFA 技术。因此，正则表达式应该会被转换成一个状态机。</p>
 <div><p>提示</p>
@@ -2172,7 +2173,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
       <guid>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%89%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（三）</source>
       <category>编译器</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-三"> Go 的正则（三）</h1>
 <p>括号的处理还没有说完……</p>
 <h2 id="括号"> 括号</h2>
@@ -2573,12 +2574,313 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>Go 的正则（七）总结篇</title>
+      <link>https://flyginger.top/post/2021-06-18%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%83%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/</link>
+      <guid>https://flyginger.top/post/2021-06-18%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%B8%83%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/</guid>
+      <source url="https://flyginger.top/rss.xml">Go 的正则（七）总结篇</source>
+      <category>编译器</category>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="go-的正则-七-总结篇"> Go 的正则（七）总结篇</h1>
+<p>上一个总结篇中，介绍了正则表达式如何变成一个语法树。本篇中主要介绍如何根据语法树生成状态机。</p>
+<p>每一个状态对应一个指令。不同的指令可能有不同的操作。由于 Go 的实现中用了很多魔法，就不介绍具体的数据结构了。</p>
+<div><pre><code><span>// It's kind of sleazy, but works well in practice.</span>
+<span>// Go 源码：这有点恶心，但是很好用。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>所有的指令放在一个数组中，新增加的指令只会附加在链表的最后。为了便于行文，还是引入一种假设的抽象数据结构用于描述指令。</p>
+<div><pre><code>Inst:
+  Op   // 指令类型
+  Next // 该指令后面的下一条指令
+  Rune // 用于字面量类，指令匹配的字符
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>语法树是一种树形结构，容易想到语法树到状态机的转换可以使用递归形式的算法。但是指令全部存放在一个“全局”的数组中，所以 caller 需要 callee 返回一些信息，以便于把多段指令连接起来。这个数据结构就是 <code>frag</code> 。</p>
+<div><pre><code>frag:
+  start    // 第一条指令的位置
+  ll_start // 链表头的位置
+  ll_end   // 链表尾的位置
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>关于链表是什么，暂时先不描述。在转换的一开始，指令数组中就插入了一条指令：</p>
+<div><pre><code>index | Op      | Next | Rune
+------+---------+------+------
+[0]    InstFail  -      -
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><code>InstFail</code> 是一条返回失败结果的指令。当状态机运行到这个状态时，说明不匹配。</p>
+<h2 id="字面量和字符类"> 字面量和字符类</h2>
+<p>类型为 <code>OpLiteral</code> 、 <code>OpCharClass</code> 、 <code>OpAnyCharNotNL</code> 、 <code>OpAnyChar</code> 的节点转换起来最为简单。</p>
+<p>每个指令只匹配一个字符，所以一共有 4 种对应的指令。第一种是 <code>InstRune1</code> ，匹配一个字符。 <code>OpLiteral</code> 类型的字面量会按字符分割成对应数量的指令。</p>
+<div><pre><code>OpLiteral: &quot;abc&quot;
+
+Inst: InstRune1, &#39;a&#39;
+Inst: InstRune1, &#39;b&#39;
+Inst: InstRune1, &#39;c&#39;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>其他三种指令分别与节点类型构成对应关系： <code>OpCharClass</code> 变为 <code>InstRune</code> ， <code>OpAnyCharNotNL</code> 变为 <code>InstAnyCharNotNL</code> ， <code>OpAnyChar</code> 变为 <code>InstAnyChar</code> 。</p>
+<h2 id="连接"> 连接</h2>
+<p>类型为 <code>OpConcat</code> 的节点的子节点产生的指令需要被连接起来。另外， <code>OpLiteral</code> 类型的节点，如果产生的指令数量大于 1 ，那么也需要被连接起来。接下来以正则表达式 <code>ab</code> 为例。</p>
+<p>首次插入了字符 <code>a</code> 。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  -      &#39;a&#39;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>负责插入 <code>a</code> 的方法会返回一个 <code>frag</code> ，用于描述插入的指令片段的相关信息。</p>
+<div><pre><code>frag_a:
+  start:    1
+  ll_start: 1
+  ll_end:   1
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><code>frag</code> 的 <code>start</code> 指令，指向该片段的第一条指令，也就是入口。而 <code>ll_</code> 开头的字段描述的是一个链表。链表中保存的是这段指令的所有出口。显然， <code>InstRune1</code> 类型的指令只会有一个出口。</p>
+<p>然后 <code>b</code> 被插入到数组中。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  -      &#39;a&#39;
+[2]    InstRune1  -      &#39;b&#39;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>与 <code>b</code> 相关的 <code>frag</code> 是：</p>
+<div><pre><code>frag_b:
+  start:    2
+  ll_start: 2
+  ll_end:   2
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>显然 <code>frag_a</code> 的所有出口都要连接到 <code>frag_b</code> 的入口。伪代码如下：</p>
+<div><pre><code>target = frag_b.start
+
+ptr = frag_a.ll_start
+while ptr != 0:
+  inst = Inst[ptr]
+  ptr = inst.Next
+  inst.Next = target
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p><code>target</code> 就是 <code>b</code> 的入口。前面已经提到， <code>ll</code> 指的是链表。所以使用循环变量 <code>ptr</code> ，初始时指向链表头 <code>frag_a.ll_start</code> 。该链表也是通过 <code>Inst</code> 的 <code>Next</code> 字段连接的。所以一边令 <code>ptr</code> 指向下一个位置，一边把当前指令的 <code>Next</code> 修改为 <code>target</code> 。</p>
+<p>合并完成后，数组变为：</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  -      &#39;b&#39;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>返回的 <code>frag</code> 是：</p>
+<div><pre><code>frag:
+  start:    1
+  ll_start: 2
+  ll_end:   2
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>如果后面再插入 <code>c</code> ，那么：</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  3      &#39;b&#39;
+[3]    InstRune1  -      &#39;c&#39;
+
+frag:
+  start:    1
+  ll_start: 3
+  ll_end:   3
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>连接操作是比较简单的。</p>
+<h2 id="选择"> 选择</h2>
+<p>类型为 <code>OpAlternate</code> 的节点的子节点产生的指令需要被选择起来。还是用例子来讲解，比如 <code>ab|cd|ef</code> 。</p>
+<p>该 <code>OpAlternate</code> 有三个子节点，分别是 <code>ab</code> 、 <code>cd</code> 和 <code>ef</code> 。首先是 <code>ab</code> ，这正好是中使用的例子，其结果是：</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  -      &#39;b&#39;
+
+frag_1:
+  start:    1
+  ll_start: 2
+  ll_end:   2
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>接下来递归地处理第二个子节点 <code>cd</code> ：</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  -      &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  -      &#39;d&#39;
+
+frag_2:
+  start:    3
+  ll_start: 4
+  ll_end:   4
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p>这时候有了两个分支，需要聚合一下。注意在指令系统中，除了 <code>InstAlt</code> 之外的所有指令都只有一个出口 <code>Next</code> ，而 <code>InstAlt</code> 可以有两个出口。</p>
+<p>在把 <code>frag_1</code> 和 <code>frag_2</code> 选择到一起时，一个 <code>InstAlt</code> 指令将先被插入数组，其两个出口分别是 <code>ab</code> 和 <code>cd</code> 这两个分支。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  -      &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  -      &#39;d&#39;
+[5]    InstAlt    1, 3   -
+
+frag_alt_1:
+  start: 5
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>注意 <code>frag_alt_1</code> 的出口还没有写好。显然， <code>frag_alt_1</code> 的出口等于 <code>frag_1</code> 的所有出口和 <code>frag_2</code> 的所有出口构成的集合。此时，只需要把对应的两个链表连接起来即可。</p>
+<p><code>frag_1</code> 的链表结束位置 <code>ll_end</code> 是 2 ，而 <code>frag_2</code> 的链表开始位置是 <code>ll_start</code> 是 4 。因此让 <code>Inst[frag_1.ll_end].Next = frag_2.ll_head</code> 即可。最后，把新链表的头尾信息保存到 <code>frag_alt_1</code> 中。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  (4)    &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  -      &#39;d&#39;
+[5]    InstAlt    1, 3   -
+
+frag_alt_1:
+  start:    5
+  ll_start: 2
+  ll_end:   4
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><code>(4)</code> 表示这不是真的下一条指令，而是一个链表。链表上的所有指令，都是处于同一个层次的出口，这些出口需要被写上真正的出口索引。接下来，进入了第三个子节点 <code>ef</code> 。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  (4)    &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  -      &#39;d&#39;
+[5]    InstAlt    1, 3   -
+[6]    InstRune1  7      &#39;e&#39;
+[7]    InstRune1  -      &#39;f&#39;
+
+frag_3:
+  start:    6
+  ll_start: 7
+  ll_end:   7
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br></div></div><p>然后 <code>frag_alt_1</code> 将会和 <code>frag_3</code> 选择到一起。还是先插入 <code>InstAlt</code> 指令，然后连接链表。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  (4)    &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  (7)    &#39;d&#39;
+[5]    InstAlt    1, 3   -
+[6]    InstRune1  7      &#39;e&#39;
+[7]    InstRune1  -      &#39;f&#39;
+[8]    InstAlt    5, 6   -
+
+frag_alt_2:
+  start:    8
+  ll_start: 2
+  ll_end:   7
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><p>那么整个树就处理完了。处理完整个语法树后，转换程序会插入一个 <code>InstMatch</code> 指令，代表匹配成功，然后把剩余的出口都连接到它。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  9      &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  9      &#39;d&#39;
+[5]    InstAlt    1, 3   -
+[6]    InstRune1  7      &#39;e&#39;
+[7]    InstRune1  9      &#39;f&#39;
+[8]    InstAlt    5, 6   -
+[9]    InstMatch  -      -
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p>这样，语法树就转换成了指令数组，也就是状态机（NFA）。</p>
+<h2 id="重复"> 重复</h2>
+<p>重复有三种， <code>x*</code> 、 <code>x+</code> 、 <code>x?</code> 。还有一个特殊一点的， <code>x{m,n}</code> ，在处理语法树的节点会被优化成以上三种重复。</p>
+<ol>
+<li>至少重复 <code>m</code> 次： <code>x{m,}</code> 类型的重复，会被改写成 <code>xxx...xxx*</code> 形式。</li>
+<li>至多重复 <code>n</code> 次： <code>x{n}</code> 类型的重复，会被改写成 <code>x(x(x(...)?)?)?</code> 形式。</li>
+<li>同时有至少和至多的条件： <code>x{m,n}</code> 类型的重复，会被改写成 <code>xxx...xxx(x(x(...)?)?)?</code> 形式。</li>
+</ol>
+<p>所以只需要解决 <code>x*</code> 、 <code>x+</code> 、 <code>x?</code> 这三种形式就行了。在这三种形式中，全都是先把需要重复的部分先进行转换。我们还是以 <code>ab|cd|ef</code> 作为例子，分别是 <code>(ab|cd|ef)*</code> 、 <code>(ab|cd|ef)+</code> 、 <code>(ab|cd|ef)?</code> 。子表达式 <code>ab|cd|ef</code> 处理完之后：</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  (4)    &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  (7)    &#39;d&#39;
+[5]    InstAlt    1, 3   -
+[6]    InstRune1  7      &#39;e&#39;
+[7]    InstRune1  -      &#39;f&#39;
+[8]    InstAlt    5, 6   -
+
+frag:
+  start:    8
+  ll_start: 2
+  ll_end:   7
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><p><code>*</code> 很简单，插入一个 <code>InstAlt</code> 指令，一个出口指向 <code>frag</code> 的入口，另一个出口留着返回给 <code>caller</code> 。另外， <code>frag</code> 的出口需要被连接到 <code>InstAlt</code> 的入口。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  9      &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  9      &#39;d&#39;
+[5]    InstAlt    1, 3   -
+[6]    InstRune1  7      &#39;e&#39;
+[7]    InstRune1  9      &#39;f&#39;
+[8]    InstAlt    5, 6   -
+[9]    InstAlt    -, 8   -
+
+frag:
+  start:    9
+  ll_start: 9
+  ll_end:   9
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p><code>+</code> 更简单了，和 <code>*</code> 几乎一样，只是返回 <code>frag</code> 不同而已。在 <code>+</code> 中， <code>frag.start</code> 是需要被重复的子表达式的入口，因此子表达式必须先被匹配一次，才能到达新插入的 <code>InstAlt</code> 。</p>
+<div><pre><code>frag:
+  start:    8
+  ll_start: 9
+  ll_end:   9
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><code>?</code> 也很简单，和 <code>*</code> 几乎一样，只是返回 <code>frag</code> 不同而已。在 <code>?</code> 中，子表达式的出口不需要被连接到 <code>InstAlt</code> 的入口，而是和 <code>InstAlt</code> 的一个出口放到一起，返回给 caller 。 <code>InstAlt</code> 的另一个出口还是会连接到子表达式的入口。</p>
+<div><pre><code>index | Op       | Next | Rune
+------+----------+------+------
+[0]    InstFail   -      -
+[1]    InstRune1  2      &#39;a&#39;
+[2]    InstRune1  (4)    &#39;b&#39;
+[3]    InstRune1  4      &#39;c&#39;
+[4]    InstRune1  (7)    &#39;d&#39;
+[5]    InstAlt    1, 3   -
+[6]    InstRune1  7      &#39;e&#39;
+[7]    InstRune1  (9)    &#39;f&#39;
+[8]    InstAlt    5, 6   -
+[9]    InstAlt    -, 8   -
+
+frag:
+  start:    9
+  ll_start: 2
+  ll_end:   9
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><h2 id="最后"> 最后</h2>
+<p>最后 NFA 生成了，现在还有几个问题。第一，在 tokenizer 中，不恰当的 token 定义会导致 tokenizer 每次产生 token 都要扫描全部输入。举个例子来说：</p>
+<div><pre><code>a*b { return 0; }
+a   { return 1; }
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>此时如果输入是大量的 <code>a</code> ，比如说十万个 <code>a</code> ：</p>
+<div><pre><code>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+...
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><code>a*b</code> 只有在扫描完整个文件之后，才会得到明确的 reject 结果，导致 tokenizer 的性能大幅降低。</p>
+<p>这是 tokenizer 的问题。在正则中，匹配不一定是从文本开头起始的。比如 <code>aaab</code> 可以匹配到 <code>aabaabaabaaabaabaabaab</code> 之中的某一部分，这些都是怎么实现的呢？</p>
+<p>就看状态机是如何被模拟的了。</p>
+<p>这个总结篇也略去了一些细节。比如生成状态机时，还会调用一些函数，试图生成 One-Pass 属性的指令数组，这类指令数组具有 DFA 的性质，能够消除 NFA 中的歧义性。但是值得被转化为 DFA 的正则表达式不多，首先，它必须是 <code>^...$</code> 形式的；其次，指令数量不能超过 1000 条，不然就不值得转换了。</p>
+<p>消除 NFA 中的歧义性的方法是构造各个分支的 First 集合。一般来说很难成功，例如 <code>ab|ac</code> 这样的正则表达式，由于两个分支都是 <code>a</code> 开头，那么遇到 <code>a</code> 时根本不知道选择哪一个分支。</p>
+<p>总而言之，这一篇结束了，下一个总结篇应该是如何模拟状态机运行了。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Go 的正则（四）总结篇</title>
       <link>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%9B%9B%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/</link>
       <guid>https://flyginger.top/post/2021-06-15%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%9B%9B%EF%BC%89%E6%80%BB%E7%BB%93%E7%AF%87/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（四）总结篇</source>
       <category>编译器</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-四-总结篇"> Go 的正则（四）总结篇</h1>
 <p>想要判断正则表达式能否匹配某个字符串，首先要理解正则表达式的含义。这就需要解析正则表达式，构造一个等价的语法树，并在构造过程中尽可能地进行优化。</p>
 <p>这个总结篇总结了以下三篇随笔。这三篇不建议看，都是读代码时随手写的。</p>
@@ -2828,7 +3130,7 @@ p<span>.</span><span>literal</span><span>(</span>c<span>)</span>
       <guid>https://flyginger.top/post/2021-06-17%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E5%85%AD%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（六）</source>
       <category>编译器</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-六"> Go 的正则（六）</h1>
 <p>上次竟然没说完。</p>
 <div><pre><code><span>func</span> <span>Compile</span><span>(</span>re <span>*</span>Regexp<span>)</span> <span>(</span><span>*</span>Prog<span>,</span> <span>error</span><span>)</span> <span>{</span>
@@ -3543,7 +3845,7 @@ Runes:
       <guid>https://flyginger.top/note/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/doc/11%20%E5%93%88%E5%B8%8C%E8%A1%A8/</guid>
       <source url="https://flyginger.top/rss.xml">算法导论11 哈希表</source>
       <category>算法导论</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="算法导论11-哈希表"> 算法导论11 哈希表</h1>
 <p>很多应用需要一种只支持 <code>INSERT</code>、<code>SEARCH</code>、<code>DELETE</code> 即可的动态集合。<strong>哈希表</strong>（hashing table）是能够高效实现这种动态集合的数据结构，类似的动态集合通常被称为<strong>字典</strong>（dictionary）。一般认为哈希表中搜索的平均情况运行时间是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h2 id="_11-1-直接寻址"> 11.1 直接寻址</h2>
@@ -3783,7 +4085,7 @@ Runes:
       <guid>https://flyginger.top/post/2021-06-14%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%8C%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（二）</source>
       <category>编译器</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-二"> Go 的正则（二）</h1>
 <p>括号的处理还没有说完。</p>
 <h2 id="括号"> 括号</h2>
@@ -4334,7 +4636,7 @@ Runes:
       <guid>https://flyginger.top/post/2021-06-16%20Go%20%E7%9A%84%E6%AD%A3%E5%88%99%EF%BC%88%E4%BA%94%EF%BC%89/</guid>
       <source url="https://flyginger.top/rss.xml">Go 的正则（五）</source>
       <category>编译器</category>
-      <pubDate>Thu, 17 Jun 2021 08:05:04 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2021 07:12:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="go-的正则-五"> Go 的正则（五）</h1>
 <p>回到 <code>compile()</code> 函数，前面好多篇其实只是第一行。</p>
 <div><pre><code><span>func</span> <span>compile</span><span>(</span>expr <span>string</span><span>,</span> mode syntax<span>.</span>Flags<span>,</span> longest <span>bool</span><span>)</span> <span>(</span><span>*</span>Regexp<span>,</span> <span>error</span><span>)</span> <span>{</span>
